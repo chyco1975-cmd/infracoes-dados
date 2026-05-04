@@ -1,0 +1,14 @@
+[
+  {
+    "categoria": "Manobras",
+    "descricao": "Início da marcha sem assinalar com antecedência",
+    "coima": 60,
+    "codigo": "2.86.012.01.01"
+  },
+  {
+    "categoria": "Rotundas",
+    "descricao": "Saída de rotunda sem aproximação à direita",
+    "coima": 60,
+    "codigo": "2.86.014.05.03"
+  }
+]
