@@ -11,11 +11,4 @@
     "coima": 60,
     "codigo": "2.86.014.05.03"
   }
-  {
-  "categoria": "Prioridade",
-  "descricao": "Desobediência ao sinal B1 (não ceder prioridade)",
-  "coima": 120,
-  "codigo": "2.89.021.01.01",
-  "sinal": "B1"
-}
 ]
