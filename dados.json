@@ -2,1297 +2,1297 @@
   {
     "categoria": "ATOS DO CONDUTOR",
     "descricao": "Prática de atos que impeçam/embaracem/comprometam a segurança",
-    "coima": "60",
-    "codigo": "1.86.003.02.01"
+    "codigo": "1.86.003.02.01",
+    "coima": "60"
   },
   {
     "categoria": "ATOS DO CONDUTOR",
     "descricao": "Prática de atos com intuito de impedir a circulação de veículos a motor",
-    "coima": "300",
-    "codigo": "1.86.003.04.01"
+    "codigo": "1.86.003.04.01",
+    "coima": "300"
   },
   {
     "categoria": "ATOS DO CONDUTOR",
     "descricao": "Desobediência a ordem legítima do agente de autoridade",
-    "coima": "120",
-    "codigo": "1.86.004.01.01"
+    "codigo": "1.86.004.01.01",
+    "coima": "120"
   },
   {
     "categoria": "ATOS DO CONDUTOR",
     "descricao": "Desobediência à ordem legítima de parar imposta pelo agente",
-    "coima": "500",
-    "codigo": "3.86.004.03.01"
+    "codigo": "3.86.004.03.01",
+    "coima": "500"
   },
   {
     "categoria": "OBRAS NA VIA PÚBLICA",
     "descricao": "Obras na via pública sem autorização da entidade competente ou sem aplicação local de sinalização temporária e identificação de obstáculos",
-    "coima": "700",
-    "codigo": "1.86.008.01.01"
+    "codigo": "1.86.008.01.01",
+    "coima": "700"
   },
   {
     "categoria": "OBRAS NA VIA PÚBLICA",
     "descricao": "Realizar obras na via pública sem cumprir os condicionalismos impostos pela autorização concedida",
-    "coima": "700",
-    "codigo": "1.86.008.02.01"
+    "codigo": "1.86.008.02.01",
+    "coima": "700"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Início da marcha sem assinalar com antecedência a intenção",
-    "coima": "60",
-    "codigo": "2.86.012.01.01"
+    "codigo": "2.86.012.01.01",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Retoma da marcha sem assinalar com antecedência essa intenção",
-    "coima": "60",
-    "codigo": "1.86.012.01.03"
+    "codigo": "1.86.012.01.03",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Veículo a transitar em sentido oposto ao legalmente estabelecido",
-    "coima": "250",
-    "codigo": "2.86.013.05.01"
+    "codigo": "2.86.013.05.01",
+    "coima": "250"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Mudança de via de trânsito, dentro de localidade, sem ser para mudança de direção, ultrapassagem, paragem ou estacionamento",
-    "coima": "60",
-    "codigo": "2.86.014.02.03"
+    "codigo": "2.86.014.02.03",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "ROTUNDA - Ocupação de uma das vias sem ser a via da direita saindo da rotunda na primeira via de saída",
-    "coima": "60",
-    "codigo": "2.86.014.05.01"
+    "codigo": "2.86.014.05.01",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "ROTUNDA - Ocupação da via de trânsito mais à direita, não saindo na via de saída imediatamente a seguir",
-    "coima": "60",
-    "codigo": "2.86.014.05.02"
+    "codigo": "2.86.014.05.02",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "ROTUNDA - Saída de rotunda sem que o condutor aproxime progressivamente o veículo da via de trânsito mais à direita",
-    "coima": "60",
-    "codigo": "2.86.014.05.03"
+    "codigo": "2.86.014.05.03",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "ROTUNDA - Automóveis pesados/veloc. a circular na rotunda ocupando a via de trânsito mais à direita não facultando a saída ao condutor que pretende ocupar a via de trânsito mais à direita para sair da rotunda",
-    "coima": "60",
-    "codigo": "1.86.014.06.03"
+    "codigo": "1.86.014.06.03",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Utilização de berma ou passeio sem que o acesso ao prédio o exija",
-    "coima": "60",
-    "codigo": "1.86.017.01.01"
+    "codigo": "1.86.017.01.01",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Circulação no passeio por condutor de velocípede ou outro equipamento com motor elétrico sem que o acesso ao prédio o exija",
-    "coima": "30",
-    "codigo": "1.86.017.01.02"
+    "codigo": "1.86.017.01.02",
+    "coima": "30"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Desrespeito da distância de segurança em relação ao veículo da frente",
-    "coima": "60",
-    "codigo": "2.86.018.01.01"
+    "codigo": "2.86.018.01.01",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Desrespeito da distância lateral suficiente para evitar acidentes",
-    "coima": "60",
-    "codigo": "2.86.018.02.01"
+    "codigo": "2.86.018.02.01",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Desrespeito da distância de 1,5m a velocípede",
-    "coima": "60",
-    "codigo": "2.86.018.03.01"
+    "codigo": "2.86.018.03.01",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Não abrandar ou parar para dar saída de transporte público da paragem",
-    "coima": "60",
-    "codigo": "1.86.020.01.01"
+    "codigo": "1.86.020.01.01",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Não sinalização, com a necessária antecedência de reduzir, estacionar ou mudar de direção",
-    "coima": "60",
-    "codigo": "1.86.021.01.01"
+    "codigo": "1.86.021.01.01",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Não sinalização do início de manobra de mudança de direção, mudança de via, ultrapassagem ou inversão do sentido de marcha",
-    "coima": "60",
-    "codigo": "1.86.021.02.01"
+    "codigo": "1.86.021.02.01",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Condução mantendo a sinalização da manobra após a conclusão",
-    "coima": "60",
-    "codigo": "1.86.021.02.02"
+    "codigo": "1.86.021.02.02",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Utilização de sinal sonoro, não se verificando situação de perigo iminente",
-    "coima": "60",
-    "codigo": "1.86.022.02.01"
+    "codigo": "1.86.022.02.01",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Utilização de sinal sonoro durante a noite, dentro de localidade",
-    "coima": "60",
-    "codigo": "1.90.023.02.01"
+    "codigo": "1.90.023.02.01",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Não utilização de avisador luminoso especial amarelo por veículo agrícola",
-    "coima": "60",
-    "codigo": "1.90.023.04.03"
+    "codigo": "1.90.023.04.03",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Circulação com velocidade excessiva impossibilitando a paragem do veículo em segurança no espaço livre e visível à sua frente",
-    "coima": "120",
-    "codigo": "2.86.024.01.01"
+    "codigo": "2.86.024.01.01",
+    "coima": "120"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Diminuição súbita de velocidade do veículo sem que exista perigo iminente causando perigo para os outros utentes da via",
-    "coima": "120",
-    "codigo": "1.86.024.02.01"
+    "codigo": "1.86.024.02.01",
+    "coima": "120"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Condução de veículo em marcha lenta causando embaraço injustificado aos demais utentes da via",
-    "coima": "60",
-    "codigo": "1.86.026.01.01"
+    "codigo": "1.86.026.01.01",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Condução de veículo não cumprindo o dever de ceder passagem abrandando a marcha ou parando sendo necessário",
-    "coima": "120",
-    "codigo": "2.86.029.01.01"
+    "codigo": "2.86.029.01.01",
+    "coima": "120"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Não ceder a passagem aos veículos que se apresentam pela direita num cruzamento ou entroncamento",
-    "coima": "120",
-    "codigo": "2.86.030.01.01"
+    "codigo": "2.86.030.01.01",
+    "coima": "120"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Não cumprindo o dever de ceder a passagem ao entrar numa rotunda",
-    "coima": "120",
-    "codigo": "2.86.031.01.04"
+    "codigo": "2.86.031.01.04",
+    "coima": "120"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Condutor não ceder a passagem em faixa de rodagem obstruída",
-    "coima": "60",
-    "codigo": "2.86.033.01.01"
+    "codigo": "2.86.033.01.01",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Realização de manobra de ultrapassagem, inversão do sentido de marcha ou marcha-atrás em local perigoso ou causador de embaraço",
-    "coima": "120",
-    "codigo": "2.86.035.01.01"
+    "codigo": "2.86.035.01.01",
+    "coima": "120"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Ultrapassagem efetuada pela direita",
-    "coima": "250",
-    "codigo": "2.86.036.01.01"
+    "codigo": "2.86.036.01.01",
+    "coima": "250"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Início de manobra de ultrapassagem sem o condutor se ter certificado da possibilidade da sua realização",
-    "coima": "120",
-    "codigo": "2.86.038.01.01"
+    "codigo": "2.86.038.01.01",
+    "coima": "120"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Ultrapassagem imediatamente antes da travessia de peões ou velocípedes",
-    "coima": "120",
-    "codigo": "2.86.041.01.09"
+    "codigo": "2.86.041.01.09",
+    "coima": "120"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Ultrapassagem antes ou em cruzamento",
-    "coima": "120",
-    "codigo": "2.86.041.01.07"
+    "codigo": "2.86.041.01.07",
+    "coima": "120"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Mudança para a direita sem se aproximar atempadamente do limite direito",
-    "coima": "60",
-    "codigo": "2.86.043.01.01"
+    "codigo": "2.86.043.01.01",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Mudança para a esquerda sem se aproximar ao limite esquerdo",
-    "coima": "60",
-    "codigo": "2.86.044.01.01"
+    "codigo": "2.86.044.01.01",
+    "coima": "60"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Inversão do sentido de marcha em local de grande intensidade de trânsito",
-    "coima": "120",
-    "codigo": "2.86.045.01.09"
+    "codigo": "2.86.045.01.09",
+    "coima": "120"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Marcha atrás sem ser como manobra auxiliar ou de recurso",
-    "coima": "30",
-    "codigo": "2.86.046.01.01"
+    "codigo": "2.86.046.01.01",
+    "coima": "30"
   },
   {
     "categoria": "MANOBRAS DOS CONDUTORES",
     "descricao": "Marcha atrás em local de grande intensidade de trânsito",
-    "coima": "120",
-    "codigo": "2.86.047.01.05"
+    "codigo": "2.86.047.01.05",
+    "coima": "120"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo, dentro de localidade, em local não destinado a esse efeito",
-    "coima": "30",
-    "codigo": "1.91.048.04.07"
+    "codigo": "1.91.048.04.07",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo, dentro de localidade, sem respeitar a forma indicada",
-    "coima": "30",
-    "codigo": "1.91.048.04.19"
+    "codigo": "1.91.048.04.19",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo, dentro de localidade, na faixa de rodagem, não se encontrando o veículo o mais próximo possível do limite direito da faixa de rodagem",
-    "coima": "30",
-    "codigo": "1.91.048.04.31"
+    "codigo": "1.91.048.04.31",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento, dentro de localidade, na faixa de rodagem, não se encontrando o veículo paralelamente ao limite direito da faixa de rodagem",
-    "coima": "30",
-    "codigo": "1.91.048.04.43"
+    "codigo": "1.91.048.04.43",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento, dentro de localidade, na faixa de rodagem, não se encontrando o veículo no sentido da marcha",
-    "coima": "30",
-    "codigo": "1.91.048.04.55"
+    "codigo": "1.91.048.04.55",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo sem deixar os intervalos indispensáveis à saída de outros veículos",
-    "coima": "30",
-    "codigo": "1.91.048.05.01"
+    "codigo": "1.91.048.05.01",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento sem tomar as precauções indispensáveis para evitar que o veículo se ponha em movimento",
-    "coima": "30",
-    "codigo": "1.91.048.05.19"
+    "codigo": "1.91.048.05.19",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo em rotunda",
-    "coima": "30",
-    "codigo": "1.90.049.01.07"
+    "codigo": "1.90.049.01.07",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo em ponte",
-    "coima": "30",
-    "codigo": "1.90.049.01.19"
+    "codigo": "1.90.049.01.19",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo, dentro de localidade, a menos de 5 m antes de um cruzamento",
-    "coima": "30",
-    "codigo": "1.90.049.01.91"
+    "codigo": "1.90.049.01.91",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo, dentro de localidade, a menos de 5 m após um cruzamento",
-    "coima": "30",
-    "codigo": "1.90.049.01.103"
+    "codigo": "1.90.049.01.103",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo a menos de 5 m antes de um entroncamento",
-    "coima": "30",
-    "codigo": "1.90.049.01.115"
+    "codigo": "1.90.049.01.115",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo, dentro de localidade, a menos de 5 m após um entroncamento",
-    "coima": "30",
-    "codigo": "1.90.049.01.127"
+    "codigo": "1.90.049.01.127",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo, dentro de localidade, a menos de 5 m antes de uma rotunda",
-    "coima": "30",
-    "codigo": "1.90.049.01.139"
+    "codigo": "1.90.049.01.139",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo, dentro de localidade, a menos de 5 m após uma rotunda",
-    "coima": "30",
-    "codigo": "1.90.049.01.151"
+    "codigo": "1.90.049.01.151",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo a menos de 25 m antes de sinal indicativo da paragem de veículos de transporte coletivo de passageiros",
-    "coima": "30",
-    "codigo": "1.90.049.01.163"
+    "codigo": "1.90.049.01.163",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo a menos de 5 m após sinal indicativo da paragem de veículos de transporte coletivo de passageiros",
-    "coima": "30",
-    "codigo": "1.90.049.01.175"
+    "codigo": "1.90.049.01.175",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo a menos de 5 m antes de uma passagem assinalada para a travessia de peões",
-    "coima": "30",
-    "codigo": "1.90.049.01.199"
+    "codigo": "1.90.049.01.199",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo a menos de 20 m antes de sinal vertical, quando a altura do veículo, incluindo a respetiva carga, encobrir o sinal",
-    "coima": "30",
-    "codigo": "1.90.049.01.254"
+    "codigo": "1.90.049.01.254",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo a menos de 20 m antes de sinal luminoso, quando a altura do veículo, incluindo a respetiva carga, encobrir o sinal",
-    "coima": "30",
-    "codigo": "1.90.049.01.256"
+    "codigo": "1.90.049.01.256",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo em ilhéu direcional",
-    "coima": "30",
-    "codigo": "1.90.049.01.275"
+    "codigo": "1.90.049.01.275",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo na placa central de rotunda",
-    "coima": "30",
-    "codigo": "1.90.049.01.287"
+    "codigo": "1.90.049.01.287",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo no passeio",
-    "coima": "30",
-    "codigo": "1.90.049.01.299"
+    "codigo": "1.90.049.01.299",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo no passeio, impedindo o trânsito de peões",
-    "coima": "60",
-    "codigo": "1.90.049.01.311"
+    "codigo": "1.90.049.01.311",
+    "coima": "60"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo em local destinado ao trânsito de peões",
-    "coima": "30",
-    "codigo": "1.90.049.01.323"
+    "codigo": "1.90.049.01.323",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo em faixa de rodagem sinalizada com linha longitudinal contínua sendo a distância entre esta e o veículo inferior a 3 m",
-    "coima": "30",
-    "codigo": "1.90.049.01.335"
+    "codigo": "1.90.049.01.335",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo na passagem assinalada para a travessia de peões",
-    "coima": "30",
-    "codigo": "2.90.049.01.223"
+    "codigo": "2.90.049.01.223",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo na passagem assinalada para a travessia de peões, impedindo a passagem de peões",
-    "coima": "60",
-    "codigo": "2.90.049.01.235"
+    "codigo": "2.90.049.01.235",
+    "coima": "60"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo, em faixa de rodagem onde o trânsito se faz num só sentido, impedindo o trânsito de veículos",
-    "coima": "30",
-    "codigo": "1.90.050.01.01"
+    "codigo": "1.90.050.01.01",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo, em faixa de rodagem onde o trânsito se faz nos dois sentidos, impedindo o trânsito de veículos",
-    "coima": "30",
-    "codigo": "1.90.050.01.07"
+    "codigo": "1.90.050.01.07",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo, na faixa de rodagem, em segunda fila",
-    "coima": "30",
-    "codigo": "1.90.050.01.13"
+    "codigo": "1.90.050.01.13",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo impedindo o acesso a outro devidamente estacionado",
-    "coima": "30",
-    "codigo": "1.90.050.01.19"
+    "codigo": "1.90.050.01.19",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo impedindo a saída de outro devidamente estacionado",
-    "coima": "30",
-    "codigo": "1.90.050.01.25"
+    "codigo": "1.90.050.01.25",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo impedindo a ocupação de lugares vagos",
-    "coima": "30",
-    "codigo": "1.90.050.01.31"
+    "codigo": "1.90.050.01.31",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo em local por onde se faz o acesso de veículos a uma propriedade",
-    "coima": "60",
-    "codigo": "1.90.050.01.43"
+    "codigo": "1.90.050.01.43",
+    "coima": "60"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo em local por onde se faz o acesso de veículos a parque de estacionamento",
-    "coima": "60",
-    "codigo": "1.90.050.01.49"
+    "codigo": "1.90.050.01.49",
+    "coima": "60"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo em local, devidamente sinalizado, reservado ao estacionamento de certos veículos",
-    "coima": "60",
-    "codigo": "1.90.050.01.85"
+    "codigo": "1.90.050.01.85",
+    "coima": "60"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de reboque não atrelado ao veículo trator fora de parque de estacionamento especialmente destinado a esse efeito",
-    "coima": "30",
-    "codigo": "1.90.050.01.93"
+    "codigo": "1.90.050.01.93",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de semi-reboque não atrelado ao veículo trator fora de parque de estacionamento especialmente destinado a esse efeito",
-    "coima": "30",
-    "codigo": "1.90.050.01.94"
+    "codigo": "1.90.050.01.94",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo agrícola fora de parque de estacionamento especialmente destinado a esse efeito",
-    "coima": "30",
-    "codigo": "1.90.050.01.91"
+    "codigo": "1.90.050.01.91",
+    "coima": "30"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo, em parque de estacionamento, ostentando informação com vista à sua transação",
-    "coima": "60",
-    "codigo": "1.90.050.01.101"
+    "codigo": "1.90.050.01.101",
+    "coima": "60"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Estacionamento de veículo em lugar, devidamente sinalizado, reservado ao estacionamento de veículos que transportem pessoas com deficiência, condicionadas na sua mobilidade",
-    "coima": "60",
-    "codigo": "2.90.050.01.107"
+    "codigo": "2.90.050.01.107",
+    "coima": "60"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Pernoita de autocaravana fora de local autorizado para esse efeito (21h-7h)",
-    "coima": "60",
-    "codigo": "1.90.050.03.01"
+    "codigo": "1.90.050.03.01",
+    "coima": "60"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Pernoita de similar a autocaravana fora de local autorizado a esse efeito",
-    "coima": "60",
-    "codigo": "1.90.050.03.02"
+    "codigo": "1.90.050.03.02",
+    "coima": "60"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Aparcamento de autocaravana fora de local autorizado a esse efeito",
-    "coima": "60",
-    "codigo": "1.90.050.03.07"
+    "codigo": "1.90.050.03.07",
+    "coima": "60"
   },
   {
     "categoria": "ESTACIONAMENTO PROIBIDO (CÂMARA)",
     "descricao": "Aparcamento de similar a autocaravana fora de local autorizado a esse efeito",
-    "coima": "60",
-    "codigo": "1.90.050.03.08"
+    "codigo": "1.90.050.03.08",
+    "coima": "60"
   },
   {
     "categoria": "PARQUES E ZONAS DE ESTACIONAMENTO",
     "descricao": "Estacionamento de veículo destinado a venda, em parque de estacionamento",
-    "coima": "60",
-    "codigo": "1.92.071.01.01"
+    "codigo": "1.92.071.01.01",
+    "coima": "60"
   },
   {
     "categoria": "PARQUES E ZONAS DE ESTACIONAMENTO",
     "descricao": "Estacionamento de veículo destinado a venda, em zona de estacionamento",
-    "coima": "60",
-    "codigo": "1.92.071.01.02"
+    "codigo": "1.92.071.01.02",
+    "coima": "60"
   },
   {
     "categoria": "PARQUES E ZONAS DE ESTACIONAMENTO",
     "descricao": "Estacionamento de veículo destinado a publicidade, em parque de estacionamento",
-    "coima": "60",
-    "codigo": "1.92.071.01.03"
+    "codigo": "1.92.071.01.03",
+    "coima": "60"
   },
   {
     "categoria": "PARQUES E ZONAS DE ESTACIONAMENTO",
     "descricao": "Estacionamento de veículo destinado a publicidade, em zona de estacionamento",
-    "coima": "60",
-    "codigo": "1.92.071.01.25"
+    "codigo": "1.92.071.01.25",
+    "coima": "60"
   },
   {
     "categoria": "PARQUES E ZONAS DE ESTACIONAMENTO",
     "descricao": "Estacionamento de veículo em parque de estacionamento afeto a veículos de outra categoria",
-    "coima": "60",
-    "codigo": "1.92.071.01.27"
+    "codigo": "1.92.071.01.27",
+    "coima": "60"
   },
   {
     "categoria": "PARQUES E ZONAS DE ESTACIONAMENTO",
     "descricao": "Estacionamento de veículo em zona de estacionamento afeto a veículos de outra categoria",
-    "coima": "60",
-    "codigo": "1.92.071.01.28"
+    "codigo": "1.92.071.01.28",
+    "coima": "60"
   },
   {
     "categoria": "PARQUES E ZONAS DE ESTACIONAMENTO",
     "descricao": "Estacionamento de veículo em parque de estacionamento com sinalização afeto a outras entidades",
-    "coima": "60",
-    "codigo": "1.92.071.01.29"
+    "codigo": "1.92.071.01.29",
+    "coima": "60"
   },
   {
     "categoria": "PARQUES E ZONAS DE ESTACIONAMENTO",
     "descricao": "Estacionamento de veículo em zona de estacionamento com sinalização afeto a outras entidades",
-    "coima": "60",
-    "codigo": "1.92.071.01.30"
+    "codigo": "1.92.071.01.30",
+    "coima": "60"
   },
   {
     "categoria": "PARQUES E ZONAS DE ESTACIONAMENTO",
     "descricao": "Estacionamento em local reservado a deficientes/mobilidade reduzida em parque de estacionamento",
-    "coima": "60",
-    "codigo": "2.92.071.01.31"
+    "codigo": "2.92.071.01.31",
+    "coima": "60"
   },
   {
     "categoria": "PARQUES E ZONAS DE ESTACIONAMENTO",
     "descricao": "Estacionamento em local reservado a deficientes/mobilidade reduzida em zona de estacionamento",
-    "coima": "60",
-    "codigo": "2.92.071.01.32"
+    "codigo": "2.92.071.01.32",
+    "coima": "60"
   },
   {
     "categoria": "PARQUES E ZONAS DE ESTACIONAMENTO",
     "descricao": "Estacionamento de veículo em parque de estacionamento pago, sem pagamento da taxa",
-    "coima": "30",
-    "codigo": "1.92.071.01.65"
+    "codigo": "1.92.071.01.65",
+    "coima": "30"
   },
   {
     "categoria": "PARQUES E ZONAS DE ESTACIONAMENTO",
     "descricao": "Estacionamento de veículo em zona de estacionamento pago, sem pagamento da taxa",
-    "coima": "30",
-    "codigo": "1.92.071.01.66"
+    "codigo": "1.92.071.01.66",
+    "coima": "30"
   },
   {
     "categoria": "PARQUES E ZONAS DE ESTACIONAMENTO",
     "descricao": "Estacionamento de veículo em zona de estacionamento pago, além do tempo estabelecido ou sem pagamento da respetiva taxa",
-    "coima": "30",
-    "codigo": "1.86.071.01.06"
+    "codigo": "1.86.071.01.06",
+    "coima": "30"
   },
   {
     "categoria": "PARQUES E ZONAS DE ESTACIONAMENTO",
     "descricao": "Estacionado em parque destinado a outra categoria/entidade de veículo",
-    "coima": "60",
-    "codigo": "1.86.071.01.04"
+    "codigo": "1.86.071.01.04",
+    "coima": "60"
   },
   {
     "categoria": "PARQUES E ZONAS DE ESTACIONAMENTO",
     "descricao": "Estacionamento de veículo ocupando mais do que um lugar de estacionamento",
-    "coima": "30",
-    "codigo": "1.63.006.02.01"
+    "codigo": "1.63.006.02.01",
+    "coima": "30"
   },
   {
     "categoria": "TRANSPORTE DE PASSAGEIROS",
     "descricao": "Entrada ou saída do passageiro pelo lado esquerdo estacionado a direita",
-    "coima": "30",
-    "codigo": "1.86.054.01.01"
+    "codigo": "1.86.054.01.01",
+    "coima": "30"
   },
   {
     "categoria": "TRANSPORTE DE PASSAGEIROS",
     "descricao": "Transporte de pessoas em número que excede a lotação",
-    "coima": "60",
-    "codigo": "1.86.054.03.01"
+    "codigo": "1.86.054.03.01",
+    "coima": "60"
   },
   {
     "categoria": "TRANSPORTE DE PASSAGEIROS",
     "descricao": "Transporte de pessoa a comprometer a sua segurança e da condução",
-    "coima": "60",
-    "codigo": "1.86.054.03.02"
+    "codigo": "1.86.054.03.02",
+    "coima": "60"
   },
   {
     "categoria": "TRANSPORTE DE PASSAGEIROS",
     "descricao": "Transporte de passageiro fora dos assentos",
-    "coima": "60",
-    "codigo": "1.86.054.04.01"
+    "codigo": "1.86.054.04.01",
+    "coima": "60"
   },
   {
     "categoria": "TRANSPORTE DE PASSAGEIROS",
     "descricao": "Criança com idade inferior a 12 anos e menos de 135 cm de altura em automóvel equipado com cinto sem utilizar sistema de retenção",
-    "coima": "120",
-    "codigo": "2.90.055.01.01"
+    "codigo": "2.90.055.01.01",
+    "coima": "120"
   },
   {
     "categoria": "TRANSPORTE DE PASSAGEIROS",
     "descricao": "Transporte no banco da frente de criança com idade igual ou superior a 3 anos e superior a 12 anos e inferior a 135 cm de altura em automóvel equipado com cintos na retaguarda",
-    "coima": "120",
-    "codigo": "1.90.055.02.03"
+    "codigo": "1.90.055.02.03",
+    "coima": "120"
   },
   {
     "categoria": "TRANSPORTE DE PASSAGEIROS",
     "descricao": "Transporte de criança com idade inferior a 3 anos em veículo que não está equipado com cinto de segurança",
-    "coima": "120",
-    "codigo": "1.90.055.03.01"
+    "codigo": "1.90.055.03.01",
+    "coima": "120"
   },
   {
     "categoria": "CARGA / DESCARGA",
     "descricao": "Veículo com carga a pôr em perigo/embaraço os outros utentes da via",
-    "coima": "60",
-    "codigo": "1.86.056.02.01"
+    "codigo": "1.86.056.02.01",
+    "coima": "60"
   },
   {
     "categoria": "CARGA / DESCARGA",
     "descricao": "Carga a pôr em perigo o equilíbrio do veículo, parado ou em marcha",
-    "coima": "120",
-    "codigo": "1.86.056.03.01"
+    "codigo": "1.86.056.03.01",
+    "coima": "120"
   },
   {
     "categoria": "CARGA / DESCARGA",
     "descricao": "Carga a cair/projetar detritos na via pública ou oscilar causando perigo",
-    "coima": "120",
-    "codigo": "1.86.056.03.02"
+    "codigo": "1.86.056.03.02",
+    "coima": "120"
   },
   {
     "categoria": "CARGA / DESCARGA",
     "descricao": "Disposição da carga de forma a reduzir a visibilidade do condutor",
-    "coima": "120",
-    "codigo": "1.86.056.03.03"
+    "codigo": "1.86.056.03.03",
+    "coima": "120"
   },
   {
     "categoria": "CARGA / DESCARGA",
     "descricao": "Disposição da carga no veículo de forma a arrastar pelo pavimento",
-    "coima": "120",
-    "codigo": "1.86.056.03.04"
+    "codigo": "1.86.056.03.04",
+    "coima": "120"
   },
   {
     "categoria": "CARGA / DESCARGA",
     "descricao": "Disposição da carga excedendo a altura de 4 m a contar do solo",
-    "coima": "120",
-    "codigo": "1.86.056.03.06"
+    "codigo": "1.86.056.03.06",
+    "coima": "120"
   },
   {
     "categoria": "CARGA / DESCARGA",
     "descricao": "Carga em veículo prejudicando visibilidade da matrícula/iluminação ou ultrapassando o comprimento/largura",
-    "coima": "120",
-    "codigo": "1.86.056.03.08"
+    "codigo": "1.86.056.03.08",
+    "coima": "120"
   },
   {
     "categoria": "CARGA / DESCARGA",
     "descricao": "Mercadoria a granel excedendo a altura definida pelos bordos superior",
-    "coima": "120",
-    "codigo": "1.86.056.03.09"
+    "codigo": "1.86.056.03.09",
+    "coima": "120"
   },
   {
     "categoria": "LUZES",
     "descricao": "Condução de veículo que não disponha de dispositivo de iluminação",
-    "coima": "60",
-    "codigo": "1.86.059.01.01"
+    "codigo": "1.86.059.01.01",
+    "coima": "60"
   },
   {
     "categoria": "LUZES",
     "descricao": "Veículo com iluminação que não obedeça às características ou modo de instalação legalmente fixados",
-    "coima": "60",
-    "codigo": "1.86.059.01.03"
+    "codigo": "1.86.059.01.03",
+    "coima": "60"
   },
   {
     "categoria": "LUZES",
     "descricao": "Veículo com avaria no dispositivo de iluminação ou de sinalização luminosa fora dos casos legalmente previstos",
-    "coima": "30",
-    "codigo": "1.86.059.04.01"
+    "codigo": "1.86.059.04.01",
+    "coima": "30"
   },
   {
     "categoria": "LUZES",
     "descricao": "Quando a avaria seja de fácil reparação e o infrator apresente, no prazo de oito dias, em posto policial o veículo com a avaria reparada",
-    "coima": "15",
-    "codigo": "1.86.059.04.02"
+    "codigo": "1.86.059.04.02",
+    "coima": "15"
   },
   {
     "categoria": "LUZES",
     "descricao": "Não utilizar as luzes de cruzamento desde o anoitecer ao amanhecer ou sempre que haja visibilidade insuficiente até pelo menos 100 metros",
-    "coima": "30",
-    "codigo": "2.86.061.01.02"
+    "codigo": "2.86.061.01.02",
+    "coima": "30"
   },
   {
     "categoria": "LUZES",
     "descricao": "Não utilização das luzes de cruzamento no cruzamento com outro veículo, pessoa ou animal desde o anoitecer ao amanhecer",
-    "coima": "30",
-    "codigo": "2.86.061.01.03"
+    "codigo": "2.86.061.01.03",
+    "coima": "30"
   },
   {
     "categoria": "LUZES",
     "descricao": "Não utilização de luzes de cruzamento, durante o dia, em túnel sinalizado como tal ou em via de sentido reversível",
-    "coima": "30",
-    "codigo": "1.86.061.04.01"
+    "codigo": "1.86.061.04.01",
+    "coima": "30"
   },
   {
     "categoria": "LUZES",
     "descricao": "Utilização de máximos no cruzamento com outro veículo, pessoa ou animal de modo a provocar encandeamento",
-    "coima": "60",
-    "codigo": "3.86.061.06.01"
+    "codigo": "3.86.061.06.01",
+    "coima": "60"
   },
   {
     "categoria": "LUZES",
     "descricao": "Não utilizar luzes de nevoeiro quando é imposto pelas condições meteorológicas",
-    "coima": "30",
-    "codigo": "2.86.061.01.08"
+    "codigo": "2.86.061.01.08",
+    "coima": "30"
   },
   {
     "categoria": "LUZES",
     "descricao": "Utilização das luzes de nevoeiro não o justificando",
-    "coima": "30",
-    "codigo": "1.86.061.02.01"
+    "codigo": "1.86.061.02.01",
+    "coima": "30"
   },
   {
     "categoria": "LUZES",
     "descricao": "Circulação sem o mínimo de 1 médio esquerdo, 2 luzes de presença e 1 mínimo à retaguarda e 1 luz de travagem. Apresentar em 8 dias na Esquadra",
-    "coima": "30",
-    "codigo": "1.86.062.01.02"
+    "codigo": "1.86.062.01.02",
+    "coima": "30"
   },
   {
     "categoria": "LUZES",
     "descricao": "Circulação de veículo que represente um perigo especial para os outros utentes da via sem utilização das luzes avisadoras de perigo",
-    "coima": "60",
-    "codigo": "2.86.063.01.01"
+    "codigo": "2.86.063.01.01",
+    "coima": "60"
   },
   {
     "categoria": "LUZES",
     "descricao": "Veículo avariado na via sem utilizar as luzes de perigo estando funcionais",
-    "coima": "60",
-    "codigo": "2.86.063.03.01"
+    "codigo": "2.86.063.03.01",
+    "coima": "60"
   },
   {
     "categoria": "LUZES",
     "descricao": "Veículo a ser rebocado sem utilizar as luzes de perigo quando funcionais",
-    "coima": "60",
-    "codigo": "2.86.063.03.02"
+    "codigo": "2.86.063.03.02",
+    "coima": "60"
   },
   {
     "categoria": "LUZES",
     "descricao": "Não utilizar luzes de presença, estando as de perigo avariadas, por veículo imobilizado por avaria/acidente estando a causar perigo",
-    "coima": "60",
-    "codigo": "1.86.063.04.01"
+    "codigo": "1.86.063.04.01",
+    "coima": "60"
   },
   {
     "categoria": "LUZES",
     "descricao": "Não utilizar luzes de presença, quando em condições de funcionamento estando as de perigo avariadas por veículo que está a ser rebocado",
-    "coima": "60",
-    "codigo": "1.86.063.04.02"
+    "codigo": "1.86.063.04.02",
+    "coima": "60"
   },
   {
     "categoria": "VEÍCULOS EM MISSÃO DE POLÍCIA",
     "descricao": "Não ceder passagem a veículo em missão de polícia ou em urgência",
-    "coima": "120",
-    "codigo": "2.86.065.01.01"
+    "codigo": "2.86.065.01.01",
+    "coima": "120"
   },
   {
     "categoria": "POLUIÇÃO DO SOLO / AR",
     "descricao": "Trânsito de veículo a emitir fumo em quantidade ou derramar óleo",
-    "coima": "120",
-    "codigo": "1.86.079.01.01"
+    "codigo": "1.86.079.01.01",
+    "coima": "120"
   },
   {
     "categoria": "POLUIÇÃO DO SOLO / AR",
     "descricao": "Lançar objeto para o exterior do veículo pelo condutor ou passageiro",
-    "coima": "60",
-    "codigo": "1.86.079.02.01"
+    "codigo": "1.86.079.02.01",
+    "coima": "60"
   },
   {
     "categoria": "ÁLCOOL - REGIME GERAL",
     "descricao": "Taxa de 0,50 g/l e inferior a 0,80 g/l de álcool no sangue",
-    "coima": "250",
-    "codigo": "2.90.081.01.01"
+    "codigo": "2.90.081.01.01",
+    "coima": "250"
   },
   {
     "categoria": "ÁLCOOL - REGIME GERAL",
     "descricao": "Taxa igual a 0,80 g/l e inferior a 1,20 g/l de álcool no sangue",
-    "coima": "500",
-    "codigo": "3.90.081.01.02"
+    "codigo": "3.90.081.01.02",
+    "coima": "500"
   },
   {
     "categoria": "ÁLCOOL - REGIME ESPECIAL",
     "descricao": "Taxa de 0,20 g/l a 0,50 g/l de álcool no sangue",
-    "coima": "250",
-    "codigo": "2.90.081.03.01"
+    "codigo": "2.90.081.03.01",
+    "coima": "250"
   },
   {
     "categoria": "ÁLCOOL - REGIME ESPECIAL",
     "descricao": "Taxa de 0,50 g/l a 1,20 g/l de álcool no sangue",
-    "coima": "500",
-    "codigo": "3.90.081.03.02"
+    "codigo": "3.90.081.03.02",
+    "coima": "500"
   },
   {
     "categoria": "DISPOSITIVOS DE SEGURANÇA - CINTO",
     "descricao": "Não utilizar cinto de segurança pelo condutor",
-    "coima": "120",
-    "codigo": "1.90.082.01.01"
+    "codigo": "1.90.082.01.01",
+    "coima": "120"
   },
   {
     "categoria": "DISPOSITIVOS DE SEGURANÇA - CINTO",
     "descricao": "Não utilizar cinto de segurança pelo passageiro",
-    "coima": "120",
-    "codigo": "1.90.082.01.03"
+    "codigo": "1.90.082.01.03",
+    "coima": "120"
   },
   {
     "categoria": "DISPOSITIVOS DE SEGURANÇA - CINTO",
     "descricao": "Menor sem fazer uso do cinto de segurança",
-    "coima": "120",
-    "codigo": "2.90.082.01.05"
+    "codigo": "2.90.082.01.05",
+    "coima": "120"
   },
   {
     "categoria": "DISPOSITIVOS DE SEGURANÇA - CAPACETE",
     "descricao": "Não fazer uso do capacete pelo condutor do ciclomotor",
-    "coima": "120",
-    "codigo": "1.90.082.03.01"
+    "codigo": "1.90.082.03.01",
+    "coima": "120"
   },
   {
     "categoria": "DISPOSITIVOS DE SEGURANÇA - CAPACETE",
     "descricao": "Uso do capacete pelo condutor do ciclomotor sem estar apertado/ajustado",
-    "coima": "120",
-    "codigo": "1.90.082.03.03"
+    "codigo": "1.90.082.03.03",
+    "coima": "120"
   },
   {
     "categoria": "DISPOSITIVOS DE SEGURANÇA - CAPACETE",
     "descricao": "Não fazer uso do capacete pelo passageiro do ciclomotor",
-    "coima": "120",
-    "codigo": "1.90.082.03.04"
+    "codigo": "1.90.082.03.04",
+    "coima": "120"
   },
   {
     "categoria": "DISPOSITIVOS DE SEGURANÇA - CAPACETE",
     "descricao": "Uso do capacete pelo passageiro do ciclomotor sem estar apertado/ajustado",
-    "coima": "120",
-    "codigo": "1.90.082.03.06"
+    "codigo": "1.90.082.03.06",
+    "coima": "120"
   },
   {
     "categoria": "DISPOSITIVOS DE SEGURANÇA - CAPACETE",
     "descricao": "Não fazer uso do capacete pelo condutor do motociclo",
-    "coima": "120",
-    "codigo": "1.90.082.03.09"
+    "codigo": "1.90.082.03.09",
+    "coima": "120"
   },
   {
     "categoria": "DISPOSITIVOS DE SEGURANÇA - CAPACETE",
     "descricao": "Uso do capacete pelo condutor do motociclo sem estar apertado/ajustado",
-    "coima": "120",
-    "codigo": "1.90.082.03.11"
+    "codigo": "1.90.082.03.11",
+    "coima": "120"
   },
   {
     "categoria": "DISPOSITIVOS DE SEGURANÇA - CAPACETE",
     "descricao": "Não fazer uso do capacete pelo passageiro do motociclo",
-    "coima": "120",
-    "codigo": "1.90.082.03.12"
+    "codigo": "1.90.082.03.12",
+    "coima": "120"
   },
   {
     "categoria": "DISPOSITIVOS DE SEGURANÇA - CAPACETE",
     "descricao": "Uso do capacete pelo passageiro do motociclo sem estar apertado/ajustado",
-    "coima": "120",
-    "codigo": "1.90.082.03.14"
+    "codigo": "1.90.082.03.14",
+    "coima": "120"
   },
   {
     "categoria": "DISPOSITIVOS DE SEGURANÇA - ARCO DE PROTEÇÃO TRATOR",
     "descricao": "Condução de trator sem utilização da estrutura de proteção",
-    "coima": "120",
-    "codigo": "1.90.082.06.01"
+    "codigo": "1.90.082.06.01",
+    "coima": "120"
   },
   {
     "categoria": "DISPOSITIVOS DE SEGURANÇA - ARCO DE PROTEÇÃO TRATOR",
     "descricao": "Utilização incorreta da estrutura de proteção em caso de capotagem",
-    "coima": "120",
-    "codigo": "1.90.082.06.04"
+    "codigo": "1.90.082.06.04",
+    "coima": "120"
   },
   {
     "categoria": "TELEMÓVEL",
     "descricao": "Utilização continuada pelo condutor durante a marcha de telemóvel",
-    "coima": "250",
-    "codigo": "2.90.084.01.06"
+    "codigo": "2.90.084.01.06",
+    "coima": "250"
   },
   {
     "categoria": "TELEMÓVEL",
     "descricao": "Manuseamento pelo condutor durante a marcha de telemóvel",
-    "coima": "250",
-    "codigo": "2.90.084.01.07"
+    "codigo": "2.90.084.01.07",
+    "coima": "250"
   },
   {
     "categoria": "DOCUMENTOS QUE O CONDUTOR DEVE SER PORTADOR",
     "descricao": "Condução de automóvel sem CC, NIF, Seguro, DUA, IPO em meio físico ou não dispondo da aplicação móvel",
-    "coima": "60",
-    "codigo": "1.90.085.02.01"
+    "codigo": "1.90.085.02.01",
+    "coima": "60"
   },
   {
     "categoria": "DOCUMENTOS QUE O CONDUTOR DEVE SER PORTADOR",
     "descricao": "Não apresentação de documentos físicos ou envio da aplicação no prazo de 5 dias tendo dispondo o condutor e não ser possível a sua verificação",
-    "coima": "60",
-    "codigo": "1.90.085.05.01"
+    "codigo": "1.90.085.05.01",
+    "coima": "60"
   },
   {
     "categoria": "DOCUMENTOS QUE O CONDUTOR DEVE SER PORTADOR",
     "descricao": "Não entrega dos documentos físicos, substituídos por aplicação móvel, tendo a apreensão feita por meios eletrónicos",
-    "coima": "60",
-    "codigo": "1.90.085.06.01"
+    "codigo": "1.90.085.06.01",
+    "coima": "60"
   },
   {
     "categoria": "PRESCRIÇÕES ESPECIAIS",
     "descricao": "Não utilização, durante a condução, de lentes averbadas no título de condução",
-    "coima": "60",
-    "codigo": "1.86.086.01.01"
+    "codigo": "1.86.086.01.01",
+    "coima": "60"
   },
   {
     "categoria": "AVARIA / ACIDENTE / PRÉ-SINALIZAÇÃO DE PERIGO",
     "descricao": "Veículo avariado/acidentado sem estar estacionado no limite direito",
-    "coima": "60",
-    "codigo": "1.86.087.01.01"
+    "codigo": "1.86.087.01.01",
+    "coima": "60"
   },
   {
     "categoria": "AVARIA / ACIDENTE / PRÉ-SINALIZAÇÃO DE PERIGO",
     "descricao": "Pessoa na faixa de rodagem sem estar envolvida na remoção do veículo",
-    "coima": "60",
-    "codigo": "1.86.087.02.01"
+    "codigo": "1.86.087.02.01",
+    "coima": "60"
   },
   {
     "categoria": "AVARIA / ACIDENTE / PRÉ-SINALIZAÇÃO DE PERIGO",
     "descricao": "Não sinalizar o veículo avariado na via pública, não usar dispositivo de sinalização",
-    "coima": "60",
-    "codigo": "1.86.087.03.01"
+    "codigo": "1.86.087.03.01",
+    "coima": "60"
   },
   {
     "categoria": "AVARIA / ACIDENTE / PRÉ-SINALIZAÇÃO DE PERIGO",
     "descricao": "Veículo avariado não fazendo uso das luzes avisadoras de perigo",
-    "coima": "60",
-    "codigo": "2.86.087.03.02"
+    "codigo": "2.86.087.03.02",
+    "coima": "60"
   },
   {
     "categoria": "AVARIA / ACIDENTE / PRÉ-SINALIZAÇÃO DE PERIGO",
     "descricao": "Reparar veículo na via pública não sendo essencial para a sua remoção",
-    "coima": "60",
-    "codigo": "1.86.087.04.01"
+    "codigo": "1.86.087.04.01",
+    "coima": "60"
   },
   {
     "categoria": "AVARIA / ACIDENTE / PRÉ-SINALIZAÇÃO DE PERIGO",
     "descricao": "Veículo não equipado com sinal de pré-sinalização retrorrefletor",
-    "coima": "60",
-    "codigo": "1.86.088.01.01"
+    "codigo": "1.86.088.01.01",
+    "coima": "60"
   },
   {
     "categoria": "AVARIA / ACIDENTE / PRÉ-SINALIZAÇÃO DE PERIGO",
     "descricao": "Circulação de veículo a motor não se encontrando equipado com um colete retrorrefletor",
-    "coima": "60",
-    "codigo": "1.86.088.01.02"
+    "codigo": "1.86.088.01.02",
+    "coima": "60"
   },
   {
     "categoria": "AVARIA / ACIDENTE / PRÉ-SINALIZAÇÃO DE PERIGO",
     "descricao": "Não utilizar sinal de pré-sinalização em veículo imobilizado na faixa de rodagem",
-    "coima": "120",
-    "codigo": "2.86.088.02.01"
+    "codigo": "2.86.088.02.01",
+    "coima": "120"
   },
   {
     "categoria": "AVARIA / ACIDENTE / PRÉ-SINALIZAÇÃO DE PERIGO",
     "descricao": "Não colocar sinal a uma distância inferior a 30 m e visível a 100 metros",
-    "coima": "120",
-    "codigo": "1.86.088.03.01"
+    "codigo": "1.86.088.03.01",
+    "coima": "120"
   },
   {
     "categoria": "AVARIA / ACIDENTE / PRÉ-SINALIZAÇÃO DE PERIGO",
     "descricao": "Não usar colete refletor ao proceder à colocação do sinal de pré-sinalização na via",
-    "coima": "120",
-    "codigo": "1.86.088.04.01"
+    "codigo": "1.86.088.04.01",
+    "coima": "120"
   },
   {
     "categoria": "AVARIA / ACIDENTE / PRÉ-SINALIZAÇÃO DE PERIGO",
     "descricao": "Condutor interveniente em acidente não trocar dados aos intervenientes",
-    "coima": "120",
-    "codigo": "1.90.089.01.01"
+    "codigo": "1.90.089.01.01",
+    "coima": "120"
   },
   {
     "categoria": "AVARIA / ACIDENTE / PRÉ-SINALIZAÇÃO DE PERIGO",
     "descricao": "Condutor interveniente em acidente não exibir dados aos intervenientes",
-    "coima": "120",
-    "codigo": "1.90.089.01.02"
+    "codigo": "1.90.089.01.02",
+    "coima": "120"
   },
   {
     "categoria": "AVARIA / ACIDENTE / PRÉ-SINALIZAÇÃO DE PERIGO",
     "descricao": "Condutor interveniente em acidente não exibir dados da aplicação móvel",
-    "coima": "120",
-    "codigo": "1.90.089.01.03"
+    "codigo": "1.90.089.01.03",
+    "coima": "120"
   },
   {
     "categoria": "AVARIA / ACIDENTE / PRÉ-SINALIZAÇÃO DE PERIGO",
     "descricao": "Condutor interveniente em acidente com mortos/feridos abandonar local",
-    "coima": "500",
-    "codigo": "3.90.089.02.01"
+    "codigo": "3.90.089.02.01",
+    "coima": "500"
   },
   {
     "categoria": "CONDUÇÃO DE MOTOCICLOS / CICLOMOTOR / VELOCÍPEDES",
     "descricao": "Conduzir motociclo/ciclomotor com a mão fora do guiador",
-    "coima": "60",
-    "codigo": "1.86.090.01.01"
+    "codigo": "1.86.090.01.01",
+    "coima": "60"
   },
   {
     "categoria": "CONDUÇÃO DE MOTOCICLOS / CICLOMOTOR / VELOCÍPEDES",
     "descricao": "Conduzir motociclo/ciclomotor com os pés fora dos pedais",
-    "coima": "60",
-    "codigo": "1.86.090.01.02"
+    "codigo": "1.86.090.01.02",
+    "coima": "60"
   },
   {
     "categoria": "CONDUÇÃO DE MOTOCICLOS / CICLOMOTOR / VELOCÍPEDES",
     "descricao": "Conduzir motociclo/ciclomotor fazendo-se rebocar",
-    "coima": "60",
-    "codigo": "1.86.090.01.03"
+    "codigo": "1.86.090.01.03",
+    "coima": "60"
   },
   {
     "categoria": "CONDUÇÃO DE MOTOCICLOS / CICLOMOTOR / VELOCÍPEDES",
     "descricao": "Conduzir motociclo/ciclomotor levantando qualquer roda",
-    "coima": "60",
-    "codigo": "1.86.090.01.04"
+    "codigo": "1.86.090.01.04",
+    "coima": "60"
   },
   {
     "categoria": "CONDUÇÃO DE MOTOCICLOS / CICLOMOTOR / VELOCÍPEDES",
     "descricao": "Condução de velocípede com mãos fora do guiador sem ser para assinalar manobra",
-    "coima": "30",
-    "codigo": "1.86.090.01.07"
+    "codigo": "1.86.090.01.07",
+    "coima": "30"
   },
   {
     "categoria": "CONDUÇÃO DE MOTOCICLOS / CICLOMOTOR / VELOCÍPEDES",
     "descricao": "Circulação em paralelo de mais de dois velocípedes",
-    "coima": "30",
-    "codigo": "1.86.090.02.02"
+    "codigo": "1.86.090.02.02",
+    "coima": "30"
   },
   {
     "categoria": "CONDUÇÃO DE MOTOCICLOS / CICLOMOTOR / VELOCÍPEDES",
     "descricao": "Condução de velocípede a par acusando perigo/embaraço para o trânsito",
-    "coima": "30",
-    "codigo": "1.86.090.02.03"
+    "codigo": "1.86.090.02.03",
+    "coima": "30"
   },
   {
     "categoria": "CONDUÇÃO DE MOTOCICLOS / CICLOMOTOR / VELOCÍPEDES",
     "descricao": "Condução de velocípede não circulando pelo lado direito da via de trânsito",
-    "coima": "30",
-    "codigo": "1.86.090.03.01"
+    "codigo": "1.86.090.03.01",
+    "coima": "30"
   },
   {
     "categoria": "CONDUÇÃO DE MOTOCICLOS / CICLOMOTOR / VELOCÍPEDES",
     "descricao": "Transporte em motociclo sem caixa rígida de menor de 7 anos de idade",
-    "coima": "60",
-    "codigo": "1.86.091.01.01"
+    "codigo": "1.86.091.01.01",
+    "coima": "60"
   },
   {
     "categoria": "CONDUÇÃO DE MOTOCICLOS / CICLOMOTOR / VELOCÍPEDES",
     "descricao": "Transporte de objeto prejudicando a condução pelo condutor de motociclo",
-    "coima": "60",
-    "codigo": "1.86.092.02.01"
+    "codigo": "1.86.092.02.01",
+    "coima": "60"
   },
   {
     "categoria": "CONDUÇÃO DE MOTOCICLOS / CICLOMOTOR / VELOCÍPEDES",
     "descricao": "Condução de motociclo/ciclomotor sem utilizar luzes de cruzamento/presença",
-    "coima": "60",
-    "codigo": "2.86.093.02.01"
+    "codigo": "2.86.093.02.01",
+    "coima": "60"
   },
   {
     "categoria": "PEÕES - CUIDADOS A OBSERVAR PELOS CONDUTORES",
     "descricao": "Não dar prioridade ao peão/velocípede que já iniciou a travessia em local onde a circulação de veículos é regulada por sinalização luminosa",
-    "coima": "120",
-    "codigo": "2.86.103.01.01"
+    "codigo": "2.86.103.01.01",
+    "coima": "120"
   },
   {
     "categoria": "PEÕES - CUIDADOS A OBSERVAR PELOS CONDUTORES",
     "descricao": "Não deixar passar peão/velocípede em passagem assinalada para peões ou velocípedes não sendo a circulação regulada por sinais luminosos",
-    "coima": "120",
-    "codigo": "2.86.103.02.01"
+    "codigo": "2.86.103.02.01",
+    "coima": "120"
   },
   {
     "categoria": "PEÕES - CUIDADOS A OBSERVAR PELOS CONDUTORES",
     "descricao": "Mudança de direção dentro da localidade não reduzindo a velocidade ou parar para deixar passar o peão ou velocípede que já iniciou a travessia",
-    "coima": "120",
-    "codigo": "2.86.103.03.03"
+    "codigo": "2.86.103.03.03",
+    "coima": "120"
   },
   {
     "categoria": "CARACTERÍSTICAS DOS VEÍCULOS",
     "descricao": "Veículo não dispondo de sistemas/componentes com que foi aprovado",
-    "coima": "250",
-    "codigo": "1.86.114.05.01"
+    "codigo": "1.86.114.05.01",
+    "coima": "250"
   },
   {
     "categoria": "CARACTERÍSTICAS DOS VEÍCULOS",
     "descricao": "Veículo utilizando sistemas, componentes/acessórios sem terem sido aprovados (ex: películas coloridas)",
-    "coima": "250",
-    "codigo": "1.86.114.05.02"
+    "codigo": "1.86.114.05.02",
+    "coima": "250"
   },
   {
     "categoria": "TRANSFORMAÇÃO DE VEÍCULO",
     "descricao": "Transformação de veículo a motor/reboque sem estar autorizado",
-    "coima": "250",
-    "codigo": "1.86.115.02.01"
+    "codigo": "1.86.115.02.01",
+    "coima": "250"
   },
   {
     "categoria": "TRANSFORMAÇÃO DE VEÍCULO",
     "descricao": "Falta a inspeção extraordinária ordenada por autoridade em veículo apreendido por falta de componentes ou por transitar com componentes que não tenham sido aprovados",
-    "coima": "250",
-    "codigo": "1.86.116.02.01"
+    "codigo": "1.86.116.02.01",
+    "coima": "250"
   },
   {
     "categoria": "TRANSFORMAÇÃO DE VEÍCULO",
     "descricao": "Falta a inspeção extraordinária ordenada por autoridade por fundadas suspeitas sobre condições de segurança ou dúvidas sobre a sua identificação",
-    "coima": "250",
-    "codigo": "1.86.116.02.02"
+    "codigo": "1.86.116.02.02",
+    "coima": "250"
   },
   {
     "categoria": "OBRIGATORIEDADE DE MATRÍCULA",
     "descricao": "Circulação de veículo a motor ou reboque superior a 300 kg (p.b.) não matriculado",
-    "coima": "600",
-    "codigo": "1.86.117.01.01"
+    "codigo": "1.86.117.01.01",
+    "coima": "600"
   },
   {
     "categoria": "OBRIGATORIEDADE DE MATRÍCULA",
     "descricao": "Circulação de ciclomotor ou veículo agrícola não matriculado",
-    "coima": "300",
-    "codigo": "1.86.117.01.02"
+    "codigo": "1.86.117.01.02",
+    "coima": "300"
   },
   {
     "categoria": "OBRIGATORIEDADE DE MATRÍCULA",
     "descricao": "Não comunicação pelo adquirente no prazo de 30 dias a aquisição do veículo à entidade competente para atribuição da matrícula (IMT, I.P.)",
-    "coima": "120",
-    "codigo": "1.86.118.03.01"
+    "codigo": "1.86.118.03.01",
+    "coima": "120"
   },
   {
     "categoria": "OBRIGATORIEDADE DE MATRÍCULA",
     "descricao": "Não cumprimento do dever de comunicar a mudança de residência no prazo de 30 dias pelo titular do documento de identificação do veículo",
-    "coima": "30",
-    "codigo": "1.86.118.05.01"
+    "codigo": "1.86.118.05.01",
+    "coima": "30"
   },
   {
     "categoria": "OBRIGATORIEDADE DE MATRÍCULA",
     "descricao": "Não solicitar a 2.ª via do documento por extraviado ou em mau estado",
-    "coima": "30",
-    "codigo": "1.86.118.06.01"
+    "codigo": "1.86.118.06.01",
+    "coima": "30"
   },
   {
     "categoria": "OBRIGATORIEDADE DE MATRÍCULA",
     "descricao": "Veículo com chapa de matrícula de modelo não aprovado/regulamentar",
-    "coima": "120",
-    "codigo": "1.86.118.08.01"
+    "codigo": "1.86.118.08.01",
+    "coima": "120"
   },
   {
     "categoria": "OBRIGATORIEDADE DE MATRÍCULA",
     "descricao": "Quando a avaria da chapa seja de fácil reparação e apresente a avaria reparada no prazo de 8 dias no posto policial",
-    "coima": "60",
-    "codigo": "1.86.118.08.02"
+    "codigo": "1.86.118.08.02",
+    "coima": "60"
   },
   {
     "categoria": "OBRIGATORIEDADE DE MATRÍCULA",
     "descricao": "Veículo matriculado a circular sem chapa de matrícula",
-    "coima": "120",
-    "codigo": "1.86.118.08.03"
+    "codigo": "1.86.118.08.03",
+    "coima": "120"
   },
   {
     "categoria": "OBRIGATORIEDADE DE MATRÍCULA",
     "descricao": "Veículo cujas características não conferem com as mencionadas no documento que identifica o veículo",
-    "coima": "120",
-    "codigo": "1.86.118.10.01"
+    "codigo": "1.86.118.10.01",
+    "coima": "120"
   },
   {
     "categoria": "CARTA DE CONDUÇÃO",
     "descricao": "Não utilização, de lentes/próteses/aparelhos averbados na carta",
-    "coima": "60",
-    "codigo": "1.86.086.01.01"
+    "codigo": "1.86.086.01.01",
+    "coima": "60"
   },
   {
     "categoria": "CARTA DE CONDUÇÃO",
     "descricao": "Titular de categoria T conduzir outra categoria",
-    "coima": "120",
-    "codigo": "3.90.123.03.01"
+    "codigo": "3.90.123.03.01",
+    "coima": "120"
   },
   {
     "categoria": "CARTA DE CONDUÇÃO",
     "descricao": "Titular de categoria AM a conduzir categoria diferente",
-    "coima": "700",
-    "codigo": "3.90.123.03.03"
+    "codigo": "3.90.123.03.03",
+    "coima": "700"
   },
   {
     "categoria": "CARTA DE CONDUÇÃO",
     "descricao": "Titular de categoria A1 a conduzir categoria diferente",
-    "coima": "700",
-    "codigo": "3.90.123.03.04"
+    "codigo": "3.90.123.03.04",
+    "coima": "700"
   },
   {
     "categoria": "CARTA DE CONDUÇÃO",
     "descricao": "Condução de veículo de categoria diferente à sua habilitação",
-    "coima": "500",
-    "codigo": "3.90.123.03.05"
+    "codigo": "3.90.123.03.05",
+    "coima": "500"
   },
   {
     "categoria": "CARTA DE CONDUÇÃO",
     "descricao": "Conduzir com título que não da UE residente há mais de 185 dias sem o ter trocado",
-    "coima": "300",
-    "codigo": "1.90.125.03.01"
+    "codigo": "1.90.125.03.01",
+    "coima": "300"
   },
   {
     "categoria": "CARTA DE CONDUÇÃO",
     "descricao": "Conduzir com título que não da UE há mais de 90 dias após ter fixado residência em Portugal",
-    "coima": "300",
-    "codigo": "1.90.125.04.02"
+    "codigo": "1.90.125.04.02",
+    "coima": "300"
   },
   {
     "categoria": "CADUCIDADE DOS TÍTULOS DE CONDUÇÃO",
     "descricao": "Condução de veículo cuja categoria da carta se encontra caducada",
-    "coima": "120",
-    "codigo": "1.90.130.07.01"
+    "codigo": "1.90.130.07.01",
+    "coima": "120"
   },
   {
     "categoria": "OBRIGAÇÃO DE SEGURO",
     "descricao": "Trânsito de veículo a motor ou reboque sem seguro",
-    "coima": "250",
-    "codigo": "2.86.150.01.01"
+    "codigo": "2.86.150.01.01",
+    "coima": "250"
   },
   {
     "categoria": "OBRIGAÇÃO DE SEGURO",
     "descricao": "Trânsito de motociclo ou automóvel sem seguro de responsabilidade civil",
-    "coima": "500",
-    "codigo": "2.86.150.01.02"
+    "codigo": "2.86.150.01.02",
+    "coima": "500"
   },
   {
     "categoria": "INSPEÇÃO PERIÓDICA",
     "descricao": "Utilizar veículo sem ter efetuado inspeção periódica obrigatória",
-    "coima": "250",
-    "codigo": "1.78.007.01.01"
+    "codigo": "1.78.007.01.01",
+    "coima": "250"
   },
   {
     "categoria": "INSPEÇÃO PERIÓDICA",
     "descricao": "Circular tendo reprovado com deficiência tipo 2 com passageiro ou carga",
-    "coima": "250",
-    "codigo": "1.78.013.02.01"
+    "codigo": "1.78.013.02.01",
+    "coima": "250"
   },
   {
     "categoria": "INSPEÇÃO PERIÓDICA",
     "descricao": "Circular com deficiência tipo 3 sem ser para a oficina ou centro de IPO",
-    "coima": "250",
-    "codigo": "1.78.013.03.01"
+    "codigo": "1.78.013.03.01",
+    "coima": "250"
   }
 ]
