@@ -1,0 +1,83 @@
+[
+  {
+    "codigo": "B1",
+    "nome": "Cedência de Passagem",
+    "categoria": "Cedência de Passagem",
+    "descricao": "Desobediência ao sinal B1, não ceder prioridade.",
+    "codigoCE": "2.89.021.01.01",
+    "coima": 120,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/B1.png"
+  },
+  {
+    "codigo": "B2",
+    "nome": "Paragem Obrigatória — STOP",
+    "categoria": "Cedência de Passagem",
+    "descricao": "Desobediência ao sinal B2, STOP, não parar.",
+    "codigoCE": "3.89.021.01.04",
+    "coima": 120,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/B2.png"
+  },
+  {
+    "codigo": "C1a",
+    "nome": "Sentido Proibido",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C1 — sentido proibido.",
+    "codigoCE": "2.89.024.01.01",
+    "coima": 60,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C1.png"
+  },
+  {
+    "codigo": "C1b",
+    "nome": "Sentido Proibido com Exceto",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C1 — sentido proibido com exceto.",
+    "codigoCE": "1.89.024.01.02",
+    "coima": 60,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C1.png"
+  },
+  {
+    "codigo": "C2",
+    "nome": "Proibição de Trânsito",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C2 — trânsito proibido.",
+    "codigoCE": "1.89.024.01.03",
+    "coima": 60,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C2.png"
+  },
+  {
+    "codigo": "C11A",
+    "nome": "Proibição de Virar à Direita",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C11a — proibido virar à direita.",
+    "codigoCE": "2.89.024.01.37",
+    "coima": 60,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C11A.png"
+  },
+  {
+    "codigo": "C11B",
+    "nome": "Proibição de Virar à Esquerda",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C11b — proibido virar à esquerda.",
+    "codigoCE": "2.89.024.01.38",
+    "coima": 60,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C11B.png"
+  },
+  {
+    "codigo": "C15",
+    "nome": "Proibição de Estacionamento",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "codigoCE": "1.89.024.01.51",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png"
+  },
+  {
+    "codigo": "C16",
+    "nome": "Proibição de Paragem e Estacionamento",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C16 — paragem e estacionamento proibido.",
+    "codigoCE": "1.89.024.01.52",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C16.png"
+  }
+]
