@@ -6,6 +6,12 @@
     "secao": "fiscalizacao"
   },
   {
+    "titulo": "SEGURNET",
+    "desc": "Verificação de seguro por matrícula — sem espaços",
+    "url": "https://outsystemsprd.segurnet.pt/Home/Login",
+    "secao": "fiscalizacao"
+  },
+  {
     "titulo": "Certificados INEM",
     "desc": "Consulta de certificados e alvarás INEM",
     "url": "https://alvaras.inem.pt/DMZ/ConsultaCertificado.aspx",
