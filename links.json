@@ -9,7 +9,7 @@
     "titulo": "Certificados INEM",
     "desc": "Consulta de certificados e alvarás INEM",
     "url": "https://alvaras.inem.pt/DMZ/ConsultaCertificado.aspx",
-    "secao": "info"
+    "secao": "fiscalizacao"
   },
   {
     "titulo": "Matrículas Canceladas",
