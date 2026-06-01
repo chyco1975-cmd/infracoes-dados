@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "Verificar Seguro ASF",
+    "desc": "Verificação de seguro por matrícula — sem espaços",
+    "url": "https://www.consumidor.asf.com.pt/servi%C3%A7os/verificar-seguro-atrav%C3%A9s-da-matr%C3%ADcula",
+    "secao": "fiscalizacao"
+  },
+  {
+    "titulo": "Certificados INEM",
+    "desc": "Consulta de certificados e alvarás INEM",
+    "url": "https://alvaras.inem.pt/DMZ/ConsultaCertificado.aspx",
+    "secao": "info"
+  },
+  {
+    "titulo": "Matrículas Canceladas",
+    "desc": "Base de dados de matrículas canceladas — IMT",
+    "url": "https://www.imt-ip.pt/matriculas-canceladas/",
+    "secao": "info"
+  }
+]
