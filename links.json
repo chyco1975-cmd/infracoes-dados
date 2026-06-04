@@ -22,5 +22,17 @@
     "desc": "Base de dados de matrículas canceladas — IMT",
     "url": "https://www.imt-ip.pt/matriculas-canceladas/",
     "secao": "info"
+  },
+  {
+    "titulo": "Escala de Serviço",
+    "desc": "Previsão mensal — ETR Chaves",
+    "url": "https://rnsi-my.sharepoint.com/:x:/r/personal/fachaves_psp_pt/Documents/Previs%C3%A3o%20Mensal%20ETR/Previs%C3%A3o%20mensal%20ETR%20online.xlsx?d=w5f298fa9187b435e80e027541e555c3e&csf=1&web=1&e=v8aElx",
+    "secao": "etr"
+  },
+  {
+    "titulo": "Contactos do Efetivo",
+    "desc": "Contactos internos — ETR Chaves",
+    "url": "https://rnsi-my.sharepoint.com/:x:/g/personal/fachaves_psp_pt/IQAcdOX0qmX3QL9YOVGbB0NSAb4jYrekZ9kCtn_QX-HdqNw",
+    "secao": "etr"
   }
 ]
