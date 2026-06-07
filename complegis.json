@@ -1,10 +1,9 @@
 
 [
   {
-    "categoria": "TESTE",
-    "descricao": "A",
-    "coima": "60",
-    "codigo": "XX.XX.",
-    "observacoes": "test"
+    "titulo": "Verificar Seguro ASF",
+    "desc": "Verificação de seguro por matrícula — sem espaços",
+    "url": "https://www.consumidor.asf.com.pt/servi%C3%A7os/verificar-seguro-atrav%C3%A9s-da-matr%C3%ADcula",
+    "secao": "fiscalizacao"
   }
 ]
