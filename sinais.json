@@ -92,7 +92,7 @@
   {
     "codigo": "D1B",
     "nome": "Sinais de Obrigação",
-    "categoria": "Obrigação",
+    "categoria": "Sinaos de Obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1b",
     "codigoCE": "1.89.027.01.02",
     "coima": 60,
