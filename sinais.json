@@ -84,7 +84,7 @@
     "codigo": "D1A",
     "nome": "Não cumprimento da indicação dada pelo sinal de obrigação D1a",
     "categoria": "Sinais de Obrigação",
-    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1a",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1a – obrigação de seguir no sentido indicado pela seta inscrita no sinal na próxima intersecção.",
     "codigoCE": "1.89.027.01.01",
     "coima": 60,
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/D1A.png"
@@ -92,7 +92,7 @@
   {
     "codigo": "D1B",
     "nome": "Sinais de Obrigação",
-    "categoria": "Sinaos de Obrigação",
+    "categoria": "Sinais de Obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1b",
     "codigoCE": "1.89.027.01.02",
     "coima": 60,
