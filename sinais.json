@@ -125,6 +125,15 @@
     "coima": 60,
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/D1E.png"
   },
+  {
+    "codigo": "H1APAGO",
+    "nome": "Proibição de Estacionamento",
+    "categoria": "Sinais de Zona",
+    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "codigoCE": "1.89.024.01.51",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/H1APAGO.png"
+  },
 {
     "codigo": "G1PAGO",
     "nome": "Proibição de Estacionamento",
