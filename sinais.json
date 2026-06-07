@@ -86,53 +86,44 @@
     "categoria": "Sinais de Obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1a",
     "codigoCE": "1.89.027.01.01",
-    "coima": 30,
+    "coima": 60,
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/D1A.png"
   },
   {
     "codigo": "D1B",
     "nome": "Sinais de Obrigação",
     "categoria": "Obrigação",
-    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
-    "codigoCE": "1.89.024.01.51",
-    "coima": 30,
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1b",
+    "codigoCE": "1.89.027.01.02",
+    "coima": 60,
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/D1B.png"
   },
   {
     "codigo": "D1C",
     "nome": "Proibição de Estacionamento",
     "categoria": "Sinais de Obrigação",
-    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
-    "codigoCE": "1.89.024.01.51",
-    "coima": 30,
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1c – obrigação de seguir no sentido indicado pela seta inscrita no sinal na próxima intersecção.",
+    "codigoCE": "1.89.027.01.03",
+    "coima": 60,
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/D1C.png"
   },
   {
     "codigo": "D1D",
     "nome": "Proibição de Estacionamento",
     "categoria": "Sinais de Obrigação",
-    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
-    "codigoCE": "1.89.024.01.51",
-    "coima": 30,
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1d – obrigação de seguir no sentido indicado pela seta inscrita no sinal na próxima intersecção.",
+    "codigoCE": "1.89.027.01.04",
+    "coima": 60,
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/D1D.png"
   },
   {
     "codigo": "D1E",
     "nome": "Proibição de Estacionamento",
     "categoria": "Sinais de Obrigação",
-    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
-    "codigoCE": "1.89.024.01.51",
-    "coima": 30,
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1e – obrigação de seguir no sentido indicado pela seta inscrita no sinal na próxima intersecção.",
+    "codigoCE": "1.89.027.01.05",
+    "coima": 60,
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/D1E.png"
-  },
-  {
-    "codigo": "D4",
-    "nome": "Proibição de Estacionamento",
-    "categoria": "Sinais de Obrigação",
-    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
-    "codigoCE": "1.89.024.01.51",
-    "coima": 30,
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/D4.png"
   },
 {
     "codigo": "G1PAGO",
@@ -164,29 +155,29 @@
   
   {
     "codigo": "H1ADEFICIENTES",
-    "nome": "Proi",
+    "nome": "Estacionamento Proibido",
     "categoria": "Sianis de Informação",
-    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
-    "codigoCE": "1.89.024.01.51",
-    "coima": 30,
+    "descricao": "Estacionamento de veículo em lugar de estacionamento, exclusivamente afeto, mediante sinalização, a veículos utilizados no transporte de pessoa com deficiência, em parque de estacionamento.",
+    "codigoCE": "2.92.071.01.31",
+    "coima": 60,
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/H1ADEFICIENTES.png"
   },
   {
     "codigo": "H1AELETRICOS",
     "nome": "Proibição de Estacionamento",
     "categoria": "Sianis de Informação",
-    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
-    "codigoCE": "1.89.024.01.51",
-    "coima": 30,
+    "descricao": "ESTACIONAMENTO de veículo em local, devidamente sinalizado, reservado ao estacionamento de veículos em carga.",
+    "codigoCE": "1.90.050.01.85",
+    "coima": 60,
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/H1AELETRICOS.png"
   },
   {
     "codigo": "H1ATAXIS",
     "nome": "Proibição de Estacionamento",
     "categoria": "Sianis de Informação",
-    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
-    "codigoCE": "1.89.024.01.51",
-    "coima": 30,
+    "descricao": "ESTACIONAMENTO de veículo em local, devidamente sinalizado, reservado ao estacionamento de TAXIS.",
+    "codigoCE": "1.90.050.01.85",
+    "coima": 60,
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/H1ATAXIS.png"
   },
   {
