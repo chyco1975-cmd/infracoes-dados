@@ -79,5 +79,176 @@
     "codigoCE": "1.89.024.01.52",
     "coima": 30,
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C16.png"
+  },
+  {
+    "codigo": "D1A",
+    "nome": "XX",
+    "categoria": "Obrigação",
+    "descricao": "Desobediência ao sinal XX.",
+    "codigoCE": "XX",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/D1A.png"
+  },
+  {
+    "codigo": "C15",
+    "nome": "Proibição de Estacionamento",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "codigoCE": "1.89.024.01.51",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png"
+  },
+  {
+    "codigo": "C15",
+    "nome": "Proibição de Estacionamento",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "codigoCE": "1.89.024.01.51",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png"
+  },
+  {
+    "codigo": "C15",
+    "nome": "Proibição de Estacionamento",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "codigoCE": "1.89.024.01.51",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png"
+  },
+  {
+    "codigo": "C15",
+    "nome": "Proibição de Estacionamento",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "codigoCE": "1.89.024.01.51",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png"
+  },
+  {
+    "codigo": "C15",
+    "nome": "Proibição de Estacionamento",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "codigoCE": "1.89.024.01.51",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png"
+  },
+  {
+    "codigo": "C15",
+    "nome": "Proibição de Estacionamento",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "codigoCE": "1.89.024.01.51",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png"
+  },
+  {
+    "codigo": "C15",
+    "nome": "Proibição de Estacionamento",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "codigoCE": "1.89.024.01.51",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png"
+  },
+  {
+    "codigo": "C15",
+    "nome": "Proibição de Estacionamento",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "codigoCE": "1.89.024.01.51",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png"
+  },
+  {
+    "codigo": "C15",
+    "nome": "Proibição de Estacionamento",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "codigoCE": "1.89.024.01.51",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png"
+  },
+  {
+    "codigo": "C15",
+    "nome": "Proibição de Estacionamento",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "codigoCE": "1.89.024.01.51",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png"
+  },
+  {
+    "codigo": "C15",
+    "nome": "Proibição de Estacionamento",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "codigoCE": "1.89.024.01.51",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png"
+  },
+  {
+    "codigo": "C15",
+    "nome": "Proibição de Estacionamento",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "codigoCE": "1.89.024.01.51",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png"
+  },
+  {
+    "codigo": "C15",
+    "nome": "Proibição de Estacionamento",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "codigoCE": "1.89.024.01.51",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png"
+  },
+  {
+    "codigo": "C15",
+    "nome": "Proibição de Estacionamento",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "codigoCE": "1.89.024.01.51",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png"
+  },
+  {
+    "codigo": "C15",
+    "nome": "Proibição de Estacionamento",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "codigoCE": "1.89.024.01.51",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png"
+  },
+  {
+    "codigo": "C15",
+    "nome": "Proibição de Estacionamento",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "codigoCE": "1.89.024.01.51",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png"
+  },
+  {
+    "codigo": "C15",
+    "nome": "Proibição de Estacionamento",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "codigoCE": "1.89.024.01.51",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png"
+  },
+  {
+    "codigo": "C15",
+    "nome": "Proibição de Estacionamento",
+    "categoria": "Proibição",
+    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "codigoCE": "1.89.024.01.51",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png"
   }
 ]
