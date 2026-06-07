@@ -237,10 +237,10 @@
     "codigo": "S2",
     "nome": "Proibição de Estacionamento",
     "categoria": "Sinalização Luminosa",
-   // "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
-   // "codigoCE": "1.89.024.01.51",
-   // "coima": 30,
-   // "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/S2.png"
+    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "codigoCE": "1.89.024.01.51",
+    "coima": 30,
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/S2.png"
   },
   {
     "codigo": "C15",
