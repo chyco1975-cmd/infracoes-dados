@@ -1,9 +1,32 @@
-
 [
   {
-    "titulo": "xxx",
-    "desc": "xxx",
-    "url": "xx",
-    "secao": "fiscalizacao"
+    "titulo": "Código da Estrada",
+    "desc": "DL n.º 114/94 de 3 de maio — versão consolidada",
+    "url": "https://dre.pt/dre/legislacao-consolidada/decreto-lei/1994-34549775",
+    "secao": "Código da Estrada"
+  },
+  {
+    "titulo": "Regulamento do Código da Estrada",
+    "desc": "DL n.º 44/2005 de 23 de fevereiro",
+    "url": "https://dre.pt/dre/legislacao-consolidada/decreto-lei/2005-55685652",
+    "secao": "Código da Estrada"
+  },
+  {
+    "titulo": "Regulamento de Sinalização de Trânsito",
+    "desc": "DL n.º 22-A/98 de 1 de fevereiro",
+    "url": "https://dre.pt/dre/legislacao-consolidada/decreto-lei/1998-260742",
+    "secao": "Sinalização"
+  },
+  {
+    "titulo": "Habilitação Legal para Conduzir",
+    "desc": "DL n.º 138/2012 de 5 de julho",
+    "url": "https://dre.pt/dre/legislacao-consolidada/decreto-lei/2012-177826",
+    "secao": "Habilitação"
+  },
+  {
+    "titulo": "Seguro Automóvel Obrigatório",
+    "desc": "DL n.º 291/2007 de 21 de agosto",
+    "url": "https://dre.pt/dre/legislacao-consolidada/decreto-lei/2007-638942",
+    "secao": "Seguros"
   }
 ]
