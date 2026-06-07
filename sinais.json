@@ -128,9 +128,9 @@
   {
     "codigo": "H1APAGO",
     "nome": "Proibição de Estacionamento",
-    "categoria": "Sinais de Zona",
-    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
-    "codigoCE": "1.89.024.01.51",
+    "categoria": "Parques de Estacionamento",
+    "descricao": "Estacionamento de veículo, em parque de estacionamento sujeito ao pagamento de taxa, sem o pagamento da respetiva taxa.",
+    "codigoCE": "1.92.071.01.65",
     "coima": 30,
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/H1APAGO.png"
   },
@@ -138,8 +138,8 @@
     "codigo": "G1PAGO",
     "nome": "Proibição de Estacionamento",
     "categoria": "Sinais de Zona",
-    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
-    "codigoCE": "1.89.024.01.51",
+    "descricao": "Estacionamento de veículo, em zona de estacionamento sujeita ao pagamento de taxa, sem o pagamento da respetiva taxa.",
+    "codigoCE": "1.92.071.01.66",
     "coima": 30,
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/G1PAGO.png"
   },
@@ -147,8 +147,8 @@
     "codigo": "G2A",
     "nome": "Proibição de Estacionamento",
     "categoria": "Sinais de Zona",
-    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
-    "codigoCE": "1.89.024.01.51",
+    "descricao": "xx",
+    "codigoCE": "xx",
     "coima": 30,
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/G2A.png"
   },
@@ -156,8 +156,8 @@
     "codigo": "G3",
     "nome": "Proibição de Estacionamento",
     "categoria": "Sinais de Zona",
-    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
-    "codigoCE": "1.89.024.01.51",
+    "descricao": "xx",
+    "codigoCE": "xx",
     "coima": 30,
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/G3.png"
   },
@@ -165,7 +165,7 @@
   {
     "codigo": "H1ADEFICIENTES",
     "nome": "Estacionamento Proibido",
-    "categoria": "Sianis de Informação",
+    "categoria": "Parques de Estacionamento",
     "descricao": "Estacionamento de veículo em lugar de estacionamento, exclusivamente afeto, mediante sinalização, a veículos utilizados no transporte de pessoa com deficiência, em parque de estacionamento.",
     "codigoCE": "2.92.071.01.31",
     "coima": 60,
