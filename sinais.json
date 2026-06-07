@@ -2,7 +2,7 @@
   {
     "codigo": "B1",
     "nome": "Cedência de Passagem",
-    "categoria": "Cedência de Passagem",
+    "categoria": "Sinais de Cedência de Passagem",
     "descricao": "Desobediência ao sinal B1, não ceder prioridade.",
     "codigoCE": "2.89.021.01.01",
     "coima": 120,
@@ -11,7 +11,7 @@
   {
     "codigo": "B2",
     "nome": "Paragem Obrigatória — STOP",
-    "categoria": "Cedência de Passagem",
+    "categoria": "Sinais de Cedência de Passagem",
     "descricao": "Desobediência ao sinal B2, STOP, não parar.",
     "codigoCE": "3.89.021.01.04",
     "coima": 120,
@@ -20,7 +20,7 @@
   {
     "codigo": "C1a",
     "nome": "Sentido Proibido",
-    "categoria": "Proibição",
+    "categoria": "Sinais de Proibição",
     "descricao": "Desobediência ao sinal C1 — sentido proibido.",
     "codigoCE": "2.89.024.01.01",
     "coima": 60,
@@ -29,7 +29,7 @@
   {
     "codigo": "C1b",
     "nome": "Sentido Proibido com Exceto",
-    "categoria": "Proibição",
+    "categoria": "Sinais de Proibição",
     "descricao": "Desobediência ao sinal C1 — sentido proibido com exceto.",
     "codigoCE": "1.89.024.01.02",
     "coima": 60,
@@ -38,7 +38,7 @@
   {
     "codigo": "C2",
     "nome": "Proibição de Trânsito",
-    "categoria": "Proibição",
+    "categoria": "Sinais de Proibição",
     "descricao": "Desobediência ao sinal C2 — trânsito proibido.",
     "codigoCE": "1.89.024.01.03",
     "coima": 60,
@@ -47,7 +47,7 @@
   {
     "codigo": "C11A",
     "nome": "Proibição de Virar à Direita",
-    "categoria": "Proibição",
+    "categoria": "Sinais de Proibição",
     "descricao": "Desobediência ao sinal C11a — proibido virar à direita.",
     "codigoCE": "2.89.024.01.37",
     "coima": 60,
@@ -56,7 +56,7 @@
   {
     "codigo": "C11B",
     "nome": "Proibição de Virar à Esquerda",
-    "categoria": "Proibição",
+    "categoria": "Sinais de Proibição",
     "descricao": "Desobediência ao sinal C11b — proibido virar à esquerda.",
     "codigoCE": "2.89.024.01.38",
     "coima": 60,
@@ -65,7 +65,7 @@
   {
     "codigo": "C15",
     "nome": "Proibição de Estacionamento",
-    "categoria": "Proibição",
+    "categoria": "Sinais de Proibição",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
     "coima": 30,
@@ -74,7 +74,7 @@
   {
     "codigo": "C16",
     "nome": "Proibição de Paragem e Estacionamento",
-    "categoria": "Proibição",
+    "categoria": "Sinais de Proibição",
     "descricao": "Desobediência ao sinal C16 — paragem e estacionamento proibido.",
     "codigoCE": "1.89.024.01.52",
     "coima": 30,
@@ -83,7 +83,7 @@
   {
     "codigo": "D1A",
     "nome": "Não cumprimento da indicação dada pelo sinal de obrigação D1a",
-    "categoria": "Obrigação",
+    "categoria": "Sinais de Obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1a",
     "codigoCE": "1.89.027.01.01",
     "coima": 30,
@@ -91,7 +91,7 @@
   },
   {
     "codigo": "D1B",
-    "nome": "Obrigação",
+    "nome": "Sinais de Obrigação",
     "categoria": "Obrigação",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
@@ -101,7 +101,7 @@
   {
     "codigo": "D1C",
     "nome": "Proibição de Estacionamento",
-    "categoria": "Obrigação",
+    "categoria": "Sinais de Obrigação",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
     "coima": 30,
@@ -110,7 +110,7 @@
   {
     "codigo": "D1D",
     "nome": "Proibição de Estacionamento",
-    "categoria": "Obrigação",
+    "categoria": "Sinais de Obrigação",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
     "coima": 30,
@@ -119,7 +119,7 @@
   {
     "codigo": "D1E",
     "nome": "Proibição de Estacionamento",
-    "categoria": "Obrigação",
+    "categoria": "Sinais de Obrigação",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
     "coima": 30,
@@ -128,7 +128,7 @@
   {
     "codigo": "D4",
     "nome": "Proibição de Estacionamento",
-    "categoria": "Obrigação",
+    "categoria": "Sinais de Obrigação",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
     "coima": 30,
