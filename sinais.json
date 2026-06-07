@@ -91,8 +91,8 @@
   },
   {
     "codigo": "D1B",
-    "nome": "Proibição de Estacionamento",
-    "categoria": "Proibição",
+    "nome": "Obrigação",
+    "categoria": "Obrigação",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
     "coima": 30,
@@ -101,7 +101,7 @@
   {
     "codigo": "D1C",
     "nome": "Proibição de Estacionamento",
-    "categoria": "Proibição",
+    "categoria": "Obrigação",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
     "coima": 30,
@@ -110,7 +110,7 @@
   {
     "codigo": "D1D",
     "nome": "Proibição de Estacionamento",
-    "categoria": "Proibição",
+    "categoria": "Obrigação",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
     "coima": 30,
@@ -119,7 +119,7 @@
   {
     "codigo": "D1E",
     "nome": "Proibição de Estacionamento",
-    "categoria": "Proibição",
+    "categoria": "Obrigação",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
     "coima": 30,
@@ -128,7 +128,7 @@
   {
     "codigo": "D4",
     "nome": "Proibição de Estacionamento",
-    "categoria": "Proibição",
+    "categoria": "Obrigação",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
     "coima": 30,
@@ -137,7 +137,7 @@
   {
     "codigo": "G1PAGO",
     "nome": "Proibição de Estacionamento",
-    "categoria": "Proibição",
+    "categoria": "Sinais de Zona",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
     "coima": 30,
@@ -146,7 +146,7 @@
   {
     "codigo": "G2A",
     "nome": "Proibição de Estacionamento",
-    "categoria": "Proibição",
+    "categoria": "Sinais de Zona",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
     "coima": 30,
@@ -155,7 +155,7 @@
   {
     "codigo": "G3",
     "nome": "Proibição de Estacionamento",
-    "categoria": "Proibição",
+    "categoria": "Sinais de Zona",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
     "coima": 30,
@@ -163,8 +163,8 @@
   },
   {
     "codigo": "H1ADEFICIENTES",
-    "nome": "Proibição de Estacionamento",
-    "categoria": "Proibição",
+    "nome": "Proi",
+    "categoria": "Sianis de Informação",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
     "coima": 30,
@@ -173,7 +173,7 @@
   {
     "codigo": "H1AELETRICOS",
     "nome": "Proibição de Estacionamento",
-    "categoria": "Proibição",
+    "categoria": "Sianis de Informação",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
     "coima": 30,
@@ -182,7 +182,7 @@
   {
     "codigo": "H1ATAXIS",
     "nome": "Proibição de Estacionamento",
-    "categoria": "Proibição",
+    "categoria": "Sianis de Informação",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
     "coima": 30,
@@ -191,7 +191,7 @@
   {
     "codigo": "H20A",
     "nome": "Proibição de Estacionamento",
-    "categoria": "Proibição",
+    "categoria": "Sianis de Informação",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
     "coima": 30,
@@ -200,7 +200,7 @@
   {
     "codigo": "M13",
     "nome": "Proibição de Estacionamento",
-    "categoria": "Proibição",
+    "categoria": "SMarcas de Estacionamento e Paragem",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
     "coima": 30,
@@ -209,7 +209,7 @@
   {
     "codigo": "M14",
     "nome": "Proibição de Estacionamento",
-    "categoria": "Proibição",
+    "categoria": "Marcas de Estacionamento e Paragem",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
     "coima": 30,
@@ -218,7 +218,7 @@
   {
     "codigo": "M14A",
     "nome": "Proibição de Estacionamento",
-    "categoria": "Proibição",
+    "categoria": "Marcas de Estacionamento e Paragem",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
     "coima": 30,
@@ -227,7 +227,7 @@
   {
     "codigo": "S1",
     "nome": "Proibição de Estacionamento",
-    "categoria": "Proibição",
+    "categoria": "Sinalização Luminosa",
     "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
     "codigoCE": "1.89.024.01.51",
     "coima": 30,
@@ -236,11 +236,11 @@
   {
     "codigo": "S2",
     "nome": "Proibição de Estacionamento",
-    "categoria": "Proibição",
-    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
-    "codigoCE": "1.89.024.01.51",
-    "coima": 30,
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/S2.png"
+    "categoria": "Sinalização Luminosa",
+   // "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+   // "codigoCE": "1.89.024.01.51",
+   // "coima": 30,
+   // "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/S2.png"
   },
   {
     "codigo": "C15",
