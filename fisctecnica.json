@@ -66,9 +66,93 @@
     "secao": "Legislação"
   },
   {
-    "titulo": "Expediente",
+    "titulo": "Expediente Criminal (Tacografos)",
     "desc": "Documentação fiscalização técnica",
-    "url": "https://drive.google.com/drive/folders/1UQ-iOAEBFTmCwPMwOr0fFVt48b4fXN4Y?usp=drive_link",
-    "secao": "Google Drive"
+    "url": "https://drive.google.com/drive/folders/1sKDW19StDEMUcN5yHzQEEY875GaUbU1t?usp=drive_link",
+    "secao": "EXPEDIENTE"
+  },
+  {
+    "titulo": "Auto (Introdução e Conclusão) - SEI",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/1sKDW19StDEMUcN5yHzQEEY875GaUbU1t?usp=drive_link",
+    "secao": "EXPEDIENTE"
+  },
+  {
+    "titulo": "Condução Diária",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/150eqJQleugtJ2jK0rDQJS9PdxzpKvWsk?usp=drive_link",
+    "secao": "EXPEDIENTE"
+  }, 
+  {
+    "titulo": "Condução Ininterrupta",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/1Nr7CqugmyOC634HV6Rmc8PN_ev9CgEae?usp=drive_link",
+    "secao": "EXPEDIENTE"
+  },
+  {
+    "titulo": "Condução Semanal",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/17XNbv8ish2erWROU5zQrTtJTgAg4omA5?usp=drive_link",
+    "secao": "EXPEDIENTE"
+  },
+  {
+    "titulo": "Outras Infrações",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/1TeRUO7gHAq3cf6E-NNVtLyrEUn2k5Q6t?usp=drive_link",
+    "secao": "EXPEDIENTE"
+  },
+  {
+    "titulo": "Repouso Diário",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/12keDXGNhzPvH24B5-SxdSC__X6mYME93?usp=drive_link",
+    "secao": "EXPEDIENTE"
+  },
+  {
+    "titulo": "Repouso Diário (amplitude 24 horas)",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/1ZpDo7tL5qUWjP5H9ZMIp0C3XUsWTNlFg?usp=drive_link",
+    "secao": "EXPEDIENTE"
+  },
+  {
+    "titulo": "Repouso Semanal",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/1OV_D65-Qo63pVeDSBOFzAgUhQ3vEDBH6?usp=drive_link",
+    "secao": "EXPEDIENTE"
+  },
+  {
+    "titulo": "Tacógrafo (aparelho)",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/1tjVuxsRntBQsfA3XXeJrHaSeUT837LYp?usp=drive_link",
+    "secao": "EXPEDIENTE"
+  },
+  {
+    "titulo": "Tacógrafo (discos - cartão)",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/1xyR6dbQT3-nenW1RA03G-L_gJgMQ41OB?usp=drive_link",
+    "secao": "EXPEDIENTE"
+  },
+  {
+    "titulo": "xxx Carreira até 50km - Trabalhador móvel",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/1tLoaCndu9bgfcemwZr6t9Q5b2s2tMnyj?usp=drive_link",
+    "secao": "EXPEDIENTE"
+  },
+  {
+    "titulo": "xxx TÁXI - Trabalhador móvel",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/1kTQZgQKAcxdI4IhWjL8hUx6ODEQlJ8xT?usp=drive_link",
+    "secao": "EXPEDIENTE"
+  },
+  {
+    "titulo": "xxx TVDE - Condutor independente",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/13ULudIiFFxKPwqHFY42uEv-CWHpGtVQq?usp=drive_link",
+    "secao": "EXPEDIENTE"
+  },
+  {
+    "titulo": "xxx TVDE - Trabalhador móvel",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/1YuIohYFfvkvMHViXgiqwHYRLRDWX9Y7t?usp=drive_link",
+    "secao": "EXPEDIENTE"
   }
 ]
