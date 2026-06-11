@@ -1,13 +1,13 @@
 [
   {
     "titulo": "Verificar Seguro ASF",
-    "desc": "Verificação de seguro por matrícula — sem espaços",
+    "desc": "",
     "url": "https://www.consumidor.asf.com.pt/servi%C3%A7os/verificar-seguro-atrav%C3%A9s-da-matr%C3%ADcula",
     "secao": "fiscalizacao"
   },
   {
     "titulo": "SEGURNET",
-    "desc": "Verificação de seguro por matrícula — sem espaços",
+    "desc": "",
     "url": "https://outsystemsprd.segurnet.pt/Home/Login",
     "secao": "fiscalizacao"
   },
@@ -24,14 +24,14 @@
     "secao": "info"
   },
   {
-    "titulo": "Escala de Serviço",
-    "desc": "Previsão mensal — ETR Chaves",
+    "titulo": "Escala de Serviço ETR",
+    "desc": "",
     "url": "https://rnsi-my.sharepoint.com/:x:/g/personal/fachaves_psp_pt/IQCpjylfexheQ4DgJ1QeVVw-AfVDAR3hhQK9Jvk9SUD4ASU",
     "secao": "etr"
   },
   {
-    "titulo": "Contactos do Efetivo",
-    "desc": "Contactos internos — ETR Chaves",
+    "titulo": "Contactos do Efetivo Div.",
+    "desc": "Ativos, Reformados, Transferidos",
     "url": "https://rnsi-my.sharepoint.com/:x:/r/personal/fachaves_psp_pt/Documents/Contactos%20Efetivo%20Div.%20chaves/Contactos%20Efetivo.xlsx?d=wf4e5741c65aa40f7bf5839519b074352&csf=1&web=1&e=7wXssv",
     "secao": "etr"
   }
