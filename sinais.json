@@ -27,15 +27,6 @@
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C1.png"
   },
   {
-    "codigo": "C1b",
-    "nome": "Sentido Proibido com Exceto",
-    "categoria": "Sinais de Proibição",
-    "descricao": "Desobediência ao sinal C1 — sentido proibido com exceto.",
-    "codigoCE": "1.89.024.01.02",
-    "coima": 60,
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C1.png"
-  },
-  {
     "codigo": "C2",
     "nome": "Proibição de Trânsito",
     "categoria": "Sinais de Proibição",
@@ -127,7 +118,7 @@
   },
   {
     "codigo": "H1APAGO",
-    "nome": "Proibição de Estacionamento",
+    "nome": "Estacionamento Pago",
     "categoria": "Parques de Estacionamento",
     "descricao": "Estacionamento de veículo, em parque de estacionamento sujeito ao pagamento de taxa, sem o pagamento da respetiva taxa.",
     "codigoCE": "1.92.071.01.65",
@@ -136,7 +127,7 @@
   },
 {
     "codigo": "G1PAGO",
-    "nome": "Proibição de Estacionamento",
+    "nome": "Zona de Estacionamento Pago",
     "categoria": "Sinais de Zona",
     "descricao": "Estacionamento de veículo, em zona de estacionamento sujeita ao pagamento de taxa, sem o pagamento da respetiva taxa.",
     "codigoCE": "1.92.071.01.66",
@@ -173,7 +164,7 @@
   },
   {
     "codigo": "H1AELETRICOS",
-    "nome": "Proibição de Estacionamento",
+    "nome": "Estacionamento Autorizado a Veículos Eletricos em Carga",
     "categoria": "Sianis de Informação",
     "descricao": "ESTACIONAMENTO de veículo em local, devidamente sinalizado, reservado ao estacionamento de veículos em carga.",
     "codigoCE": "1.90.050.01.85",
@@ -182,7 +173,7 @@
   },
   {
     "codigo": "H1ATAXIS",
-    "nome": "Proibição de Estacionamento",
+    "nome": "Estacionamento Autorizado a Taxis",
     "categoria": "Sianis de Informação",
     "descricao": "ESTACIONAMENTO de veículo em local, devidamente sinalizado, reservado ao estacionamento de TAXIS.",
     "codigoCE": "1.90.050.01.85",
