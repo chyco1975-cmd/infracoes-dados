@@ -3,6 +3,7 @@
     "categoria": "ATOS DO CONDUTOR",
     "descricao": "Prática de atos que impeçam/embaracem/comprometam a segurança",
     "coima": "60",
+    "punicao": "norma x",
     "codigo": "1.86.003.02.01",
     "observacoes": "obs"
   },
