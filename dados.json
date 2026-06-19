@@ -2,12 +2,20 @@
   {
     "categoria": "ATOS DO CONDUTOR",
     "descricao": "Prática de atos que impeçam/embaracem/comprometam a segurança",
-    "infracao": "norma y",
-    "coima": "60 a 200 - norma z",
-    "punicao": "norma x",
+    "coima": "60",
     "codigo": "1.86.003.02.01",
-    "observacoes": "obs"
+    "observacoes": ""
   },
+  {
+  "descricao": "ATOS DO CONDUTOR",
+  "infracao": "art.º 81.º n.º 1 do CE",
+  "coima": "€ 250 a € 1250 - art.º 81.º n.º 6 a)",
+  "punicao": "Coima aplicável ao condutor",
+  "classificacao": "GRAVE - 3 Pontos",
+  "codigo": "2.90.081.01.01",
+  "observacoes": "...",
+  "sancao_acessoria": "..."
+},
   {
     "categoria": "ATOS DO CONDUTOR",
     "descricao": "Prática de atos com intuito de impedir a circulação de veículos a motor",
