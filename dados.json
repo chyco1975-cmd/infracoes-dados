@@ -1,12 +1,12 @@
 [
   {
     "categoria": "ATOS DO CONDUTOR",
-    "descricao": "Prática de atos que impeçam/embaracem/comprometam a segurança teste",
+    "descricao": "teste",
     "infracao": "art.º 81.º n.º 1 do CE",
     "coima": "€ 250 a € 1250 - art.º 81.º n.º 6 a)",
     "punicao": "Coima aplicável ao condutor",
     "classificacao": "GRAVE - 3 Pontos",
-    "codigo": "1.86.003.02.01",
+    "codigo": "teste",
     "observacoes": "--",
     "sancao_acessoria": "...",
       "apreensao": "...",
