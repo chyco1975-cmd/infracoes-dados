@@ -1,11 +1,112 @@
-[
+[ 
   {
-    "categoria": "CONDUÇÃO DE ANIMAIS",
-    "descricao": "Condução de animais sem tomar as precauções necessárias para a segurança do trânsito.",
-    "infracao": "art.º 57.º do C.E.",
-    "coima": "60",
+    "categoria": "Disposições comuns",
+    "descricao": "Circulação de veículo (ou de animal) na via pública, sem condutor.",
+    "infracao": "ARTIGO 11.º n.º 1",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 11.º n.º 4",
     "classificacao": "LEVE",
-    "codigo": "1.86.057.01.01",
-    "observacoes": "EXEMPLO — confirmar artigo, codificação e coima."
-  }
+    "codigo": "1.86.011.01.01",
+    "sancao_acessoria": ""
+  },  
+  {
+    "categoria": "Disposições comuns",
+    "descricao": "Condução de veículo de tração animal (ou de animais ou de velocípede ou de automóveis pesados) em rotunda ocupando a via de trânsito mais à direita não facultando a saída ao condutor que pretende ocupar a via de trânsito mais à direita para sair da rotunda.",
+    "infracao": "ARTIGO 14.º-A n.º 2",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 14.º A n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.86.014.06.03",
+    "sancao_acessoria": ""
+  },  
+  {
+    "categoria": "Cedência de passagem",
+    "descricao": "Condução de veículo de tração animal (ou de animais) não cedendo a passagem a veículo a motor que não saia de parque de estacionamento (ou zona de abastecimento de combustível ou de qualquer prédio ou caminho particular ou que não esteja a entrar na rotunda).",
+    "infracao": "ARTIGO 32.º n.º 6",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 32.º n.º 7",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.032.06.01",
+    "sancao_acessoria": ""
+  },  
+  {
+    "categoria": "Algumas manobras",
+    "descricao": "Condução de automóvel pesado (ou de veículo agrícola ou de máquina industrial ou de veículo de tração animal ou de veículo transitando em marcha lenta) fora das localidades e em faixa de rodagem com uma única via de trânsito afeta a cada sentido, mantendo uma distância inferior a 50 m em relação ao veículo precedente por forma a permitir a sua ultrapassagem em segurança.",
+    "infracao": "ARTIGO 40.º n.º 1",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 40.º n.º 4",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.040.01.01",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147.º2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },  
+  {
+    "categoria": "Transporte pessoas/carga",
+    "descricao": "Trânsito de veículo (ou de animal) carregado por tal forma que constitua perigo (ou embaraço) para os outros utentes da via (ou danifique o pavimento, ou instalação, ou obra de arte ou imóvel marginal).",
+    "infracao": "ARTIGO 56.º n.º 2",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 56.º n.º 5",
+    "classificacao": "LEVE",
+    "codigo": "1.86.056.02.01",
+    "sancao_acessoria": ""
+  },  
+  {
+    "categoria": "Trânsito em certas vias",
+    "descricao": "Entrada em passagem de nível encontrando-se os meios de proteção atravessados (ou em movimento).",
+    "infracao": "ARTIGO 67.º n.º 2",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 67.º n.º 4",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.067.02.01",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },  
+  {
+    "categoria": "Trânsito em certas vias",
+    "descricao": "Não remoção imediata de veículo (ou de animal) imobilizado (ou de carga caída) numa passagem de nível.",
+    "infracao": "ARTIGO n.º 68.º n.º 1",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 68.º n.º 2",
+    "classificacao": "LEVE",
+    "codigo": "1.86.068.01.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Trânsito em certas vias",
+    "descricao": "Não remoção imediata do velocípede (ou do velocípede com motor ou da trotineta com motor ou do dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) imobilizado (ou de carga caída) numa passagem de nível.",
+    "infracao": "ARTIGO n.º 68.º n.º 1",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 68.º n.º 2 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.86.068.01.02",
+    "sancao_acessoria": ""
+  },  
+  {
+    "categoria": "Trânsito em certas vias",
+    "descricao": "Trânsito de peão (ou de animal, ou de veículo de tração animal, ou de velocípede, ou de ciclomotor, ou de motociclo ou de triciclo de cilindrada não superior a 50 cm3, ou de quadriciclo, ou de veículo agrícola, ou de comboio turístico, ou de veículo não atingindo em patamar velocidade superior a 60 Km/h, ou de veículo ao qual tenha sido fixada velocidade máxima igual ou inferior a 60km/h) em autoestrada (ou no respetivo acesso devidamente sinalizado).",
+    "infracao": "ARTIGO 72.º n.º 1",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 72.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.86.072.01.01",
+    "sancao_acessoria": ""
+  },  
+  {
+    "categoria": "veículos tração animal e animais",
+    "descricao": "Condução de veículo de tração animal (ou de animais em grupo), durante o dia, em túnel não utilizando uma lanterna de luz branca visível em ambos os sentidos de trânsito.",
+    "infracao": "ARTIGO 97.º n.º 4",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 97.º n.º 5",
+    "classificacao": "LEVE",
+    "codigo": "1.86.097.04.03",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "veículos tração animal e animais",
+    "descricao": "Proprietário de animal permitindo que aquele vagueie na via pública impedindo (ou constituindo perigo para) o trânsito.",
+    "infracao": "ARTIGO 97.º n.º 6",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 97.º n.º 6",
+    "classificacao": "LEVE",
+    "codigo": "1.86.097.06.01",
+    "sancao_acessoria": ""
+  }  
 ]
