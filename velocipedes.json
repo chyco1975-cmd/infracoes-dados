@@ -1,0 +1,11 @@
+[
+  {
+    "categoria": "CIRCULAÇÃO",
+    "descricao": "Condução de velocípede sem transitar o mais próximo possível da berma ou do limite direito da faixa de rodagem.",
+    "infracao": "art.º 90.º n.º 1 do C.E.",
+    "coima": "30",
+    "classificacao": "LEVE",
+    "codigo": "1.86.090.03.01 teste",
+    "observacoes": "EXEMPLO — confirmar artigo, codificação e coima."
+  }
+]
