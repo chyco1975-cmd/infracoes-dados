@@ -1,0 +1,11 @@
+[
+  {
+    "categoria": "CONDUÇÃO DE ANIMAIS",
+    "descricao": "Condução de animais sem tomar as precauções necessárias para a segurança do trânsito.",
+    "infracao": "art.º 57.º do C.E.",
+    "coima": "60",
+    "classificacao": "LEVE",
+    "codigo": "1.86.057.01.01",
+    "observacoes": "EXEMPLO — confirmar artigo, codificação e coima."
+  }
+]
