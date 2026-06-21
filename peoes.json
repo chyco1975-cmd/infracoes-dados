@@ -1,0 +1,11 @@
+[
+  {
+    "categoria": "CIRCULAÇÃO",
+    "descricao": "Peão a transitar pela faixa de rodagem havendo passeio ou berma praticável.",
+    "infracao": "art.º 99.º do C.E.",
+    "coima": "10 a 50",
+    "classificacao": "LEVE",
+    "codigo": "1.86.099.01.01",
+    "observacoes": "EXEMPLO — confirmar artigo, codificação e coima."
+  }
+]
