@@ -170,46 +170,6 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Proibição temporária ou permanente da circulação de certos veículos",
-    "descricao": "Condução de veículo cuja circulação se encontra temporariamente proibida por regulamento.",
-    "infracao": "ARTIGO 10.º n.º 1",
-    "coima": "€ 150 a € 750",
-    "punicao": "art.º 10.º n.º 4",
-    "classificacao": "LEVE",
-    "codigo": "1.86.010.01.01",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Proibição temporária ou permanente da circulação de certos veículos",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, ou de outro meio de circulação análogo com motor) cuja circulação se encontra temporariamente proibida por regulamento.",
-    "infracao": "ARTIGO 10.º n.º 1",
-    "coima": "€ 75 a € 375",
-    "punicao": "art.º 10.º n.º 4 e art.º 96.º",
-    "classificacao": "LEVE",
-    "codigo": "1.86.010.01.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Proibição temporária ou permanente da circulação de certos veículos",
-    "descricao": "Condução de veículo em infração a regulamento que condiciona temporariamente (ou permanentemente) a sua circulação.",
-    "infracao": "ARTIGO 10.º n.º 2",
-    "coima": "€ 150 a € 750",
-    "punicao": "art.º 10.º n.º 4",
-    "classificacao": "LEVE",
-    "codigo": "1.86.010.02.01",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Proibição temporária ou permanente da circulação de certos veículos",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, ou de outro meio de circulação análogo com motor) em infração a regulamento que condiciona temporariamente (ou permanentemente) a sua circulação.",
-    "infracao": "ARTIGO 10.º n.º 2",
-    "coima": "€ 75 a € 375",
-    "punicao": "art.º 10.º n.º 4 e art.º 96.º",
-    "classificacao": "LEVE",
-    "codigo": "1.86.010.02.02",
-    "sancao_acessoria": ""
-  },
-  {
     "categoria": "Início de marcha",
     "descricao": "Início de marcha sem assinalar com antecedência essa intenção (ou sem adotar as precauções necessárias para evitar acidente).",
     "infracao": "ARTIGO 12.º n.º 1",
