@@ -125,7 +125,7 @@
     "coima": 30,
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/H1APAGO.png"
   },
-{
+  {
     "codigo": "G1PAGO",
     "nome": "Zona de Estacionamento Pago",
     "categoria": "Sinais de Zona",
@@ -151,8 +151,7 @@
     "codigoCE": "xx",
     "coima": 30,
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/G3.png"
-  },
-  
+  },  
   {
     "codigo": "H1ADEFICIENTES",
     "nome": "Estacionamento Proibido",
@@ -243,7 +242,7 @@
     "coima": 30,
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png"
   },
-  [  {
+  {
     "categoria": "Princípios gerais",
     "descricao": "Sinal de trânsito acompanhado de motivo decorativo (ou de qualquer espécie de publicidade comercial).",
     "infracao": "ARTIGO 1.º n.º 2",
@@ -342,4 +341,5 @@
     "classificacao": "LEVE",
     "codigo": "1.89.024.01.02",
     "sancao_acessoria": ""
+  }
 ]
