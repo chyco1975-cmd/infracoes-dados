@@ -21,11 +21,14 @@
     "codigo": "C1a",
     "nome": "Sentido Proibido",
     "categoria": "Sinais de Proibição",
-    "descricao": "Desobediência ao sinal C1 — sentido proibido.",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C1 – sentido proibido.",
+    "infracao": "ARTIGO 24.º",
+    "punicao": "art.º 26.º n.º 1",
     "codigoCE": "2.89.024.01.01",
-    "coima": 60,
+    "coima": "Coima: € 60,00 a € 300,00",
+    "classificacao": "GRAVE",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 a) do C.E. Condutor: Inibição de Conduzir 1/12 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º3 do C.E.)",
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C1.png"
-  },
   {
     "codigo": "C2",
     "nome": "Proibição de Trânsito",
@@ -321,16 +324,6 @@
     "classificacao": "GRAVE",
     "codigo": "2.89.021.01.05",
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) do C.E. Condutor: Inibição de Conduzir 1/12 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3 do C.E.)"
-  },
-  {
-    "categoria": "Enumeração e significado dos sinais de proibição",
-    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C1 – sentido proibido.",
-    "infracao": "ARTIGO 24.º",
-    "coima": "Coima: € 60,00 a € 300,00",
-    "punicao": "art.º 26.º n.º 1",
-    "classificacao": "GRAVE",
-    "codigo": "2.89.024.01.01",
-    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 a) do C.E. Condutor: Inibição de Conduzir 1/12 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º3 do C.E.)"
   },
   {
     "categoria": "Enumeração e significado dos sinais de proibição",
