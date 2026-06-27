@@ -3,9 +3,13 @@
     "codigo": "B1",
     "nome": "Cedência de Passagem",
     "categoria": "Sinais de Cedência de Passagem",
-    "descricao": "Desobediência ao sinal B1, não ceder prioridade.",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de cedência de passagem B1.",
+    "infracao": "ARTIGO 21.º",
+    "punicao": "art.º 23.º a)",
     "codigoCE": "2.89.021.01.01",
-    "coima": 120,
+    "coima": "Coima: € 120,00 a € 600,00",  
+    "classificacao": "GRAVE",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) do C.E. Condutor: Inibição de Conduzir 1/12 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3 do C.E.)",
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/B1.png"
   },
   {
@@ -276,16 +280,7 @@
     "codigo": "1.89.003.01.01",
     "sancao_acessoria": ""
   },
-  {
-    "categoria": "Sinais de cedência de passagem",
-    "descricao": "Não cumprimento da indicação dada pelo sinal de cedência de passagem B1.",
-    "infracao": "ARTIGO 21.º",
-    "coima": "Coima: € 120,00 a € 600,00",
-    "punicao": "art.º 23.º a)",
-    "classificacao": "GRAVE",
-    "codigo": "2.89.021.01.01",
-    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) do C.E. Condutor: Inibição de Conduzir 1/12 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3 do C.E.)"
-  },
+  
   {
     "categoria": "Sinais de cedência de passagem",
     "descricao": "Não cumprimento, em autoestrada, da indicação dada pelo sinal de cedência de passagem B1.",
