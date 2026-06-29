@@ -193,11 +193,13 @@
   },
   {
     "codigo": "G2A",
-    "nome": "Proibição de Estacionamento",
+    "nome": "Zona de paragem e estacionamento proibidos",
     "categoria": "Sinais de Zona",
-    "descricao": "xx",
-    "codigoCE": "xx",
-    "coima": 30,
+    "descricao": "Zona de paragem e estacionamento proibidos: indicação de entrada numa zona em que a paragem e o estacionamento são proibidos",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98"
+    "punicao": "n.º 1 art.º 26.º"
+    "codigoCE": "1.89.024.01.51",
+    "coima": "Coima: € 30,00 a € 150,00",
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/G2A.png"
   },
   {
