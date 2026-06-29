@@ -42,109 +42,154 @@
     "codigo": "C2",
     "nome": "Proibição de Trânsito",
     "categoria": "Sinais de Proibição",
-    "descricao": "Desobediência ao sinal C2 — trânsito proibido.",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C2 – trânsito proibido.",
+    "infracao": "ARTIGO 24.º",
+    "coima": "Coima: € 60,00 a € 300,00",
+    "punicao": "art.º 26.º n.º 1",
+    "classificacao": "LEVE",
     "codigoCE": "1.89.024.01.03",
-    "coima": 60,
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C2.png"
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C2.png",
+    "sancao_acessoria": ""
   },
   {
     "codigo": "C11A",
     "nome": "Proibição de Virar à Direita",
     "categoria": "Sinais de Proibição",
-    "descricao": "Desobediência ao sinal C11a — proibido virar à direita.",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C11a– Proibição de virar à direita.",
+    "infracao": "ARTIGO 24.º",
+    "coima": "Coima: € 60,00 a € 300,00",
+    "punicao": "art.º 26.º n.º 1",
+    "classificacao": "GRAVE",
     "codigoCE": "2.89.024.01.37",
-    "coima": 60,
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C11A.png"
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C11A.png",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) do C.E. Condutor: Inibição de Conduzir 1/12 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3 C.E.)"
   },
   {
     "codigo": "C11B",
     "nome": "Proibição de Virar à Esquerda",
     "categoria": "Sinais de Proibição",
-    "descricao": "Desobediência ao sinal C11b — proibido virar à esquerda.",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C11b– Proibição de virar à esquerda.",
+    "infracao": "ARTIGO 24.º",
+    "coima": "Coima: € 60,00 a € 300,00",
+    "punicao": "art.º 26.º n.º 1",
+    "classificacao": "GRAVE",
     "codigoCE": "2.89.024.01.38",
-    "coima": 60,
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C11B.png"
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C11B.png",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) do C.E. Condutor: Inibição de Conduzir 1/12 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3 C.E.)"
   },
   {
     "codigo": "C15",
     "nome": "Proibição de Estacionamento",
     "categoria": "Sinais de Proibição",
-    "descricao": "Desobediência ao sinal C15 — estacionamento proibido.",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C15 – estacionamento proibido.",
+    "infracao": "ARTIGO 24.º",
+    "coima": "Coima: € 30,00 a € 150,00",
+    "punicao": "art.º 26.º n.º 1",
+    "classificacao": "LEVE",
     "codigoCE": "1.89.024.01.51",
-    "coima": 30,
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png"
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C15.png",
+    "sancao_acessoria": ""
   },
   {
     "codigo": "C16",
     "nome": "Proibição de Paragem e Estacionamento",
     "categoria": "Sinais de Proibição",
-    "descricao": "Desobediência ao sinal C16 — paragem e estacionamento proibido.",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C16 – paragem e estacionamento proibidos.",
+    "infracao": "ARTIGO 24.º",
+    "coima": "Coima: € 30,00 a € 150,00",
+    "punicao": "art.º 26.º n.º 1",
+    "classificacao": "LEVE",
     "codigoCE": "1.89.024.01.52",
-    "coima": 30,
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C16.png"
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/C16.png",
+    "sancao_acessoria": ""
   },
   {
     "codigo": "D1A",
     "nome": "Não cumprimento da indicação dada pelo sinal de obrigação D1a",
     "categoria": "Sinais de Obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1a – obrigação de seguir no sentido indicado pela seta inscrita no sinal na próxima intersecção.",
-    "codigoCE": "1.89.027.01.01",
-    "coima": 60,
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/D1A.png"
+    "infracao": "ARTIGO 27.º",
+    "coima": "Coima: € 60,00 a € 300,00",
+    "punicao": "art.º 29.º n.º 1",
+    "classificacao": "LEVE",
+    "codigoCE": "1.89.027.01.01",    
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/D1A.png",
+    "sancao_acessoria": ""
   },
   {
     "codigo": "D1B",
     "nome": "Sinais de Obrigação",
     "categoria": "Sinais de Obrigação",
-    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1b",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1b – sentido obrigatório.",
+    "infracao": "ARTIGO 27.º",
+    "coima": "Coima: € 60,00 a € 300,00",
+    "punicao": "art.º 29.º n.º 1",
+    "classificacao": "LEVE",
     "codigoCE": "1.89.027.01.02",
-    "coima": 60,
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/D1B.png"
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/D1B.png",
+    "sancao_acessoria": ""
   },
   {
     "codigo": "D1C",
     "nome": "Proibição de Estacionamento",
     "categoria": "Sinais de Obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1c – obrigação de seguir no sentido indicado pela seta inscrita no sinal na próxima intersecção.",
+    "coima": "Coima: € 60,00 a € 300,00",
+    "punicao": "art.º 29.º n.º 1",
+    "classificacao": "LEVE",
     "codigoCE": "1.89.027.01.03",
-    "coima": 60,
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/D1C.png"
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/D1C.png",
+    "sancao_acessoria": ""
   },
   {
     "codigo": "D1D",
     "nome": "Proibição de Estacionamento",
     "categoria": "Sinais de Obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1d – obrigação de seguir no sentido indicado pela seta inscrita no sinal na próxima intersecção.",
+    "infracao": "ARTIGO 27.º",
+    "coima": "Coima: € 60,00 a € 300,00",
+    "punicao": "art.º 29.º n.º 1",
+    "classificacao": "LEVE",
     "codigoCE": "1.89.027.01.04",
-    "coima": 60,
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/D1D.png"
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/D1D.png",
+    "sancao_acessoria": ""
   },
   {
     "codigo": "D1E",
     "nome": "Proibição de Estacionamento",
     "categoria": "Sinais de Obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1e – obrigação de seguir no sentido indicado pela seta inscrita no sinal na próxima intersecção.",
+    "infracao": "ARTIGO 27.º",
+    "coima": "Coima: € 60,00 a € 300,00",
+    "punicao": "art.º 29.º n.º 1",
+    "classificacao": "LEVE",
     "codigoCE": "1.89.027.01.05",
-    "coima": 60,
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/D1E.png"
-  },
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/D1E.png",
+    "sancao_acessoria": ""
+   },
   {
     "codigo": "H1APAGO",
     "nome": "Estacionamento Pago",
     "categoria": "Parques de Estacionamento",
     "descricao": "Estacionamento de veículo, em parque de estacionamento sujeito ao pagamento de taxa, sem o pagamento da respetiva taxa.",
+    "infracao": "ARTIGO 71.º nº1",
+    "coima": "Coima: € 30,00 a € 150,00",
+    "punicao": "art.º 71.º n.º 2 a)",
     "codigoCE": "1.92.071.01.65",
-    "coima": 30,
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/H1APAGO.png"
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/H1APAGO.png",
+    "sancao_acessoria": ""
   },
   {
     "codigo": "G1PAGO",
     "nome": "Zona de Estacionamento Pago",
     "categoria": "Sinais de Zona",
     "descricao": "Estacionamento de veículo, em zona de estacionamento sujeita ao pagamento de taxa, sem o pagamento da respetiva taxa.",
-    "codigoCE": "1.92.071.01.66",
-    "coima": 30,
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/G1PAGO.png"
+    "infracao": "ARTIGO 71.º nº1",
+    "coima": "Coima: € 30,00 a € 150,00",
+    "punicao": "art.º 71.º n.º 2 a)",
+    "codigoCE": "1.92.071.01.66",    
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/G1PAGO.png",
+    "sancao_acessoria": ""
   },
   {
     "codigo": "G2A",
