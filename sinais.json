@@ -278,11 +278,13 @@
   },
   {
     "codigo": "S1",
-    "nome": "Proibição de Estacionamento",
+    "nome": "Sinalização luminosa - Luz amarela",
     "categoria": "Sinalização Luminosa",
-    "descricao": "Dxxx",
-    "codigoCE": "xxx",
-    "coima": 30,
+    "descricao": "Desrespeito da proibição de entrar na zona regulada pelo sinal imposta pela luz amarela, não estando o veículo muito perto dessa zona e podendo parar em condições de segurança (sinal luminoso S1).",
+    "infracao": "ARTIGO 69.º n.º 1",
+    "punicao": "art.º 76.º b), i)",
+    "codigoCE": "1.89.069.01.02",
+    "coima": "Coima: € 60,00 a € 300,00",
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/S1.png"
   },
   {
