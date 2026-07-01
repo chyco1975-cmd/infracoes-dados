@@ -212,15 +212,18 @@
     "codigoCE": "1.89.024.01.52",
     "coima": "Coima: € 30,00 a € 150,00",
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/G3.png"
-  },  
+  },      
   {
     "codigo": "H1ADEFICIENTES",
     "nome": "Estacionamento Proibido",
     "categoria": "Parques de Estacionamento",
     "descricao": "Estacionamento de veículo em lugar de estacionamento, exclusivamente afeto, mediante sinalização, a veículos utilizados no transporte de pessoa com deficiência, em parque de estacionamento.",
+    "infracao": "ARTIGO n.º 71.º n.º 1",
+    "punicao": "art.º 71.º n.º 2 b)",
     "codigoCE": "2.92.071.01.31",
-    "coima": 60,
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/H1ADEFICIENTES.png"
+    "coima": "Coima: € 60,00 a € 300,00",
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/H1ADEFICIENTES.png",
+    "sancao_acessoria": "art.º 145.º n.º 1 q) Condutor: Inibição de Conduzir 1/12 meses (147.º 2) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
     "codigo": "H1AELETRICOS",
