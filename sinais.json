@@ -280,7 +280,7 @@
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/M14A.png"
   },
   {
-    "codigo": "S1a",
+    "codigo": "S1amarelo",
     "nome": "Sinalização luminosa - Luz amarela",
     "categoria": "Sinalização Luminosa",
     "descricao": "Desrespeito da proibição de entrar na zona regulada pelo sinal imposta pela luz amarela, não estando o veículo muito perto dessa zona e podendo parar em condições de segurança (sinal luminoso S1).",
@@ -291,7 +291,7 @@
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/S1.png"
   },
   {
-    "codigo": "S1v",
+    "codigo": "S1vermelho",
     "nome": "Sinalização luminosa - Luz vermelha",
     "categoria": "Sinalização Luminosa",
     "descricao": "Desrespeito da obrigação de parar imposta pela luz vermelha de regulação do trânsito (sinal luminoso S1).",
