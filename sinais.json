@@ -302,6 +302,7 @@
      "imagem": "https://github.com/chyco1975-cmd/infracoes-dados/blob/main/sinais/S1vermelho.png?raw=true"
   },
   {
+    "codigo": "Sinal de trânsito acompanhado de motivo decorativo (ou de qualquer espécie de publicidade comercial).",
     "categoria": "Princípios gerais",
     "descricao": "Sinal de trânsito acompanhado de motivo decorativo (ou de qualquer espécie de publicidade comercial).",
     "infracao": "ARTIGO 1.º n.º 2",
@@ -312,7 +313,6 @@
     "sancao_acessoria": ""
   },
   {
-    "": "Sinal de trânsito acompanhado de motivo decorativo (ou de qualquer espécie de publicidade comercial).",
     "categoria": "Princípios gerais",
     "descricao": "Colocação sobre sinal de trânsito (ou na sua proximidade) de quadros (ou painéis ou cartazes ou outros objectos) que possam confundir-se com o sinal de trânsito (ou prejudicar a sua visibilidade ou reconhecimento ou perturbar a atenção do condutor).",
     "infracao": "ARTIGO 1.º n.º 3",
