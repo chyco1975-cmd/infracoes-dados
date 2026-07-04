@@ -313,6 +313,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Colocação sobre sinal de trânsito (ou na sua proximidade) de quadros (ou painéis ou cartazes ou outros objectos) que possam confundir-se com o sinal de trânsito (ou prejudicar a sua visibilidade ou reconhecimento ou perturbar a atenção do condutor).",
     "categoria": "Princípios gerais",
     "descricao": "Colocação sobre sinal de trânsito (ou na sua proximidade) de quadros (ou painéis ou cartazes ou outros objectos) que possam confundir-se com o sinal de trânsito (ou prejudicar a sua visibilidade ou reconhecimento ou perturbar a atenção do condutor).",
     "infracao": "ARTIGO 1.º n.º 3",
@@ -323,6 +324,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Instalação de sinal de trânsito na via pública por entidade sem competência para a sua sinalização (ou sem autorização da entidade competente).",
     "categoria": "Competência para a instalação dos sinais",
     "descricao": "Instalação de sinal de trânsito na via pública por entidade sem competência para a sua sinalização (ou sem autorização da entidade competente).",
     "infracao": "ARTIGO 3.º n.º 1",
@@ -333,6 +335,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de cedência de passagem B1.",
     "categoria": "Sinais de cedência de passagem",
     "descricao": "Não cumprimento da indicação dada pelo sinal de cedência de passagem B1.",
     "infracao": "ARTIGO 21.º",
@@ -343,6 +346,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) do C.E. Condutor: Inibição de Conduzir 1/12 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Não cumprimento, em autoestrada, da indicação dada pelo sinal de cedência de passagem B1.",
     "categoria": "Sinais de cedência de passagem",
     "descricao": "Não cumprimento, em autoestrada, da indicação dada pelo sinal de cedência de passagem B1.",
     "infracao": "ARTIGO 21.º",
@@ -353,6 +357,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º h) do C.E. Condutor: Inibição de Conduzir 2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Não cumprimento, em via equiparada a autoestrada, da indicação dada pelo sinal de cedência de passagem B1.",
     "categoria": "Sinais de cedência de passagem",
     "descricao": "Não cumprimento, em via equiparada a autoestrada, da indicação dada pelo sinal de cedência de passagem B1.",
     "infracao": "ARTIGO 21.º",
@@ -363,6 +368,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º h) do C.E. Condutor: Inibição de Conduzir 2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de cedência B2 – paragem obrigatória na interseção.",
     "categoria": "Sinais de cedência de passagem",
     "descricao": "Não cumprimento da indicação dada pelo sinal de cedência B2 – paragem obrigatória na interseção.",
     "infracao": "ARTIGO 21.º",
@@ -373,6 +379,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º n) do C.E. Condutor: Inibição de Conduzir 2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de cedência de passagem B5 – cedência de passagem nos estreitamentos da faixa de rodagem.",
     "categoria": "Sinais de cedência de passagem",
     "descricao": "Não cumprimento da indicação dada pelo sinal de cedência de passagem B5 – cedência de passagem nos estreitamentos da faixa de rodagem.",
     "infracao": "ARTIGO 21.º",
@@ -383,6 +390,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) do C.E. Condutor: Inibição de Conduzir 1/12 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C1 – sentido proibido.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C1 – sentido proibido.",
     "infracao": "ARTIGO 24.º",
@@ -393,6 +401,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 a) do C.E. Condutor: Inibição de Conduzir 1/12 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º3 do C.E.)"
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C1 com painel adicional – sentido proibido, excepto ...",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C1 com painel adicional – sentido proibido, excepto ...",
     "infracao": "ARTIGO 24.º",
@@ -403,6 +412,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C2 – trânsito proibido.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C2 – trânsito proibido.",
     "infracao": "ARTIGO 24.º",
@@ -413,6 +423,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C3a – trânsito proibido a automóveis e motociclos com carro.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3a – trânsito proibido a automóveis e motociclos com carro.",
     "infracao": "ARTIGO 24.º",
@@ -423,6 +434,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C3b – trânsito proibido a automóveis pesados.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3b – trânsito proibido a automóveis pesados.",
     "infracao": "ARTIGO 24.º",
@@ -433,6 +445,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C3c – trânsito proibido a automóveis de mercadorias.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3c – trânsito proibido a automóveis de mercadorias.",
     "infracao": "ARTIGO 24.º",
@@ -443,6 +456,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C3d – trânsito proibido a automóveis de mercadorias de peso total superior a … t.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3d – trânsito proibido a automóveis de mercadorias de peso total superior a … t.",
     "infracao": "ARTIGO 24.º",
@@ -453,6 +467,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C3e – trânsito proibido a motociclos simples.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3e – trânsito proibido a motociclos simples.",
     "infracao": "ARTIGO 24.º",
@@ -463,6 +478,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C3f – trânsito proibido a ciclomotores e a quadriciclos ligeiros.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3f – trânsito proibido a ciclomotores e a quadriciclos ligeiros.",
     "infracao": "ARTIGO 24.º",
@@ -473,6 +489,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C3g – trânsito proibido a velocípedes.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3g – trânsito proibido a velocípedes.",
     "infracao": "ARTIGO 24.º",
@@ -483,6 +500,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C3h – trânsito proibido a veículos agrícolas.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3h – trânsito proibido a veículos agrícolas.",
     "infracao": "ARTIGO 24.º",
@@ -493,6 +511,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C3i – trânsito proibido a veículos de tração animal.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3i – trânsito proibido a veículos de tração animal.",
     "infracao": "ARTIGO 24.º",
@@ -503,6 +522,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C3j – trânsito proibido a carros de mão.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3j – trânsito proibido a carros de mão.",
     "infracao": "ARTIGO 24.º",
@@ -513,6 +533,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento, por peão, da indicação dada pelo sinal de proibição C3l – trânsito proibido a peões.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento, por peão, da indicação dada pelo sinal de proibição C3l – trânsito proibido a peões.",
     "infracao": "ARTIGO 24.º",
@@ -523,6 +544,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C3m – trânsito proibido a cavaleiros.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3m – trânsito proibido a cavaleiros.",
     "infracao": "ARTIGO 24.º",
@@ -533,6 +555,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C3n – trânsito proibido a veículos com reboque.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3n – trânsito proibido a veículos com reboque.",
     "infracao": "ARTIGO 24.º",
@@ -543,6 +566,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C3o – trânsito proibido a veículos com reboque de dois ou mais eixos.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3o – trânsito proibido a veículos com reboque de dois ou mais eixos.",
     "infracao": "ARTIGO 24.º",
@@ -553,6 +577,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C3p – trânsito proibido a veículos transportando mercadorias perigosas.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3p – trânsito proibido a veículos transportando mercadorias perigosas.",
     "infracao": "ARTIGO 24.º",
@@ -563,6 +588,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C3q – trânsito proibido a veículos transportando produtos facilmente inflamáveis ou explosivos.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3q – trânsito proibido a veículos transportando produtos facilmente inflamáveis ou explosivos.",
     "infracao": "ARTIGO 24.º",
@@ -573,6 +599,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C3r – trânsito proibido a veículos transportando produtos suscetíveis de poluírem as águas.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3r – trânsito proibido a veículos transportando produtos suscetíveis de poluírem as águas.",
     "infracao": "ARTIGO 24.º",
@@ -583,6 +610,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C4a – trânsito proibido a automóveis e motociclos.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C4a – trânsito proibido a automóveis e motociclos.",
     "infracao": "ARTIGO 24.º",
@@ -593,6 +621,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C4b – trânsito proibido a automóveis de mercadorias e a veículos a motor com reboque.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C4b – trânsito proibido a automóveis de mercadorias e a veículos a motor com reboque.",
     "infracao": "ARTIGO 24.º",
@@ -603,6 +632,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C4c – trânsito proibido a automóveis, a motociclos e a veículos de tração animal.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C4c – trânsito proibido a automóveis, a motociclos e a veículos de tração animal.",
     "infracao": "ARTIGO 24.º",
@@ -613,6 +643,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C4d – trânsito proibido a automóveis de mercadorias, e a veículos de tração animal.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C4d – trânsito proibido a automóveis de mercadorias, e a veículos de tração animal.",
     "infracao": "ARTIGO 24.º",
@@ -623,6 +654,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C4e – trânsito proibido a peões.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C4e – trânsito proibido a peões.",
     "infracao": "ARTIGO 24.º",
@@ -633,6 +665,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C4e – trânsito proibido a animais.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C4e – trânsito proibido a animais.",
     "infracao": "ARTIGO 24.º",
@@ -643,6 +676,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C4e – Trânsito proibido a veículos que não sejam automóveis ou motociclos.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C4e – Trânsito proibido a veículos que não sejam automóveis ou motociclos.",
     "infracao": "ARTIGO 24.º",
@@ -653,6 +687,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C4f – Trânsito proibido a veículos de duas rodas.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C4f – Trânsito proibido a veículos de duas rodas.",
     "infracao": "ARTIGO 24.º",
@@ -663,6 +698,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C5 – Trânsito proibido a veículos de peso por eixo superior a … t.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C5 – Trânsito proibido a veículos de peso por eixo superior a … t.",
     "infracao": "ARTIGO 24.º",
@@ -673,6 +709,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C6 – Trânsito proibido a veículos de peso total superior a … t.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C6 – Trânsito proibido a veículos de peso total superior a … t.",
     "infracao": "ARTIGO 24.º",
@@ -683,6 +720,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C7 – Trânsito proibido a veículos ou conjunto de veículos de comprimento superior a … m.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C7 – Trânsito proibido a veículos ou conjunto de veículos de comprimento superior a … m.",
     "infracao": "ARTIGO 24.º",
@@ -693,6 +731,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C8 – Trânsito proibido a veículos de largura superior a … m.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C8 – Trânsito proibido a veículos de largura superior a … m.",
     "infracao": "ARTIGO 24.º",
@@ -703,6 +742,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C9 – Trânsito proibido a veículos de altura superior a … m.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C9 – Trânsito proibido a veículos de altura superior a … m.",
     "infracao": "ARTIGO 24.º",
@@ -713,6 +753,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C10 – proibição de transitar, a menos de … m do veículo precedente.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C10 – proibição de transitar, a menos de … m do veículo precedente.",
     "infracao": "ARTIGO 24.º",
@@ -723,6 +764,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) do C.E. Condutor: Inibição de Conduzir 1/12 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3 C.E.)"
   },
   {
+    "codigo": "Não cumprimento, em autoestrada, da indicação dada pelo sinal de proibição C10 – proibição de transitar, a menos de … m do veículo precedente.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento, em autoestrada, da indicação dada pelo sinal de proibição C10 – proibição de transitar, a menos de … m do veículo precedente.",
     "infracao": "ARTIGO 24.º",
@@ -733,6 +775,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º h) do C.E. Condutor: Inibição de Conduzir2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3 C.E.)"
   },
   {
+    "codigo": "Não cumprimento, em via equiparada a autoestrada, da indicação dada pelo sinal de proibição C10 – proibição de transitar, a menos de … m do veículo precedente.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento, em via equiparada a autoestrada, da indicação dada pelo sinal de proibição C10 – proibição de transitar, a menos de … m do veículo precedente.",
     "infracao": "ARTIGO 24.º",
@@ -743,6 +786,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º h) do C.E. Condutor: Inibição de Conduzir2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3 C.E.)"
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C11a– Proibição de virar à direita.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C11a– Proibição de virar à direita.",
     "infracao": "ARTIGO 24.º",
@@ -753,6 +797,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) do C.E. Condutor: Inibição de Conduzir 1/12 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3 C.E.)"
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C11b– Proibição de virar à esquerda.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C11b– Proibição de virar à esquerda.",
     "infracao": "ARTIGO 24.º",
@@ -763,6 +808,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) do C.E. Condutor: Inibição de Conduzir 1/12 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3 C.E.)"
   },
   {
+    "codigo": "Não cumprimento, em autoestrada, da indicação dada pelo sinal C11a – Proibição de virar à direita.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento, em autoestrada, da indicação dada pelo sinal C11a – Proibição de virar à direita.",
     "infracao": "ARTIGO 24.º",
@@ -773,6 +819,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º h) do C.E. Condutor: Inibição de Conduzir2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3 C.E.)"
   },
   {
+    "codigo": "Não cumprimento, em via equiparada a autoestrada, da indicação dada pelo sinal C11a – Proibição de virar à direita.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento, em via equiparada a autoestrada, da indicação dada pelo sinal C11a – Proibição de virar à direita.",
     "infracao": "ARTIGO 24.º",
@@ -783,6 +830,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º h) do C.E. Condutor: Inibição de Conduzir2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3 C.E.)"
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C12 – Proibição de inversão do sentido de marcha.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C12 – Proibição de inversão do sentido de marcha.",
     "infracao": "ARTIGO 24.º",
@@ -793,6 +841,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) do C.E. Condutor: Inibição de Conduzir 1/12 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C14a – Proibição de ultrapassar veículos que não sejam velocípedes, ciclomotores de duas rodas ou motociclos de duas rodas sem carro lateral.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C14a – Proibição de ultrapassar veículos que não sejam velocípedes, ciclomotores de duas rodas ou motociclos de duas rodas sem carro lateral.",
     "infracao": "ARTIGO 24.º",
@@ -803,6 +852,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) do C.E. Condutor: Inibição de Conduzir 1/12 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C14 b – Proibição de ultrapassar para automóveis pesados.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C14 b – Proibição de ultrapassar para automóveis pesados.",
     "infracao": "ARTIGO 24.º",
@@ -813,6 +863,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) do C.E. Condutor: Inibição de Conduzir 1/12 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C14 c – Proibição de ultrapassar para motociclos, ciclomotores, triciclos, quadriciclos e velocípedes.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C14 c – Proibição de ultrapassar para motociclos, ciclomotores, triciclos, quadriciclos e velocípedes.",
     "infracao": "ARTIGO 24.º",
@@ -823,6 +874,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) do C.E. Condutor: Inibição de Conduzir 1/12 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C14a – Proibição de ultrapassar, em autoestrada, veículo que não seja motociclo de duas rodas sem carro lateral.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C14a – Proibição de ultrapassar, em autoestrada, veículo que não seja motociclo de duas rodas sem carro lateral.",
     "infracao": "ARTIGO 24.º",
@@ -833,6 +885,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º h) do C.E. Condutor: Inibição de Conduzir2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C14b – Proibição de ultrapassar para automóveis pesados, em autoestrada.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C14b – Proibição de ultrapassar para automóveis pesados, em autoestrada.",
     "infracao": "ARTIGO 24.º",
@@ -843,6 +896,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º h) do C.E. Condutor: Inibição de Conduzir2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C14c – Proibição de ultrapassar para motociclos e triciclos, em autoestrada.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C14c – Proibição de ultrapassar para motociclos e triciclos, em autoestrada.",
     "infracao": "ARTIGO 24.º",
@@ -853,6 +907,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º h) do C.E. Condutor: Inibição de Conduzir2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C14a – Proibição de ultrapassar, em via equiparada a autoestrada veículo que não seja motociclo de duas rodas sem carro lateral.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C14a – Proibição de ultrapassar, em via equiparada a autoestrada veículo que não seja motociclo de duas rodas sem carro lateral.",
     "infracao": "ARTIGO 24.º",
@@ -863,6 +918,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º h) do C.E. Condutor: Inibição de Conduzir2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C14b – Proibição de ultrapassar para automóveis pesados, em via equiparada a autoestrada.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C14b – Proibição de ultrapassar para automóveis pesados, em via equiparada a autoestrada.",
     "infracao": "ARTIGO 24.º",
@@ -873,6 +929,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º h) do C.E. Condutor: Inibição de Conduzir2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C14c – Proibição de ultrapassar para motociclos e triciclos, em via equiparada a autoestrada.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C14c – Proibição de ultrapassar para motociclos e triciclos, em via equiparada a autoestrada.",
     "infracao": "ARTIGO 24.º",
@@ -883,6 +940,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º h) do C.E. Condutor: Inibição de Conduzir2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C15 – estacionamento proibido.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C15 – estacionamento proibido.",
     "infracao": "ARTIGO 24.º",
@@ -893,6 +951,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C16 – paragem e estacionamento proibidos.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C16 – paragem e estacionamento proibidos.",
     "infracao": "ARTIGO 24.º",
@@ -903,6 +962,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C17 – Proibição de utilização de sinal sonoro.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C17 – Proibição de utilização de sinal sonoro.",
     "infracao": "ARTIGO 24.º",
@@ -913,6 +973,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C18 – Paragem obrigatória na alfândega.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C18 – Paragem obrigatória na alfândega.",
     "infracao": "ARTIGO 24.º",
@@ -923,6 +984,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de proibição C19 – Outras paragens obrigatórias.",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C19 – Outras paragens obrigatórias.",
     "infracao": "ARTIGO 24.º",
@@ -933,6 +995,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D1a – sentido obrigatório.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1a – sentido obrigatório.",
     "infracao": "ARTIGO 27.º",
@@ -943,6 +1006,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D1b – sentido obrigatório.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1b – sentido obrigatório.",
     "infracao": "ARTIGO 27.º",
@@ -953,6 +1017,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D1c – obrigação de seguir no sentido indicado pela seta inscrita no sinal na próxima intersecção.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1c – obrigação de seguir no sentido indicado pela seta inscrita no sinal na próxima intersecção.",
     "infracao": "ARTIGO 27.º",
@@ -963,6 +1028,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D1d – obrigação de seguir no sentido indicado pela seta inscrita no sinal na próxima intersecção.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1d – obrigação de seguir no sentido indicado pela seta inscrita no sinal na próxima intersecção.",
     "infracao": "ARTIGO 27.º",
@@ -973,6 +1039,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D1e – obrigação de seguir no sentido indicado pela seta inscrita no sinal na próxima intersecção.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1e – obrigação de seguir no sentido indicado pela seta inscrita no sinal na próxima intersecção.",
     "infracao": "ARTIGO 27.º",
@@ -983,6 +1050,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D2a – sentidos obrigatórios possíveis.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D2a – sentidos obrigatórios possíveis.",
     "infracao": "ARTIGO 27.º",
@@ -993,6 +1061,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D2b – sentidos obrigatórios possíveis.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D2b – sentidos obrigatórios possíveis.",
     "infracao": "ARTIGO 27.º",
@@ -1003,6 +1072,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D2c – sentidos obrigatórios possíveis.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D2c – sentidos obrigatórios possíveis.",
     "infracao": "ARTIGO 27.º",
@@ -1013,6 +1083,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D3a– obrigação de contornar a placa.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D3a– obrigação de contornar a placa.",
     "infracao": "ARTIGO 27.º",
@@ -1023,6 +1094,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D3a– obrigação de contornar o obstáculo.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D3a– obrigação de contornar o obstáculo.",
     "infracao": "ARTIGO 27.º",
@@ -1033,6 +1105,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D3b– obrigação de contornar a placa.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D3b– obrigação de contornar a placa.",
     "infracao": "ARTIGO 27.º",
@@ -1043,6 +1116,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D3b– obrigação de contornar o obstáculo.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D3b– obrigação de contornar o obstáculo.",
     "infracao": "ARTIGO 27.º",
@@ -1053,6 +1127,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D5a – via obrigatória para automóveis de mercadorias.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D5a – via obrigatória para automóveis de mercadorias.",
     "infracao": "ARTIGO 27.º",
@@ -1063,6 +1138,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D5b – via obrigatória para automóveis pesados.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D5b – via obrigatória para automóveis pesados.",
     "infracao": "ARTIGO 27.º",
@@ -1073,6 +1149,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D5c – via obrigatória para motociclos.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D5c – via obrigatória para motociclos.",
     "infracao": "ARTIGO 27.º",
@@ -1083,6 +1160,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D6 – via reservada a veículos de transporte público.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D6 – via reservada a veículos de transporte público.",
     "infracao": "ARTIGO 27.º",
@@ -1093,6 +1171,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D6a – via reservada a veículos com alta taxa de ocupação.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D6a – via reservada a veículos com alta taxa de ocupação.",
     "infracao": "ARTIGO 27.º",
@@ -1103,6 +1182,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D7a – pista obrigatória para velocípedes.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D7a – pista obrigatória para velocípedes.",
     "infracao": "ARTIGO 27.º",
@@ -1113,6 +1193,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento, por peão, da indicação dada pelo sinal de obrigação D7b– pista obrigatória para peões.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento, por peão, da indicação dada pelo sinal de obrigação D7b– pista obrigatória para peões.",
     "infracao": "ARTIGO 27.º",
@@ -1123,6 +1204,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D7c – pista obrigatória para cavaleiros.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D7c – pista obrigatória para cavaleiros.",
     "infracao": "ARTIGO 27.º",
@@ -1133,6 +1215,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D7d – pista obrigatória para gado em manada.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D7d – pista obrigatória para gado em manada.",
     "infracao": "ARTIGO 27.º",
@@ -1143,6 +1226,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento, por peão, da indicação dada pelo sinal de obrigação D7e – pista obrigatória para peões e velocípedes.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento, por peão, da indicação dada pelo sinal de obrigação D7e – pista obrigatória para peões e velocípedes.",
     "infracao": "ARTIGO 27.º",
@@ -1153,6 +1237,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento, por condutor de velocípede, da indicação dada pelo sinal de obrigação D7e – pista obrigatória para peões e velocípedes.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento, por condutor de velocípede, da indicação dada pelo sinal de obrigação D7e – pista obrigatória para peões e velocípedes.",
     "infracao": "ARTIGO 27.º",
@@ -1163,6 +1248,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento, por peão, da indicação dada pelo sinal de obrigação D7f – pista obrigatória para peões e velocípedes.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento, por peão, da indicação dada pelo sinal de obrigação D7f – pista obrigatória para peões e velocípedes.",
     "infracao": "ARTIGO 27.º",
@@ -1173,6 +1259,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento, por condutor de velocípede, da indicação dada pelo sinal de obrigação D7f – pista obrigatória para peões e velocípedes.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento, por condutor de velocípede, da indicação dada pelo sinal de obrigação D7f – pista obrigatória para peões e velocípedes.",
     "infracao": "ARTIGO 27.º",
@@ -1183,6 +1270,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D8 – obrigação de transitar à velocidade mínima de … Km/h.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D8 – obrigação de transitar à velocidade mínima de … Km/h.",
     "infracao": "ARTIGO 27.º",
@@ -1193,6 +1281,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D9 – obrigação de utilizar correntes de neve em duas rodas motoras.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D9 – obrigação de utilizar correntes de neve em duas rodas motoras.",
     "infracao": "ARTIGO 27.º",
@@ -1203,6 +1292,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal de obrigação D10 – obrigação de utilizar luzes de cruzamento (médios) acesas.",
     "categoria": "Enumeração e significado dos sinais de obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D10 – obrigação de utilizar luzes de cruzamento (médios) acesas.",
     "infracao": "ARTIGO 27.º",
@@ -1213,6 +1303,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Pisar a linha longitudinal contínua (marca M1) separadora de vias de trânsito.",
     "categoria": "Enumeração e significado das marcas longitudinais",
     "descricao": "Pisar a linha longitudinal contínua (marca M1) separadora de vias de trânsito.",
     "infracao": "ARTIGO 60.º",
@@ -1223,6 +1314,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Transpor a linha longitudinal contínua (marca M1) separadora de vias de trânsito.",
     "categoria": "Enumeração e significado das marcas longitudinais",
     "descricao": "Transpor a linha longitudinal contínua (marca M1) separadora de vias de trânsito.",
     "infracao": "ARTIGO 60.º",
@@ -1233,6 +1325,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Pisar linha longitudinal contínua (marca M1) separadora de sentidos de trânsito.",
     "categoria": "Enumeração e significado das marcas longitudinais",
     "descricao": "Pisar linha longitudinal contínua (marca M1) separadora de sentidos de trânsito.",
     "infracao": "ARTIGO 60.º",
@@ -1243,6 +1336,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Transpor linha longitudinal contínua (marca M1) separadora de sentidos de trânsito.",
     "categoria": "Enumeração e significado das marcas longitudinais",
     "descricao": "Transpor linha longitudinal contínua (marca M1) separadora de sentidos de trânsito.",
     "infracao": "ARTIGO 60.º",
@@ -1253,6 +1347,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º o) do C.E. Condutor: Inibição de Conduzir 2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Pisar a linha longitudinal descontínua (marca M2) não sendo para efetuar manobra.",
     "categoria": "Enumeração e significado das marcas longitudinais",
     "descricao": "Pisar a linha longitudinal descontínua (marca M2) não sendo para efetuar manobra.",
     "infracao": "ARTIGO 60.º",
@@ -1263,6 +1358,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Transpor a linha longitudinal descontínua (marca M2) não sendo para efetuar manobra.",
     "categoria": "Enumeração e significado das marcas longitudinais",
     "descricao": "Transpor a linha longitudinal descontínua (marca M2) não sendo para efetuar manobra.",
     "infracao": "ARTIGO 60.º",
@@ -1273,6 +1369,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Pisar linha longitudinal mista (marca M3) separadora de vias de trânsito, encontrando- se mais próxima a linha descontínua, não sendo para efetuar manobra.",
     "categoria": "Enumeração e significado das marcas longitudinais",
     "descricao": "Pisar linha longitudinal mista (marca M3) separadora de vias de trânsito, encontrando- se mais próxima a linha descontínua, não sendo para efetuar manobra.",
     "infracao": "ARTIGO 60.º",
@@ -1283,6 +1380,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Transpor linha longitudinal mista (marca M3) separadora de vias de trânsito, encontrando-se mais próxima a linha descontínua, não sendo para efetuar manobra.",
     "categoria": "Enumeração e significado das marcas longitudinais",
     "descricao": "Transpor linha longitudinal mista (marca M3) separadora de vias de trânsito, encontrando-se mais próxima a linha descontínua, não sendo para efetuar manobra.",
     "infracao": "ARTIGO 60.º",
@@ -1293,6 +1391,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Pisar linha longitudinal mista (marca M3) separadora de sentidos de trânsito, estando mais próxima a linha contínua.",
     "categoria": "Enumeração e significado das marcas longitudinais",
     "descricao": "Pisar linha longitudinal mista (marca M3) separadora de sentidos de trânsito, estando mais próxima a linha contínua.",
     "infracao": "ARTIGO 60.º",
@@ -1303,6 +1402,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Transpor linha longitudinal mista (marca M3) separadora de sentidos de trânsito, estando mais próxima a linha contínua.",
     "categoria": "Enumeração e significado das marcas longitudinais",
     "descricao": "Transpor linha longitudinal mista (marca M3) separadora de sentidos de trânsito, estando mais próxima a linha contínua.",
     "infracao": "ARTIGO 60.º",
@@ -1313,6 +1413,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º o) do C.E. Condutor: Inibição de Conduzir 2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 4 do C.E.)"
   },
   {
+    "codigo": "Pisar linha longitudinal mista (marca M3) separadora de vias de trânsito, estando mais próxima a linha contínua.",
     "categoria": "Enumeração e significado das marcas longitudinais",
     "descricao": "Pisar linha longitudinal mista (marca M3) separadora de vias de trânsito, estando mais próxima a linha contínua.",
     "infracao": "ARTIGO 60.º",
@@ -1323,6 +1424,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Transpor linha longitudinal mista (marca M3) separadora de vias de trânsito, estando mais próxima a linha contínua.",
     "categoria": "Enumeração e significado das marcas longitudinais",
     "descricao": "Transpor linha longitudinal mista (marca M3) separadora de vias de trânsito, estando mais próxima a linha contínua.",
     "infracao": "ARTIGO 60.º",
@@ -1333,6 +1435,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Pisar linha descontínua de abrandamento (marca M6) não sendo para efetuar manobra.",
     "categoria": "Enumeração e significado das marcas longitudinais",
     "descricao": "Pisar linha descontínua de abrandamento (marca M6) não sendo para efetuar manobra.",
     "infracao": "ARTIGO 60.º",
@@ -1343,6 +1446,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Transpor linha descontínua de abrandamento (marca M6) não sendo para efetuar manobra.",
     "categoria": "Enumeração e significado das marcas longitudinais",
     "descricao": "Transpor linha descontínua de abrandamento (marca M6) não sendo para efetuar manobra.",
     "infracao": "ARTIGO 60.º",
@@ -1353,6 +1457,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Pisar linha descontínua de aceleração (marca M6a) não sendo para efetuar manobra.",
     "categoria": "Enumeração e significado das marcas longitudinais",
     "descricao": "Pisar linha descontínua de aceleração (marca M6a) não sendo para efetuar manobra.",
     "infracao": "ARTIGO 60.º",
@@ -1363,6 +1468,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Transpor linha descontínua de aceleração (marca M6a) não sendo para efetuar manobra.",
     "categoria": "Enumeração e significado das marcas longitudinais",
     "descricao": "Transpor linha descontínua de aceleração (marca M6a) não sendo para efetuar manobra.",
     "infracao": "ARTIGO 60.º",
@@ -1373,6 +1479,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Pisar linha longitudinal contínua (marca M7), delimitadora de vias de trânsito para determinada espécie de veículos e separadora de sentidos de trânsito.",
     "categoria": "Enumeração e significado das marcas longitudinais",
     "descricao": "Pisar linha longitudinal contínua (marca M7), delimitadora de vias de trânsito para determinada espécie de veículos e separadora de sentidos de trânsito.",
     "infracao": "ARTIGO 60.º",
@@ -1383,6 +1490,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Transpor linha longitudinal contínua (marca M7) delimitadora de vias de trânsito para determinada espécie de veículos e separadora de sentidos de trânsito.",
     "categoria": "Enumeração e significado das marcas longitudinais",
     "descricao": "Transpor linha longitudinal contínua (marca M7) delimitadora de vias de trânsito para determinada espécie de veículos e separadora de sentidos de trânsito.",
     "infracao": "ARTIGO 60.º",
@@ -1393,6 +1501,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º o) do C.E. Condutor: Inibição de Conduzir 2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Pisar linha longitudinal contínua (marca M7) delimitadora de vias de trânsito para determinada espécie de veículos.",
     "categoria": "Enumeração e significado das marcas longitudinais",
     "descricao": "Pisar linha longitudinal contínua (marca M7) delimitadora de vias de trânsito para determinada espécie de veículos.",
     "infracao": "ARTIGO 60.º",
@@ -1403,6 +1512,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pela linha de paragem (marca M8), existindo sinalização vertical com o mesmo significado, aposta em via de trânsito delimitada por linha contínua.",
     "categoria": "Enumeração e significado das marcas transversais",
     "descricao": "Não cumprimento da indicação dada pela linha de paragem (marca M8), existindo sinalização vertical com o mesmo significado, aposta em via de trânsito delimitada por linha contínua.",
     "infracao": "ARTIGO 61.º",
@@ -1413,6 +1523,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pela linha de paragem STOP (marca M8a), existindo sinalização no pavimento e vertical com o mesmo significado, aposta em via de trânsito delimitada por linha contínua.",
     "categoria": "Enumeração e significado das marcas transversais",
     "descricao": "Não cumprimento da indicação dada pela linha de paragem STOP (marca M8a), existindo sinalização no pavimento e vertical com o mesmo significado, aposta em via de trânsito delimitada por linha contínua.",
     "infracao": "ARTIGO 61.º",
@@ -1423,6 +1534,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pela linha de cedência de passagem (marca M9), existindo sinalização vertical impondo ao condutor a cedência de passagem.",
     "categoria": "Enumeração e significado das marcas transversais",
     "descricao": "Não cumprimento da indicação dada pela linha de cedência de passagem (marca M9), existindo sinalização vertical impondo ao condutor a cedência de passagem.",
     "infracao": "ARTIGO 61.º",
@@ -1433,6 +1545,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pela linha de cedência de passagem com símbolo triangular (marca M9a), existindo sinalização vertical impondo ao condutor a cedência de passagem.",
     "categoria": "Enumeração e significado das marcas transversais",
     "descricao": "Não cumprimento da indicação dada pela linha de cedência de passagem com símbolo triangular (marca M9a), existindo sinalização vertical impondo ao condutor a cedência de passagem.",
     "infracao": "ARTIGO 61.º",
@@ -1443,6 +1556,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pela marca M10 – passagem para velocípedes.",
     "categoria": "Enumeração e significado das marcas transversais",
     "descricao": "Não cumprimento da indicação dada pela marca M10 – passagem para velocípedes.",
     "infracao": "ARTIGO 61.º",
@@ -1453,6 +1567,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pela marca M10a – passagem para velocípedes.",
     "categoria": "Enumeração e significado das marcas transversais",
     "descricao": "Não cumprimento da indicação dada pela marca M10a – passagem para velocípedes.",
     "infracao": "ARTIGO 61.º",
@@ -1463,6 +1578,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento, por peão, da indicação dada pela marca M11 – passagem para peões.",
     "categoria": "Enumeração e significado das marcas transversais",
     "descricao": "Não cumprimento, por peão, da indicação dada pela marca M11 – passagem para peões.",
     "infracao": "ARTIGO 61.º",
@@ -1473,6 +1589,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento, por peão, da indicação dada pela marca M11a – passagem para peões regulada por sinalização luminosa.",
     "categoria": "Enumeração e significado das marcas transversais",
     "descricao": "Não cumprimento, por peão, da indicação dada pela marca M11a – passagem para peões regulada por sinalização luminosa.",
     "infracao": "ARTIGO 61.º",
@@ -1483,6 +1600,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Estacionamento em local delimitado por linha descontínua, de cor amarela, aposta junto ao limite da faixa de rodagem (marca M13).",
     "categoria": "Enumeração e significado das marcas de estacionamento e paragem",
     "descricao": "Estacionamento em local delimitado por linha descontínua, de cor amarela, aposta junto ao limite da faixa de rodagem (marca M13).",
     "infracao": "ARTIGO 62.º n.º 1",
@@ -1493,6 +1611,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Estacionamento em local delimitado por linha descontínua, de cor amarela, aposta sobre o bordo do passeio (marca M13a).",
     "categoria": "Enumeração e significado das marcas de estacionamento e paragem",
     "descricao": "Estacionamento em local delimitado por linha descontínua, de cor amarela, aposta sobre o bordo do passeio (marca M13a).",
     "infracao": "ARTIGO 62.º n.º 1",
@@ -1503,6 +1622,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Estacionamento em local da faixa de rodagem delimitada por linha em ziguezague, de cor amarela (marca M14).",
     "categoria": "Enumeração e significado das marcas de estacionamento e paragem",
     "descricao": "Estacionamento em local da faixa de rodagem delimitada por linha em ziguezague, de cor amarela (marca M14).",
     "infracao": "ARTIGO 62.º n.º 1",
@@ -1513,6 +1633,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Paragem em área demarcada pelas linhas contínuas, de cor amarela (marca M14a), não sendo para efetuar cargas ou descargas.",
     "categoria": "Enumeração e significado das marcas de estacionamento e paragem",
     "descricao": "Paragem em área demarcada pelas linhas contínuas, de cor amarela (marca M14a), não sendo para efetuar cargas ou descargas.",
     "infracao": "ARTIGO 62.º n.º 1",
@@ -1523,6 +1644,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Estacionamento em área demarcada pelas linhas contínuas, de cor amarela (marca M14a), não sendo para efetuar cargas ou descargas.",
     "categoria": "Enumeração e significado das marcas de estacionamento e paragem",
     "descricao": "Estacionamento em área demarcada pelas linhas contínuas, de cor amarela (marca M14a), não sendo para efetuar cargas ou descargas.",
     "infracao": "ARTIGO 62.º n.º 1",
@@ -1533,6 +1655,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pela marca M15 – obrigação de seguir no sentido indicado por seta de seleção aposta em via de trânsito, delimitada por linhas contínuas.",
     "categoria": "Enumeração e significado das marcas orientadoras de sentidos de trânsito",
     "descricao": "Não cumprimento da indicação dada pela marca M15 – obrigação de seguir no sentido indicado por seta de seleção aposta em via de trânsito, delimitada por linhas contínuas.",
     "infracao": "ARTIGO 63.º n.º 1",
@@ -1543,6 +1666,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Desrespeito da proibição de entrar em área abrangida por raias oblíquas delimitadas por linha contínua (marca M17), aposta em via de trânsito delimitada por linha contínua.",
     "categoria": "Marcas diversas e guias",
     "descricao": "Desrespeito da proibição de entrar em área abrangida por raias oblíquas delimitadas por linha contínua (marca M17), aposta em via de trânsito delimitada por linha contínua.",
     "infracao": "ARTIGO 64.º n.º 1",
@@ -1553,6 +1677,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Desrespeito da proibição de entrar em área constituída e delimitada por linhas contínuas de cor amarela quando a intensidade do trânsito obrigue à imobilização do veículo dentro daquela área (marca M17b), aposta em via de trânsito delimitada por linha contínua.",
     "categoria": "Marcas diversas e guias",
     "descricao": "Desrespeito da proibição de entrar em área constituída e delimitada por linhas contínuas de cor amarela quando a intensidade do trânsito obrigue à imobilização do veículo dentro daquela área (marca M17b), aposta em via de trânsito delimitada por linha contínua.",
     "infracao": "ARTIGO 64.º n.º 1",
@@ -1563,6 +1688,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Desrespeito da obrigação de parar imposta pela luz vermelha de regulação do trânsito (sinal luminoso S1).",
     "categoria": "Sistema principal de luzes",
     "descricao": "Desrespeito da obrigação de parar imposta pela luz vermelha de regulação do trânsito (sinal luminoso S1).",
     "infracao": "ARTIGO 69.º n.º 1",
@@ -1573,6 +1699,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º l) do C.E. Condutor: Inibição de Conduzir 2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 C.E.)"
   },
   {
+    "codigo": "Desrespeito da proibição de entrar na zona regulada pelo sinal imposta pela luz amarela, não estando o veículo muito perto dessa zona e podendo parar em condições de segurança (sinal luminoso S1).",
     "categoria": "Sistema principal de luzes",
     "descricao": "Desrespeito da proibição de entrar na zona regulada pelo sinal imposta pela luz amarela, não estando o veículo muito perto dessa zona e podendo parar em condições de segurança (sinal luminoso S1).",
     "infracao": "ARTIGO 69.º n.º 1",
@@ -1583,6 +1710,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Desrespeito da obrigação de parar imposta por sinal luminoso constituído por seta negra sobre fundo circular vermelho (sinal luminoso S2).",
     "categoria": "Sistema principal de luzes",
     "descricao": "Desrespeito da obrigação de parar imposta por sinal luminoso constituído por seta negra sobre fundo circular vermelho (sinal luminoso S2).",
     "infracao": "ARTIGO 69.º n.º 2",
@@ -1593,6 +1721,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º l) do C.E. Condutor: Inibição de Conduzir 2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Desrespeito da proibição de entrar na zona regulada pelo sinal imposta por sinal luminoso constituído por seta negra sobre fundo circular amarelo, não estando o veículo muito perto dessa zona e podendo parar em condições de segurança (sinal luminoso S2).",
     "categoria": "Sistema principal de luzes",
     "descricao": "Desrespeito da proibição de entrar na zona regulada pelo sinal imposta por sinal luminoso constituído por seta negra sobre fundo circular amarelo, não estando o veículo muito perto dessa zona e podendo parar em condições de segurança (sinal luminoso S2).",
     "infracao": "ARTIGO 69.º n.º 2",
@@ -1603,6 +1732,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Circulação em desrespeito da indicação de sentido dada pelo sinal luminoso constituído por seta negra sobre fundo circular verde (sinal luminoso S2).",
     "categoria": "Sistema principal de luzes",
     "descricao": "Circulação em desrespeito da indicação de sentido dada pelo sinal luminoso constituído por seta negra sobre fundo circular verde (sinal luminoso S2).",
     "infracao": "ARTIGO 69.º n.º 2",
@@ -1613,6 +1743,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Desrespeito da obrigação de parar imposta por sinal luminoso constituído por seta vermelha sobre fundo circular negro (sinal luminoso S2).",
     "categoria": "Sistema principal de luzes",
     "descricao": "Desrespeito da obrigação de parar imposta por sinal luminoso constituído por seta vermelha sobre fundo circular negro (sinal luminoso S2).",
     "infracao": "ARTIGO 69.º n.º 2",
@@ -1623,6 +1754,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º l) do C.E. Condutor: Inibição de Conduzir 2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Desrespeito da proibição de entrar na zona regulada pelo sinal imposta por sinal luminoso constituído por seta amarela sobre fundo circular negro, não estando o veículo muito perto dessa zona e podendo parar em condições de segurança (sinal luminoso S2).",
     "categoria": "Sistema principal de luzes",
     "descricao": "Desrespeito da proibição de entrar na zona regulada pelo sinal imposta por sinal luminoso constituído por seta amarela sobre fundo circular negro, não estando o veículo muito perto dessa zona e podendo parar em condições de segurança (sinal luminoso S2).",
     "infracao": "ARTIGO 69.º n.º 2",
@@ -1633,6 +1765,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Circulação em desrespeito da indicação de sentido dada pelo sinal luminoso de regulação do trânsito constituído por seta verde sobre fundo circular negro (sinal luminoso S2).",
     "categoria": "Sistema principal de luzes",
     "descricao": "Circulação em desrespeito da indicação de sentido dada pelo sinal luminoso de regulação do trânsito constituído por seta verde sobre fundo circular negro (sinal luminoso S2).",
     "infracao": "ARTIGO 69.º n.º 2",
@@ -1643,6 +1776,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Desrespeito da obrigação de parar imposta pela luz vermelha de regulação do trânsito de velocípedes, em pista especial para estes veículos (sinal luminoso S3).",
     "categoria": "Sistema principal de luzes",
     "descricao": "Desrespeito da obrigação de parar imposta pela luz vermelha de regulação do trânsito de velocípedes, em pista especial para estes veículos (sinal luminoso S3).",
     "infracao": "ARTIGO 69.º n.º 5",
@@ -1653,6 +1787,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º l) do C.E. Condutor: Inibição de Conduzir 2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Desrespeito da proibição de entrar na zona regulada pelo sinal imposta pela luz amarela, em pista especial para velocípedes, não estando o velocípede muito perto dessa zona e podendo parar em condições de segurança, (sinal luminoso S3).",
     "categoria": "Sistema principal de luzes",
     "descricao": "Desrespeito da proibição de entrar na zona regulada pelo sinal imposta pela luz amarela, em pista especial para velocípedes, não estando o velocípede muito perto dessa zona e podendo parar em condições de segurança, (sinal luminoso S3).",
     "infracao": "ARTIGO 69.º n.º 5",
@@ -1663,6 +1798,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Circulação em desrespeito da indicação de sentido dada pela luz verde suplementar de sinal luminoso de regulação de trânsito, constituída por seta verde sobre fundo circular negro (sinal luminoso S4).",
     "categoria": "Luzes verdes suplementares",
     "descricao": "Circulação em desrespeito da indicação de sentido dada pela luz verde suplementar de sinal luminoso de regulação de trânsito, constituída por seta verde sobre fundo circular negro (sinal luminoso S4).",
     "infracao": "ARTIGO 70.º n.º 1",
@@ -1673,6 +1809,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Circulação em desrespeito da indicação de sentidos dada pelas luzes verdes suplementares de sinal luminoso de regulação de trânsito, constituída por setas verdes sobre fundo circular negro (sinal luminoso S4).",
     "categoria": "Luzes verdes suplementares",
     "descricao": "Circulação em desrespeito da indicação de sentidos dada pelas luzes verdes suplementares de sinal luminoso de regulação de trânsito, constituída por setas verdes sobre fundo circular negro (sinal luminoso S4).",
     "infracao": "ARTIGO 70.º n.º 1",
@@ -1683,6 +1820,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Circulação em desrespeito da indicação de sentido dada pela luz verde suplementar de sinal luminoso de regulação de trânsito, constituída por seta negra sobre fundo circular verde (sinal luminoso S4).",
     "categoria": "Luzes verdes suplementares",
     "descricao": "Circulação em desrespeito da indicação de sentido dada pela luz verde suplementar de sinal luminoso de regulação de trânsito, constituída por seta negra sobre fundo circular verde (sinal luminoso S4).",
     "infracao": "ARTIGO 70.º n.º 1",
@@ -1693,6 +1831,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Circulação em desrespeito da indicação de sentidos dada pelas luzes verdes suplementares de sinal luminoso de regulação de trânsito, constituída por setas negras sobre fundo circular verde (sinal luminoso S4).",
     "categoria": "Luzes verdes suplementares",
     "descricao": "Circulação em desrespeito da indicação de sentidos dada pelas luzes verdes suplementares de sinal luminoso de regulação de trânsito, constituída por setas negras sobre fundo circular verde (sinal luminoso S4).",
     "infracao": "ARTIGO 70.º n.º 1",
@@ -1703,6 +1842,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal luminoso de cor amarela circular intermitente (sinal luminoso S5).",
     "categoria": "Luzes intermitentes",
     "descricao": "Não cumprimento da indicação dada pelo sinal luminoso de cor amarela circular intermitente (sinal luminoso S5).",
     "infracao": "ARTIGO 71.º n.º 1",
@@ -1713,6 +1853,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal luminoso, intermitente, com seta negra sobre fundo amarelo (sinal luminoso S6).",
     "categoria": "Luzes intermitentes",
     "descricao": "Não cumprimento da indicação dada pelo sinal luminoso, intermitente, com seta negra sobre fundo amarelo (sinal luminoso S6).",
     "infracao": "ARTIGO 71.º n.º 1",
@@ -1723,6 +1864,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal luminoso, intermitente, com seta amarela sobre fundo negro (sinal luminoso S6).",
     "categoria": "Luzes intermitentes",
     "descricao": "Não cumprimento da indicação dada pelo sinal luminoso, intermitente, com seta amarela sobre fundo negro (sinal luminoso S6).",
     "infracao": "ARTIGO 71.º n.º 1",
@@ -1733,6 +1875,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal luminoso constituído por duas luzes amarelas dispostas horizontalmente e acendendo alternadamente (sinal luminoso S7).",
     "categoria": "Luzes intermitentes",
     "descricao": "Não cumprimento da indicação dada pelo sinal luminoso constituído por duas luzes amarelas dispostas horizontalmente e acendendo alternadamente (sinal luminoso S7).",
     "infracao": "ARTIGO 71.º n.º 1",
@@ -1743,6 +1886,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Não cumprimento da indicação dada pelo sinal luminoso constituído por barra horizontal branca sobre fundo circular negro (sinal luminosos S16) – passagem proibida para veículo de transporte coletivo de passageiros",
     "categoria": "Sinais específicos para transporte colectivo de passageiros",
     "descricao": "Não cumprimento da indicação dada pelo sinal luminoso constituído por barra horizontal branca sobre fundo circular negro (sinal luminosos S16) – passagem proibida para veículo de transporte coletivo de passageiros",
     "infracao": "ARTIGO 73.º n.º 1",
@@ -1753,6 +1897,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Trânsito de peão desrespeitando a proibição de iniciar o atravessamento da faixa de rodagem, imposta pelo sinal luminoso de cor vermelha destinada a regular o trânsito de peões (sinal luminoso S18).",
     "categoria": "Sinais para peões",
     "descricao": "Trânsito de peão desrespeitando a proibição de iniciar o atravessamento da faixa de rodagem, imposta pelo sinal luminoso de cor vermelha destinada a regular o trânsito de peões (sinal luminoso S18).",
     "infracao": "ARTIGO 74.º",
@@ -1763,6 +1908,7 @@
     "sancao_acessoria": ""
   },
   {
+    "codigo": "Desobediência ao sinal do agente regulador do trânsito de paragem do trânsito vindo de frente.",
     "categoria": "Sinais dos agentes reguladores de trânsito",
     "descricao": "Desobediência ao sinal do agente regulador do trânsito de paragem do trânsito vindo de frente.",
     "infracao": "ARTIGO 103.º",
@@ -1773,6 +1919,7 @@
     "sancao_acessoria": "104.º RST Sanção acessória: - art.º 146.º l) do C.E. Condutor: Inibição de Conduzir 2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Desobediência ao sinal do agente regulador do trânsito de paragem do trânsito vindo da retaguarda.",
     "categoria": "Sinais dos agentes reguladores de trânsito",
     "descricao": "Desobediência ao sinal do agente regulador do trânsito de paragem do trânsito vindo da retaguarda.",
     "infracao": "ARTIGO 103.º",
@@ -1783,6 +1930,7 @@
     "sancao_acessoria": "104.º RST Sanção acessória: - art.º 146.º l) do C.E. Condutor: Inibição de Conduzir 2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
   },
   {
+    "codigo": "Desobediência ao sinal do agente regulador do trânsito de paragem do trânsito vindo de frente e da retaguarda.",
     "categoria": "Sinais dos agentes reguladores de trânsito",
     "descricao": "Desobediência ao sinal do agente regulador do trânsito de paragem do trânsito vindo de frente e da retaguarda.",
     "infracao": "ARTIGO 103.º",
