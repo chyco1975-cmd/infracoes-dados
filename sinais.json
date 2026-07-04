@@ -280,7 +280,7 @@
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/M14A.png"
   },
   {
-    "codigo": "S1amarelo",
+    
     "nome": "Sinalização luminosa - Luz amarela",
     "categoria": "Sinalização Luminosa",
     "descricao": "Desrespeito da proibição de entrar na zona regulada pelo sinal imposta pela luz amarela, não estando o veículo muito perto dessa zona e podendo parar em condições de segurança (sinal luminoso S1).",
@@ -288,10 +288,10 @@
     "punicao": "art.º 76.º b), i)",
     "codigoCE": "1.89.069.01.02",
     "coima": "Coima: € 60,00 a € 300,00",
-    "imagem": "https://github.com/chyco1975-cmd/infracoes-dados/blob/main/sinais/S1amarelo.png"
+    
   },
   {
-    "codigo": "S1vermelho",
+    
     "nome": "Sinalização luminosa - Luz vermelha",
     "categoria": "Sinalização Luminosa",
     "descricao": "Desrespeito da obrigação de parar imposta pela luz vermelha de regulação do trânsito (sinal luminoso S1).",
@@ -299,7 +299,7 @@
     "punicao": "art.º 76.º a), i)",
     "codigoCE": "3.89.069.01.01",
     "coima": "Coima: € 120,00 a € 600,00",
-    "imagem": "https://github.com/chyco1975-cmd/infracoes-dados/blob/main/sinais/S1vermelho.png"
+    
   },
   {
     "codigo": "C1 5",
