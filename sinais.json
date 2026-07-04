@@ -291,7 +291,7 @@
      "imagem": "https://github.com/chyco1975-cmd/infracoes-dados/blob/main/sinais/S1a.png"
   },
   {
-    "codigo": "M14Aa",
+    "codigo": "S1v",
     "nome": "Sinalização luminosa - Luz vermelha",
     "categoria": "Sinalização Luminosa",
     "descricao": "Desrespeito da obrigação de parar imposta pela luz vermelha de regulação do trânsito (sinal luminoso S1).",
@@ -299,7 +299,7 @@
     "punicao": "art.º 76.º a), i)",
     "codigoCE": "3.89.069.01.01",
     "coima": "Coima: € 120,00 a € 600,00",
-     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/M14.png"
+     "imagem": "https://github.com/chyco1975-cmd/infracoes-dados/blob/main/sinais/S1v.png"
   },
   {
     "codigo": "C1 5",
