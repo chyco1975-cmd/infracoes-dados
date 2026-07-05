@@ -364,7 +364,7 @@
     "categoria": "Sinais de cedência de passagem",
     "descricao": "Não cumprimento, em via equiparada a autoestrada, da indicação dada pelo sinal de cedência de passagem B1.",
     "infracao": "ARTIGO 21.º",
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/M14A.png"
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/M14A.png",
     "coima": "Coima: € 120,00 a € 600,00",
     "punicao": "art.º 23.º a)",
     "classificacao": "MUITO GRAVE",
