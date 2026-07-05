@@ -104,8 +104,8 @@
     "sancao_acessoria": ""
   },
   {
-    "codigo": "D1A",
-    "nome": "Não cumprimento da indicação dada pelo sinal de obrigação D1a",
+    "codigo": "D1a",
+    "nome": "",
     "categoria": "Sinais de Obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1a – obrigação de seguir no sentido indicado pela seta inscrita no sinal na próxima intersecção.",
     "infracao": "ARTIGO 27.º",
@@ -117,8 +117,8 @@
     "sancao_acessoria": ""
   },
   {
-    "codigo": "D1B",
-    "nome": "Sinais de Obrigação",
+    "codigo": "D1b",
+    "nome": "",
     "categoria": "Sinais de Obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1b – sentido obrigatório.",
     "infracao": "ARTIGO 27.º",
@@ -130,8 +130,8 @@
     "sancao_acessoria": ""
   },
   {
-    "codigo": "D1C",
-    "nome": "Proibição de Estacionamento",
+    "codigo": "D1c",
+    "nome": "",
     "categoria": "Sinais de Obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1c – obrigação de seguir no sentido indicado pela seta inscrita no sinal na próxima intersecção.",
     "coima": "Coima: € 60,00 a € 300,00",
@@ -142,8 +142,8 @@
     "sancao_acessoria": ""
   },
   {
-    "codigo": "D1D",
-    "nome": "Proibição de Estacionamento",
+    "codigo": "D1d",
+    "nome": "",
     "categoria": "Sinais de Obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1d – obrigação de seguir no sentido indicado pela seta inscrita no sinal na próxima intersecção.",
     "infracao": "ARTIGO 27.º",
@@ -155,8 +155,8 @@
     "sancao_acessoria": ""
   },
   {
-    "codigo": "D1E",
-    "nome": "Proibição de Estacionamento",
+    "codigo": "D1e",
+    "nome": "",
     "categoria": "Sinais de Obrigação",
     "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1e – obrigação de seguir no sentido indicado pela seta inscrita no sinal na próxima intersecção.",
     "infracao": "ARTIGO 27.º",
@@ -168,7 +168,7 @@
     "sancao_acessoria": ""
    },
   {
-    "codigo": "H1APAGO",
+    "codigo": "H1a_PAGO",
     "nome": "Estacionamento Pago",
     "categoria": "Parques de Estacionamento",
     "descricao": "Estacionamento de veículo, em parque de estacionamento sujeito ao pagamento de taxa, sem o pagamento da respetiva taxa.",
@@ -192,7 +192,7 @@
     "sancao_acessoria": ""
   },
   {
-    "codigo": "G2A",
+    "codigo": "G2a",
     "nome": "Zona de estacionamento proibidos",
     "categoria": "Sinais de Zona",
     "descricao": "zona de estacionamento proibido: indicação de entrada numa zona em que o estacionamento é proibido",
@@ -214,7 +214,7 @@
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/G3.png"
   },      
   {
-    "codigo": "H1ADEFICIENTES",
+    "codigo": "H1a_DEFICIENTES",
     "nome": "Estacionamento Proibido",
     "categoria": "Parques de Estacionamento",
     "descricao": "Estacionamento de veículo em lugar de estacionamento, exclusivamente afeto, mediante sinalização, a veículos utilizados no transporte de pessoa com deficiência, em parque de estacionamento.",
@@ -226,7 +226,7 @@
     "sancao_acessoria": "art.º 145.º n.º 1 q) Condutor: Inibição de Conduzir 1/12 meses (147.º 2) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "codigo": "H1AELETRICOS",
+    "codigo": "H1a_ELETRICOS",
     "nome": "Estacionamento Autorizado a Veículos Eletricos em Carga",
     "categoria": "Sinais de Informação",
     "descricao": "ESTACIONAMENTO de veículo em local, devidamente sinalizado, reservado ao estacionamento de veículos em carga.",
@@ -238,7 +238,7 @@
   },
   {
     "codigo": "H1ATAXIS",
-    "nome": "",
+    "nome": "Estacionamento Autorizado a TAXIS",
     "categoria": "Sianis de Informação",
     "descricao": "ESTACIONAMENTO de veículo em local, devidamente sinalizado, reservado ao estacionamento de certos veículos (TAXIS).",
     "infracao": "ARTIGO n.º 50.º n.º 2",
@@ -249,7 +249,7 @@
   {
     "codigo": "H20A",
     "nome": "<>",
-    "categoria": "Sianis de Informação",
+    "categoria": "Sinais de Informação",
     "descricao": "ESTACIONAMENTO de veículo a menos de 25 m antes de sinal indicativo da PARAGEM de veículos de transporte coletivo de passageiros que não transitem sobre carris.",
     "codigoCE": "xxx",
     "coima": 30,
