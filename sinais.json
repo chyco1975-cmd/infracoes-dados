@@ -304,6 +304,39 @@
     "coima": "Coima: € 120 € a € 600",
      "imagem": "https://github.com/chyco1975-cmd/infracoes-dados/blob/main/sinais/S1vermelho.png?raw=true"
   },
+    {
+    "codigo": "<>",
+    "categoria": "Sinais dos agentes reguladores de trânsito",
+    "descricao": "Desobediência ao sinal do agente regulador do trânsito de paragem do trânsito vindo de frente.",
+    "infracao": "ARTIGO 103.º",
+    "coima": "Coima: € 500,00 a € 2500,00",
+    "punicao": "art.º 4.º n.º 2 conjugado com o n.º 3, do C.E. ex vi art.º",
+    "classificacao": "MUITO GRAVE",
+    "codigoCE": "3.89.103.01.01",
+    "sancao_acessoria": "104.º RST Sanção acessória: - art.º 146.º l) do C.E. Condutor: Inibição de Conduzir 2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
+  },
+  {
+    "codigo": "<>",
+    "categoria": "Sinais dos agentes reguladores de trânsito",
+    "descricao": "Desobediência ao sinal do agente regulador do trânsito de paragem do trânsito vindo da retaguarda.",
+    "infracao": "ARTIGO 103.º",
+    "coima": "Coima: € 500,00 a € 2500,00",
+    "punicao": "art.º 4.º n.º 2 conjugado com o n.º 3, do C.E ex vi art.º",
+    "classificacao": "MUITO GRAVE",
+    "codigoCE": "3.89.103.01.02",
+    "sancao_acessoria": "104.º RST Sanção acessória: - art.º 146.º l) do C.E. Condutor: Inibição de Conduzir 2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
+  },
+  {
+    "codigo": "<>",
+    "categoria": "Sinais dos agentes reguladores de trânsito",
+    "descricao": "Desobediência ao sinal do agente regulador do trânsito de paragem do trânsito vindo de frente e da retaguarda.",
+    "infracao": "ARTIGO 103.º",
+    "coima": "Coima: € 500 a € 2500",
+    "punicao": "art.º 4.º n.º 2 conjugado com o n.º 3, do C.E. ex vi art.º 104.º",
+    "classificacao": "MUITO GRAVE",
+    "codigoCE": "3.89.103.01.03",
+    "sancao_acessoria": "RST Sanção acessória: - art.º 146.º l) do C.E. Condutor: Inibição de Conduzir 2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
+  },
   {
     "codigo": "<>",
     "categoria": "Princípios gerais",
