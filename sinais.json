@@ -10,7 +10,7 @@
     "coima": "Coima: € 120,00 a € 600,00",  
     "classificacao": "GRAVE",
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) do C.E. Condutor: Inibição de Conduzir 1/12 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3 do C.E.)",
-    "imagem": "https://github.com/chyco1975-cmd/infracoes-dados/blob/main/sinais/B1.png?raw=true"
+    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/sinais/B1.png?raw=true"
   },
   {
     "codigo": "B2",
@@ -291,7 +291,7 @@
      "imagem": "https://github.com/chyco1975-cmd/infracoes-dados/blob/main/sinais/S1amarelo.png?raw=true"
   },
   {
-    "codigo": "",
+    "codigo": "<>",
     "categoria": "Princípios gerais",
     "descricao": "Sinal de trânsito acompanhado de motivo decorativo (ou de qualquer espécie de publicidade comercial).",
     "infracao": "ARTIGO 1.º n.º 2",
@@ -302,7 +302,7 @@
     "sancao_acessoria": ""
   },
   {
-    "codigo": "Colocação sobre sinal de trânsito (ou na sua proximidade) de quadros (ou painéis ou cartazes ou outros objectos) que possam confundir-se com o sinal de trânsito (ou prejudicar a sua visibilidade ou reconhecimento ou perturbar a atenção do condutor).",
+    "codigo": "<>",
     "categoria": "Princípios gerais",
     "descricao": "Colocação sobre sinal de trânsito (ou na sua proximidade) de quadros (ou painéis ou cartazes ou outros objectos) que possam confundir-se com o sinal de trânsito (ou prejudicar a sua visibilidade ou reconhecimento ou perturbar a atenção do condutor).",
     "infracao": "ARTIGO 1.º n.º 3",
@@ -313,7 +313,7 @@
     "sancao_acessoria": ""
   },
   {
-    "codigo": "Instalação de sinal de trânsito na via pública por entidade sem competência para a sua sinalização (ou sem autorização da entidade competente).",
+    "codigo": "<>",
     "categoria": "Competência para a instalação dos sinais",
     "descricao": "Instalação de sinal de trânsito na via pública por entidade sem competência para a sua sinalização (ou sem autorização da entidade competente).",
     "infracao": "ARTIGO 3.º n.º 1",
