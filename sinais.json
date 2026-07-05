@@ -310,7 +310,9 @@
     "punicao": "art.º 1.º n.º 4",
     "classificacao": "LEVE",
     "codigoCE": "1.89.001.02.01",
-    "sancao_acessoria": ""
+    "sancao_acessoria": "",
+    "imagem": "https://github.com/chyco1975-cmd/infracoes-dados/blob/main/sinais/B1.png?raw=true"
+  },
   },
   {
     "codigo": "Colocação sobre sinal de trânsito (ou na sua proximidade) de quadros (ou painéis ou cartazes ou outros objectos) que possam confundir-se com o sinal de trânsito (ou prejudicar a sua visibilidade ou reconhecimento ou perturbar a atenção do condutor).",
