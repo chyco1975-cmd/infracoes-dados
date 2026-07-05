@@ -1900,7 +1900,7 @@
     "sancao_acessoria": ""
   },
   {
-    "codigo": "Desobediência ao sinal do agente regulador do trânsito de paragem do trânsito vindo de frente.",
+    "codigo": "<>",
     "categoria": "Sinais dos agentes reguladores de trânsito",
     "descricao": "Desobediência ao sinal do agente regulador do trânsito de paragem do trânsito vindo de frente.",
     "infracao": "ARTIGO 103.º",
@@ -1911,7 +1911,7 @@
     "sancao_acessoria": "104.º RST Sanção acessória: - art.º 146.º l) do C.E. Condutor: Inibição de Conduzir 2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
   },
   {
-    "codigo": "Desobediência ao sinal do agente regulador do trânsito de paragem do trânsito vindo da retaguarda.",
+    "codigo": "<>",
     "categoria": "Sinais dos agentes reguladores de trânsito",
     "descricao": "Desobediência ao sinal do agente regulador do trânsito de paragem do trânsito vindo da retaguarda.",
     "infracao": "ARTIGO 103.º",
@@ -1922,7 +1922,7 @@
     "sancao_acessoria": "104.º RST Sanção acessória: - art.º 146.º l) do C.E. Condutor: Inibição de Conduzir 2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
   },
   {
-    "codigo": "Desobediência ao sinal do agente regulador do trânsito de paragem do trânsito vindo de frente e da retaguarda.",
+    "codigo": "<>",
     "categoria": "Sinais dos agentes reguladores de trânsito",
     "descricao": "Desobediência ao sinal do agente regulador do trânsito de paragem do trânsito vindo de frente e da retaguarda.",
     "infracao": "ARTIGO 103.º",
