@@ -230,8 +230,10 @@
     "nome": "Estacionamento Autorizado a Veículos Eletricos em Carga",
     "categoria": "Sianis de Informação",
     "descricao": "ESTACIONAMENTO de veículo em local, devidamente sinalizado, reservado ao estacionamento de veículos em carga.",
+    "infracao": "ARTIGO n.º 50.º n.º 1",
+    "punicao": "art.º 50.º n.º 2",
     "codigoCE": "1.90.050.01.85",
-    "coima": 60,
+    "coima": "€ 60 a € 300",
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/H1AELETRICOS.png"
   },
   {
