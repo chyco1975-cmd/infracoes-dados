@@ -291,25 +291,16 @@
      "imagem": "https://github.com/chyco1975-cmd/infracoes-dados/blob/main/sinais/S1amarelo.png?raw=true"
   },
   {
-    "codigo": "S1_vermelho",
-    "nome": "Sinalização luminosa - Luz vermelha",
-    "categoria": "Sinalização Luminosa",
-    "descricao": "Desrespeito da obrigação de parar imposta pela luz vermelha de regulação do trânsito (sinal luminoso S1).",
-    "infracao": "ARTIGO 69.º n.º 1",
-    "punicao": "art.º 76.º a), i)",
-    "codigoCE": "3.89.069.01.01",
-    "coima": "Coima: € 120,00 a € 600,00",
-     "imagem": "https://github.com/chyco1975-cmd/infracoes-dados/blob/main/sinais/S1vermelho.png?raw=true"
-  },
-  {
     "codigo": "Sinal de trânsito acompanhado de motivo decorativo (ou de qualquer espécie de publicidade comercial).",
     "categoria": "Princípios gerais",
     "descricao": "Sinal de trânsito acompanhado de motivo decorativo (ou de qualquer espécie de publicidade comercial).",
-    "infracao": "ARTIGO 69.º n.º 1",
-    "punicao": "art.º 76.º b), i)",
-    "codigoCE": "1.89.069.01.02",
-    "coima": "Coima: € 60,00 a € 300,00",
-     "imagem": "https://github.com/chyco1975-cmd/infracoes-dados/blob/main/sinais/S1amarelo.png?raw=true"
+    "infracao": "ARTIGO 1.º n.º 2",
+    "coima": "Coima: € 250,00 a € 1.250,00",
+    "punicao": "art.º 1.º n.º 4",
+    "classificacao": "LEVE",
+    "codigoCE": "1.89.001.02.01",
+    "imagem": "https://github.com/chyco1975-cmd/infracoes-dados/blob/main/sinais/S1amarelo.png?raw=true",
+    "sancao_acessoria": ""
   },
   {
     "codigo": "Colocação sobre sinal de trânsito (ou na sua proximidade) de quadros (ou painéis ou cartazes ou outros objectos) que possam confundir-se com o sinal de trânsito (ou prejudicar a sua visibilidade ou reconhecimento ou perturbar a atenção do condutor).",
@@ -320,7 +311,6 @@
     "punicao": "art.º 1.º n.º 4",
     "classificacao": "LEVE",
     "codigoCE": "1.89.001.03.01",
-    "imagem": "https://github.com/chyco1975-cmd/infracoes-dados/blob/main/sinais/B1.png?raw=true",
     "sancao_acessoria": ""
   },
   {
@@ -332,7 +322,6 @@
     "punicao": "art.º 3.º n.º 3",
     "classificacao": "LEVE",
     "codigoCE": "1.89.003.01.01",
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/M14A.png",
     "sancao_acessoria": ""
   },
   {
@@ -343,7 +332,6 @@
     "coima": "Coima: € 120,00 a € 600,00",
     "punicao": "art.º 23.º a)",
     "classificacao": "GRAVE",
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/M14A.png",
     "codigoCE": "2.89.021.01.01",
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) do C.E. Condutor: Inibição de Conduzir 1/12 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3 do C.E.)"
   },
@@ -354,7 +342,6 @@
     "infracao": "ARTIGO 21.º",
     "coima": "Coima: € 120,00 a € 600,00",
     "punicao": "art.º 23.º a)",
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/M14A.png",
     "classificacao": "MUITO GRAVE",
     "codigoCE": "3.89.021.01.02",
     "sancao_acessoria": "Sanção acessória: - art.º 146.º h) do C.E. Condutor: Inibição de Conduzir 2/24 meses (147.º 2 do C.E.) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3 do C.E.)"
@@ -364,7 +351,6 @@
     "categoria": "Sinais de cedência de passagem",
     "descricao": "Não cumprimento, em via equiparada a autoestrada, da indicação dada pelo sinal de cedência de passagem B1.",
     "infracao": "ARTIGO 21.º",
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/M14A.png",
     "coima": "Coima: € 120,00 a € 600,00",
     "punicao": "art.º 23.º a)",
     "classificacao": "MUITO GRAVE",
@@ -375,7 +361,6 @@
     "codigo": "B2",
     "categoria": "Sinais de cedência de passagem",
     "descricao": "Não cumprimento da indicação dada pelo sinal de cedência B2 – paragem obrigatória na interseção.",
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/M14A.png",
     "infracao": "ARTIGO 21.º",
     "coima": "Coima: € 120,00 a € 600,00",
     "punicao": "art.º 23.º a)",
@@ -386,7 +371,6 @@
   {
     "codigo": "B5",
     "categoria": "Sinais de cedência de passagem",
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/M14A.png",
     "descricao": "Não cumprimento da indicação dada pelo sinal de cedência de passagem B5 – cedência de passagem nos estreitamentos da faixa de rodagem.",
     "infracao": "ARTIGO 21.º",
     "coima": "Coima: € 60,00 a € 300,00",
@@ -397,7 +381,6 @@
   },
   {
     "codigo": "C1",
-    "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/M14A.png",
     "categoria": "Enumeração e significado dos sinais de proibição",
     "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C1 – sentido proibido.",
     "infracao": "ARTIGO 24.º",
