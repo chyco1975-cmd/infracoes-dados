@@ -238,18 +238,19 @@
   },
   {
     "codigo": "H1ATAXIS",
-    "nome": "Estacionamento Autorizado a Taxis",
+    "nome": "",
     "categoria": "Sianis de Informação",
-    "descricao": "ESTACIONAMENTO de veículo em local, devidamente sinalizado, reservado ao estacionamento de TAXIS.",
+    "descricao": "ESTACIONAMENTO de veículo em local, devidamente sinalizado, reservado ao estacionamento de certos veículos (TAXIS).",
+    "infracao": "ARTIGO n.º 50.º n.º 2",
     "codigoCE": "1.90.050.01.85",
-    "coima": 60,
+    "coima": "€ 60 a € 300",
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/H1ATAXIS.png"
   },
   {
     "codigo": "H20A",
-    "nome": "Proibição de Estacionamento",
+    "nome": "<>",
     "categoria": "Sianis de Informação",
-    "descricao": "xxx",
+    "descricao": "ESTACIONAMENTO de veículo a menos de 25 m antes de sinal indicativo da PARAGEM de veículos de transporte coletivo de passageiros que não transitem sobre carris.",
     "codigoCE": "xxx",
     "coima": 30,
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/H20A.png"
