@@ -228,7 +228,7 @@
   {
     "codigo": "H1AELETRICOS",
     "nome": "Estacionamento Autorizado a Veículos Eletricos em Carga",
-    "categoria": "Sianis de Informação",
+    "categoria": "Sinais de Informação",
     "descricao": "ESTACIONAMENTO de veículo em local, devidamente sinalizado, reservado ao estacionamento de veículos em carga.",
     "infracao": "ARTIGO n.º 50.º n.º 1",
     "punicao": "art.º 50.º n.º 2",
@@ -292,6 +292,17 @@
     "codigoCE": "1.89.069.01.02",
     "coima": "Coima: € 60,00 a € 300,00",
      "imagem": "https://github.com/chyco1975-cmd/infracoes-dados/blob/main/sinais/S1amarelo.png?raw=true"
+  },
+  {
+    "codigo": "S1_vermelho",
+    "nome": "Sinalização luminosa - Luz vermelha",
+    "categoria": "Sinalização Luminosa",
+    "descricao": "Desrespeito da obrigação de parar imposta pela luz vermelha de regulação do trânsito (sinal luminoso S1).",
+    "infracao": "ARTIGO 69.º n.º 1",
+    "punicao": "art.º 76.º a), i)",
+    "codigoCE": "3.89.069.01.01",
+    "coima": "Coima: € 120 € a € 600",
+     "imagem": "https://github.com/chyco1975-cmd/infracoes-dados/blob/main/sinais/S1vermelho.png?raw=true"
   },
   {
     "codigo": "<>",
