@@ -248,7 +248,7 @@
   },
   {
     "codigo": "H20A",
-    "nome": "<>",
+    "nome": "Paragem de veículos de transporte colectivo de passageiros",
     "categoria": "Sinais de Informação",
     "descricao": "ESTACIONAMENTO de veículo a menos de 25 m antes de sinal indicativo da PARAGEM de veículos de transporte coletivo de passageiros que não transitem sobre carris.",
     "codigoCE": "xxx",
@@ -258,10 +258,12 @@
   {
     "codigo": "M13",
     "nome": "Proibição de Estacionamento",
-    "categoria": "SMarcas de Estacionamento e Paragem",
-    "descricao": "Dxxx",
-    "codigoCE": "xxx",
-    "coima": 30,
+    "categoria": "Marcas de Estacionamento e Paragem",
+    "descricao": "Estacionamento em local delimitado por linha descontínua, de cor amarela, aposta junto ao limite da faixa de rodagem (Marca M13).",
+    "infracao": "ARTIGO n.º 62.º n.º 1",
+    "punicao": "art.º 65, c)",
+    "codigoCE": "1.89.062.01.01",
+    "coima": "€ 30 a € 150",
     "imagem": "https://raw.githubusercontent.com/chyco1975-cmd/infracoes-dados/main/sinais/M13.png"
   },
   {
