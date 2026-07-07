@@ -471,16 +471,6 @@
   },
   {
     "categoria": "Bermas e passeios",
-    "descricao": "Utilização de berma (ou de passeio) por condutor de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) sem que o acesso deste a prédio o exija.",
-    "infracao": "ARTIGO 17.º n.º1",
-    "coima": "€ 30 a € 150",
-    "punicao": "art.º 17.º n.º4 e art.º 96.º",
-    "classificacao": "LEVE",
-    "codigo": "1.86.017.01.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Bermas e passeios",
     "descricao": "Trânsito de veículo na berma de autoestrada (ou de via equiparada).",
     "infracao": "ARTIGO 17.º n.º1",
     "coima": "€ 60 a € 300",
@@ -690,7 +680,7 @@
     "sancao_acessoria": "Implica perda do objeto, sua imediata remoção e apreensão ou, se esta não for possível a | apreensão do documento de identificação do veículo até à efetiva remoção do objeto."
   },
   {
-    "categoria": "Sinais luminosos",
+    "categoria": "Sinal Sonoro noite",
     "descricao": "Utilização de sinal sonoro durante a noite, dentro de localidade.",
     "infracao": "ARTIGO 23.º n.º 2",
     "coima": "€ 60 a € 300",
@@ -700,7 +690,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Sinais luminosos",
+    "categoria": "Avisadores Luminosos - cor amarela",
     "descricao": "Circulação de veículo a motor que, em razão do serviço a que se destina, deva parar ou deslocar-se em marcha lenta na via pública, não estando equipado com avisador luminoso especial.",
     "infracao": "ARTIGO 23.º n.º 4",
     "coima": "€ 60 a € 300",
@@ -710,7 +700,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Sinais luminosos",
+    "categoria": "Avisadores Luminosos - cor amarela",
     "descricao": "Não utilização de avisador luminoso especial pelo condutor de veículo a motor que deva parar na via pública, em razão do serviço a que se destina.",
     "infracao": "ARTIGO 23.º n.º 4",
     "coima": "€ 60 a € 300",
@@ -720,7 +710,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Sinais luminosos",
+    "categoria": "Avisadores Luminosos - cor amarela",
     "descricao": "Não utilização de avisador luminoso especial pelo condutor de veículo a motor que deva deslocar-se em marcha lenta na via pública, em razão do serviço a que se destina.",
     "infracao": "ARTIGO 23.º n.º 4",
     "coima": "€ 60 a € 300",
@@ -730,7 +720,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Sinais luminosos",
+    "categoria": "Avisadores Luminosos - cor azul",
     "descricao": "Instalação, noutro veículo, de avisador luminoso especial reservado a veículo de polícia, a veículo afeto à prestação de socorro ou de serviço urgente de interesse público ou a veículo utilizado na formação específica do respetivo condutor.",
     "infracao": "ARTIGO 23.º n.º 5",
     "coima": "€ 500 a € 2500",
@@ -740,7 +730,7 @@
     "sancao_acessoria": "Implica perda do objeto, sua imediata remoção e apreensão ou, se esta não for possível a apreensão do documento de identificação do veículo até à efetiva remoção do objeto."
   },
   {
-    "categoria": "Sinais luminosos",
+    "categoria": "Avisadores Luminosos - cor amarela",
     "descricao": "Instalação, noutro veículo, de avisador luminoso especial reservado a veículo a motor que deva parar ou circular em marcha lenta na via pública em razão do serviço a que se destina.",
     "infracao": "ARTIGO 23.º n.º 5",
     "coima": "€ 500 a € 2500",
@@ -750,7 +740,7 @@
     "sancao_acessoria": "Implica perda do objeto, sua imediata remoção e apreensão ou, se esta não for possível a apreensão do documento de identificação do veículo até à efetiva remoção do objeto."
   },
   {
-    "categoria": "Sinais luminosos",
+    "categoria": "Avisadores Luminosos - cor azul",
     "descricao": "Utilização, noutro veículo, de avisador luminoso especial reservado a veículo de polícia, a veículo afeto à prestação de socorro ou de serviço urgente de interesse público ou a veículo utilizado na formação específica do respetivo condutor.",
     "infracao": "ARTIGO 23.º n.º 5",
     "coima": "€ 500 a € 2500",
@@ -760,7 +750,7 @@
     "sancao_acessoria": "Implica perda do objeto, sua imediata remoção e apreensão ou, se esta não for possível a apreensão do documento de identificação do veículo até à efetiva remoção do objeto."
   },
   {
-    "categoria": "Sinais luminosos",
+    "categoria": "Avisadores Luminosos - cor amarela",
     "descricao": "Utilização, noutro veículo, de avisador luminoso especial reservado a veículo a motor que deva parar ou circular em marcha lenta na via pública em razão do serviço a que se destina.",
     "infracao": "ARTIGO 23.º n.º 5",
     "coima": "€ 500 a € 2500",
@@ -770,7 +760,7 @@
     "sancao_acessoria": "Implica perda do objeto, sua imediata remoção e apreensão ou, se esta não for possível a apreensão do documento de identificação do veículo até à efetiva remoção do objeto."
   },
   {
-    "categoria": "Sinais luminosos",
+    "categoria": "Avisadores Luminosos - cor amarela",
     "descricao": "Utilização de avisador luminoso especial, não sendo necessário o seu uso.",
     "infracao": "ARTIGO 23.º n.º 5",
     "coima": "€ 60 a € 300",
@@ -780,7 +770,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Sinais luminosos",
+    "categoria": "Avisadores Luminosos - cor amarela",
     "descricao": "Circulação de veículo a motor que, em razão do serviço a que se destina, deva parar ou circular em marcha lenta na via pública, cujo avisador luminoso especial não se encontra em funcionamento.",
     "infracao": "ARTIGO 23.º n.º 8",
     "coima": "€ 60 a € 300",
@@ -790,7 +780,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Sinais luminosos",
+    "categoria": "Avisadores Luminosos - cor amarela",
     "descricao": "Circulação de veículo a motor que, em razão do serviço a que se destina, deva parar ou circular em marcha lenta na via pública, encontrando-se o avisador luminoso especial a funcionar defeituosamente.",
     "infracao": "ARTIGO 23.º n.º 8",
     "coima": "€ 60 a € 300",
