@@ -12880,6 +12880,86 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Aproximação de veículo de uma passagem de peões assinalada, não deixando passar pessoa conduzindo carro de mão (ou conduzindo à mão velocípede de duas rodas sem carro atrelado ou motocultivador sem reboque ou retrotrem, ou carro de criança ou de pessoa com deficiência) na mesma passagem, tendo esta já iniciado o atravessamento da faixa de rodagem, em local onde a circulação de veículos é regulada por sinalização luminosa.",
+    "infracao": "ARTIGO 104.º",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 103.º n.º 4 e art.º 104º a), b) e e)",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.104.01.15",
+    "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+   {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Aproximação de veículo de uma passagem de peões, sem que o condutor reduza a velocidade (ou pare se necessário) para deixar passar pessoa conduzindo carro de mão (ou conduzindo à mão velocípede de duas rodas sem carro atrelado ou motocultivador sem reboque ou retrotrem, ou carro de criança ou de pessoa com deficiência) que já tenha iniciado a travessia da faixa de rodagem em local onde a circulação de veículos não é regulada por sinalização luminosa (ou por agente).",
+    "infracao": "ARTIGO 104.º",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 103.º n.º 4 e art.º 104.º a), b) e e)",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.104.01.17",
+    "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Mudança de direção, fora de localidade, não reduzindo a velocidade (ou não parando sendo necessário) para deixar passar pessoa conduzindo carro de mão (ou conduzindo à mão velocípede de duas rodas sem carro atrelado ou motocultivador sem reboque ou retrotrem, ou carro de criança ou de pessoa com deficiência) que estava a atravessar a faixa de rodagem na via em que vai entrar.",
+    "infracao": "ARTIGO 104.º",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 103.º n.º 4 e art.º 104.º a), b) e e)",
+    "classificacao": "LEVE",
+    "codigo": "1.86.104.01.19",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Mudança de direção, dentro de localidade, não reduzindo a velocidade (ou não parando sendo necessário) para deixar passar pessoa conduzindo carro de mão (ou conduzindo à mão velocípede de duas rodas sem carro atrelado ou motocultivador sem reboque ou retrotrem, ou carro de criança ou de pessoa com deficiência), que estava a atravessar a faixa de rodagem na via em que vai entrar.",
+    "infracao": "ARTIGO 104.º",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 103.º n.º 4 e art.º 104.º a), b) e e)",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.104.01.21",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Trânsito de pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) fora do passeio (ou de pista ou de passagem a ela destinada) ou na sua falta, fora da berma.",
+    "infracao": "ARTIGO 104.º",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 99.º n.º 5 e art.º 104.º c) e d)",
+    "classificacao": "LEVE",
+    "codigo": "1.86.104.01.23",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Aproximação de veículo de uma passagem de peões assinalada, não deixando passar pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) na mesma passagem, tendo esta já iniciado o atravessamento da faixa de rodagem, em local onde a circulação de veículos é regulada por sinalização luminosa.",
+    "infracao": "ARTIGO 104.º",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 103.º n.º 4 e art.º 104.ºc) e d)",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.104.01.37",
+    "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Aproximação de veículo de uma passagem de peões, sem que o condutor reduza a velocidade (ou pare se necessário) para deixar passar pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) na passagem que lhe é destinada, tendo aquela já iniciado o atravessamento da faixa de rodagem, em local onde a circulação de veículos não é regulada por sinalização luminosa (ou por agente).",
+    "infracao": "ARTIGO 104.º",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 103.º n.º 4 e art.º 104.ºc) e d)",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.104.01.39",
+    "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Mudança de direção, dentro de localidade, não reduzindo a velocidade (ou não parando sendo necessário) para deixar passar pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico), que estava a atravessar a faixa de rodagem na via em que vai entrar.",
+    "infracao": "ARTIGO 104.º",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 103.º n.º 4 e art.º 104.ºc) e d)",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.104.01.43",
+    "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
     "categoria": "Reboques",
     "descricao": "Trânsito de veículo a motor com mais de um reboque atrelado, fora dos casos legalmente previstos.",
     "infracao": "ARTIGO 110.º n.º 6",
