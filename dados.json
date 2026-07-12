@@ -680,7 +680,7 @@
     "sancao_acessoria": "Implica perda do objeto, sua imediata remoção e apreensão ou, se esta não for possível a | apreensão do documento de identificação do veículo até à efetiva remoção do objeto."
   },
   {
-    "categoria": "Sinal Sonoro noite",
+    "categoria": "Sinal Sonoro à noite",
     "descricao": "Utilização de sinal sonoro durante a noite, dentro de localidade.",
     "infracao": "ARTIGO 23.º n.º 2",
     "coima": "€ 60 a € 300",
@@ -697,6 +697,7 @@
     "punicao": "art.º 23.º n.º 6",
     "classificacao": "LEVE",
     "codigo": "1.90.023.04.01",
+    "observacoes": "Coima registada ao proprietário",
     "sancao_acessoria": ""
   },
   {
@@ -10731,52 +10732,12 @@
   },
   {
     "categoria": "Álcool e substâncias psicotrópicas",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) com uma taxa de álcool no sangue igual ou superior a 0,5 g/l e inferior a 0,8 g/l.",
-    "infracao": "ARTIGO 81.º n.º 1",
-    "coima": "€ 125 a € 625",
-    "punicao": "art.º 81.º n.º 6 a) e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.90.081.01.04",
-    "sancao_acessoria": "Sanção acessória: art.º 145.º n.º 1 l) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
-  },
-  {
-    "categoria": "Álcool e substâncias psicotrópicas",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) com uma taxa de álcool no sangue igual ou superior a 0,8 g/l e inferior a 1,2 g/l.",
-    "infracao": "ARTIGO 81.º n.º 1",
-    "coima": "€ 250 a € 1250",
-    "punicao": "art.º 81.º n.º 6 b) e art.º 96.º",
-    "classificacao": "MUITO GRAVE",
-    "codigo": "3.90.081.01.05",
-    "sancao_acessoria": "Sanção acessória: art.º 146.ºj) | Condutor: Inibição de Conduzir 2/24 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3)"
-  },
-  {
-    "categoria": "Álcool e substâncias psicotrópicas",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) por pessoa considerada sob influência de álcool, em relatório médico.",
-    "infracao": "ARTIGO 81.º n.º 1",
-    "coima": "€ 250 a € 1250",
-    "punicao": "art.º 81.º n.º 6 b) e art.º 96.º",
-    "classificacao": "MUITO GRAVE",
-    "codigo": "3.90.081.01.06",
-    "sancao_acessoria": "Sanção acessória: art.º 146.º j) | Condutor: Inibição de Conduzir 2/24 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3)"
-  },
-  {
-    "categoria": "Álcool e substâncias psicotrópicas",
     "descricao": "Condução sob influência de substâncias psicotrópicas.",
     "infracao": "ARTIGO 81.º n.º 1",
     "coima": "€ 500 a € 2500",
     "punicao": "art.º 81.º n.º 6 b)",
     "classificacao": "MUITO GRAVE",
     "codigo": "3.90.081.01.07",
-    "sancao_acessoria": "Sanção acessória: art.º 146.º m) | Condutor: Inibição de Conduzir 2/24 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3)"
-  },
-  {
-    "categoria": "Álcool e substâncias psicotrópicas",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) sob influência de substâncias psicotrópicas.",
-    "infracao": "ARTIGO 81.º n.º 1",
-    "coima": "€ 250 a € 1250",
-    "punicao": "art.º 81.º n.º 6 b) e art.º 96.º",
-    "classificacao": "MUITO GRAVE",
-    "codigo": "3.90.081.01.08",
     "sancao_acessoria": "Sanção acessória: art.º 146.º m) | Condutor: Inibição de Conduzir 2/24 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3)"
   },
   {
