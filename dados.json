@@ -10810,7 +10810,7 @@
     "sancao_acessoria": "Sanção acessória: art.º 146.ºj) | Condutor: Inibição de Conduzir 2/24 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3)"
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Cinto de Segurança",
     "descricao": "Não utilização do cinto de segurança pelo condutor do veículo a motor.",
     "infracao": "ARTIGO 82.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -10820,7 +10820,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Cinto de Segurança",
     "descricao": "Utilização incorreta do cinto de segurança pelo condutor do veículo a motor.",
     "infracao": "ARTIGO 82.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -10830,7 +10830,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Cinto de Segurança",
     "descricao": "Não utilização do cinto de segurança pelo passageiro transportado no veículo a motor.",
     "infracao": "ARTIGO 82.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -10840,7 +10840,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Cinto de Segurança",
     "descricao": "Utilização incorreta do cinto de segurança pelo passageiro transportado no veículo a motor.",
     "infracao": "ARTIGO 82.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -10850,7 +10850,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Cinto de Segurança",
     "descricao": "Transporte de passageiro menor em veículo a motor sem que aquele faça uso do cinto de segurança.",
     "infracao": "ARTIGO 82.º n.º 1",
     "coima": "€120 a €600",
@@ -10860,7 +10860,7 @@
     "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 p) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2), ex vi art.º 135.º n.º 7 d) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Cinto de Segurança",
     "descricao": "Transporte de passageiro inimputável em veículo a motor sem que aquele faça uso do cinto de segurança.",
     "infracao": "ARTIGO 82.º n.º 1",
     "coima": "€120 a €600",
@@ -10870,7 +10870,7 @@
     "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 p) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2), ex vi art.º 135.º n.º 7 d) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Cinto de Segurança",
     "descricao": "Utilização incorreta do cinto de segurança pelo passageiro menor transportado em veículo a motor.",
     "infracao": "ARTIGO 82.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -10880,7 +10880,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Cinto de Segurança",
     "descricao": "Utilização incorreta do cinto de segurança pelo passageiro inimputável transportado em veículo a motor.",
     "infracao": "ARTIGO 82.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -10890,7 +10890,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança",
     "descricao": "Não utilização de dispositivo de segurança pelo condutor do veículo a motor.",
     "infracao": "ARTIGO 82.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -10900,7 +10900,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança",
     "descricao": "Utilização incorreta de dispositivo de segurança pelo condutor do veículo a motor.",
     "infracao": "ARTIGO 82.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -10910,7 +10910,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança",
     "descricao": "Não utilização de dispositivo de segurança pelo passageiro transportado no veículo a motor.",
     "infracao": "ARTIGO 82.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -10920,7 +10920,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança",
     "descricao": "Utilização incorreta de dispositivo de segurança pelo passageiro transportado no veículo a motor.",
     "infracao": "ARTIGO 82.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -10930,7 +10930,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança",
     "descricao": "Transporte de passageiro menor em veículo a motor sem que aquele faça uso de dispositivo de segurança.",
     "infracao": "ARTIGO 82.º n.º 1",
     "coima": "€120 a €600",
@@ -10940,7 +10940,7 @@
     "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 p), ex vi art.º 135.º n.º 7 d) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2), ex vi 135.º n.º 7 d) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança",
     "descricao": "Transporte de passageiro inimputável em veículo a motor sem que aquele faça uso de dispositivo de segurança.",
     "infracao": "ARTIGO 82.º n.º 1",
     "coima": "€120 a €600",
@@ -10950,7 +10950,7 @@
     "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 p), ex vi art.º 135.º n.º 7 d) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2), ex vi 135.º n.º 7 d) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Não utilização de capacete de modelo oficialmente aprovado pelo condutor de ciclomotor.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -10960,7 +10960,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Utilização incorreta de capacete de modelo oficialmente aprovado pelo condutor de ciclomotor.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -10970,7 +10970,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Utilização de capacete de modelo oficialmente aprovado, pelo condutor de ciclomotor, não estando devidamente ajustado e apertado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -10980,7 +10980,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Não utilização, pelo passageiro transportado em ciclomotor, de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -10990,7 +10990,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Utilização incorreta, pelo passageiro transportado em ciclomotor, de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -11000,7 +11000,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Utilização, pelo passageiro transportado em ciclomotor, de capacete de modelo oficialmente aprovado, não estando devidamente ajustado e apertado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -11010,7 +11010,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Transporte de passageiro menor em ciclomotor, sem que aquele faça uso de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€120 a € 600",
@@ -11020,7 +11020,7 @@
     "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 p) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2), ex vi art.º 135.º n.º 7 d) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Transporte de passageiro inimputável em ciclomotor, sem que aquele faça uso de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€120 a € 600",
@@ -11030,7 +11030,7 @@
     "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 p) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2), ex vi art.º 135.º n.º 7 d) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Não utilização, pelo condutor de motociclo, de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -11040,7 +11040,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Utilização incorreta, pelo condutor de motociclo, de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -11050,7 +11050,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Utilização, pelo condutor de motociclo, de capacete de modelo oficialmente aprovado, não estando devidamente ajustado e apertado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -11060,7 +11060,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Não utilização, pelo passageiro transportado em motociclo, de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -11070,7 +11070,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Utilização incorreta, pelo passageiro transportado em motociclo, de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -11080,7 +11080,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Utilização, pelo passageiro transportado em motociclo, de capacete de modelo oficialmente aprovado, não estando devidamente ajustado e apertado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -11090,7 +11090,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Transporte de passageiro menor em motociclo, sem que aquele faça uso de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€120 a € 600",
@@ -11100,7 +11100,7 @@
     "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 p) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2), ex vi art.º 135.º n.º 7 d) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Transporte de passageiro inimputável em motociclo sem que aquele faça uso de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€120 a € 600",
@@ -11110,7 +11110,7 @@
     "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 p) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2), ex vi art.º 135.º n.º 7 d) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Não utilização, pelo condutor de triciclo, de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -11120,7 +11120,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Utilização incorreta, pelo condutor de triciclo, de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -11130,7 +11130,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Utilização, pelo condutor de triciclo, de capacete de modelo oficialmente aprovado, não estando devidamente ajustado e apertado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -11140,7 +11140,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Não utilização, pelo passageiro transportado em triciclo, de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -11150,7 +11150,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Utilização incorreta, pelo passageiro transportado em triciclo, de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -11160,7 +11160,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Utilização, pelo passageiro transportado em triciclo, de capacete de modelo oficialmente aprovado, não estando devidamente ajustado e apertado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -11170,7 +11170,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Transporte de passageiro menor em triciclo, sem que aquele faça uso de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€120 a €600",
@@ -11180,7 +11180,7 @@
     "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 p) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2), ex vi art.º 135.º n.º 7 d) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Transporte de passageiro inimputável em triciclo, sem que aquele faça uso de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€120 a € 600",
@@ -11190,7 +11190,7 @@
     "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 p) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2), ex vi art.º 135.º n.º 7 d) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Não utilização, pelo condutor de quadriciclo, de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -11200,7 +11200,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Utilização incorreta, pelo condutor de quadriciclo, de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -11210,7 +11210,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Utilização, pelo condutor de quadriciclo, de capacete de modelo oficialmente aprovado, não estando devidamente ajustado e apertado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -11220,7 +11220,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Não utilização, pelo passageiro transportado em quadriciclo, de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -11230,7 +11230,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Utilização incorreta, pelo passageiro transportado em quadriciclo, de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -11240,7 +11240,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Utilização, pelo passageiro transportado em quadriciclo, de capacete de modelo oficialmente aprovado, não estando devidamente ajustado e apertado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -11250,7 +11250,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Transporte de passageiro menor em quadriciclo, sem que aquele faça uso de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€120 a €600",
@@ -11260,7 +11260,7 @@
     "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 p) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2), ex vi art.º 135.º n.º 7 d) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Capacete",
     "descricao": "Transporte de passageiro inimputável em quadriciclo, sem que aquele faça uso de capacete de modelo oficialmente aprovado.",
     "infracao": "ARTIGO 82.º n.º 3",
     "coima": "€120 a €600",
@@ -11270,7 +11270,7 @@
     "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 p) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2), ex vi art.º 135.º n.º 7 d) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Estrutura de Proteção",
     "descricao": "Condução de trator sem utilização da estrutura de proteção em caso de capotagem.",
     "infracao": "ARTIGO 82.º n.º 6",
     "coima": "€ 120 a € 600",
@@ -11280,17 +11280,18 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
-    "descricao": "Condução de máquina agrícola sem utilização da estrutura de proteção em caso de capotagem.",
+    "categoria": "Dispositivos de segurança - Estrutura de Proteção",
+    "descricao": "Condução de máquina agrícola sem utilização da estrutura de proteção em caso de capotagem. (Obrigatório para tratores matrículados após 1 de janeiro de 1994",
     "infracao": "ARTIGO 82.º n.º 6",
     "coima": "€ 120 a € 600",
     "punicao": "art.º 82.º n.º 7",
     "classificacao": "LEVE",
     "codigo": "1.90.082.06.02",
+    "observacoes": "Obrigatório para tratores matriculados após 1 de janeiro de 1994. A certificação é obrigatória depois de 29 de setembro de 2009. Dec-Lei 50/2005 de 25 Fev.",
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Estrutura de Proteção",
     "descricao": "Condução de máquina florestal sem utilização da estrutura de proteção em caso de capotagem.",
     "infracao": "ARTIGO 82.º n.º 6",
     "coima": "€ 120 a € 600",
@@ -11300,17 +11301,18 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Estrutura de Proteção",
     "descricao": "Utilização incorreta da estrutura de proteção em caso de capotagem, pelo condutor de trator.",
     "infracao": "ARTIGO 82.º n.º 6",
     "coima": "€ 120 a € 600",
     "punicao": "art.º 82.º n.º 7",
     "classificacao": "LEVE",
     "codigo": "1.90.082.06.04",
+    "observacoes": "Obrigatório para tratores matriculados após 1 de janeiro de 1994. A certificação é obrigatória depois de 29 de setembro de 2009. Dec-Lei 50/2005 de 25 Fev.",
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Estrutura de Proteção",
     "descricao": "Utilização incorreta da estrutura de proteção em caso de capotagem, pelo condutor de máquina agrícola.",
     "infracao": "ARTIGO 82.º n.º 6",
     "coima": "€ 120 a € 600",
@@ -11320,7 +11322,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Utilização de dispositivos de segurança",
+    "categoria": "Dispositivos de segurança - Estrutura de Proteção",
     "descricao": "Utilização incorreta da estrutura de proteção em caso de capotagem, pelo condutor de máquina florestal.",
     "infracao": "ARTIGO 82.º n.º 6",
     "coima": "€ 120 a € 600",
@@ -12520,27 +12522,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º h) | Condutor: Inibição de Conduzir 2/24 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3)"
   },
   {
-    "categoria": "Utilização das luzes",
-    "descricao": "Circulação de velocípede, (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, ou de outro meio de circulação análogo com motor) desde o anoitecer ao amanhecer (ou em condições meteorológicas ou ambientais que tornam a visibilidade insuficiente) sem utilização de dispositivos de iluminação regulamentares.",
-    "infracao": "ARTIGO 93.º n.º 3",
-    "coima": "€ 30 a € 150",
-    "punicao": "art.º 93.ºn.º4 e 96.º",
-    "classificacao": "LEVE",
-    "codigo": "1.86.093.03.01",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Avaria nas luzes",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, ou de outro meio de circulação análogo com motor) com avaria nas luzes não sendo o veículo conduzido à mão.",
-    "infracao": "ARTIGO 94.º n.º 2",
-    "coima": "€ 30 a € 150",
-    "punicao": "art.º 94.º n.º 3",
-    "classificacao": "LEVE",
-    "codigo": "1.86.094.02.01",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Sinalização de perigo",
+    "categoria": "Sinalização de perigo - motociclos, ciclomotores",
     "descricao": "Circulação de motociclo (ou de triciclo ou de quadriciclo ou de ciclomotor) quando represente um perigo especial para os outros utentes da via sem utilização das luzes avisadoras de perigo, quando os veículos estejam munidos com as mesmas.",
     "infracao": "ARTIGO 95.º",
     "coima": "€ 60 a € 300",
@@ -12550,7 +12532,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 m) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Sinalização de perigo",
+    "categoria": "Sinalização de perigo - motociclos, ciclomotores",
     "descricao": "Não utilização das luzes avisadoras de perigo, quando existam, por condutor de motociclo (ou de triciclo ou de quadriciclo ou de ciclomotor), em situação de súbita redução da velocidade provocada por obstáculo imprevisto (ou por condições meteorológicas ou ambientais especiais).",
     "infracao": "ARTIGO 95.º",
     "coima": "€ 60 a € 300",
@@ -12560,7 +12542,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 m) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Sinalização de perigo",
+    "categoria": "Sinalização de perigo - motociclos, ciclomotores",
     "descricao": "Não utilização de luzes avisadoras de perigo, por condutor de motociclo (ou de triciclo ou de quadriciclo ou de ciclomotor), encontrando-se estas em condições de funcionamento, em situação de imobilização forçada do veículo por acidente (ou por avaria) representando perigo para os outros utentes da via.",
     "infracao": "ARTIGO 95.º",
     "coima": "€ 60 a € 300",
@@ -12570,7 +12552,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 m) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Sinalização de perigo",
+    "categoria": "Sinalização de perigo - motociclos, ciclomotores",
     "descricao": "Não utilização de luzes avisadoras de perigo, por condutor de motociclo (ou de triciclo ou de quadriciclo ou de ciclomotor), encontrando-se estas em condições de funcionamento e estando o veículo a ser rebocado.",
     "infracao": "ARTIGO 95.º",
     "coima": "€ 60 a € 300",
@@ -12580,7 +12562,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 m) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Sinalização de perigo",
+    "categoria": "Sinalização de perigo - motociclos, ciclomotores",
     "descricao": "Não utilização da luz de presença, encontrando-se esta em condições de funcionamento e não sendo possível a utilização das luzes avisadoras de perigo, por condutor de motociclo (ou de triciclo ou de quadriciclo ou de ciclomotor), em situação de imobilização forçada do veículo por acidente (ou por avaria) representando perigo para os outros utentes da via.",
     "infracao": "ARTIGO 95.º",
     "coima": "€ 60 a € 300",
@@ -12590,7 +12572,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Sinalização de perigo",
+    "categoria": "Sinalização de perigo - motociclos, ciclomotores",
     "descricao": "Não utilização da luz de presença, não sendo possível a utilização das luzes de perigo, por condutor de motociclo (ou de triciclo ou de quadriciclo ou de ciclomotor) estando o veículo a ser rebocado.",
     "infracao": "ARTIGO 95.º",
     "coima": "€ 60 a € 300",
