@@ -170,6 +170,36 @@
     "sancao_acessoria": ""
   },
   {
+    "categoria": "Atos na condução de Veículos - Disposições comuns",
+    "descricao": "Circulação de veículo (ou de animal) na via pública, sem condutor.",
+    "infracao": "ARTIGO 11.º n.º 1",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 11.º n.º 4",
+    "classificacao": "LEVE",
+    "codigo": "1.86.011.01.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Atos na condução de Veículos - Disposições comuns",
+    "descricao": "Prática, pelo condutor, durante a condução, de atos que prejudiquem o exercício da condução com segurança.",
+    "infracao": "ARTIGO 11.º n.º 2",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 11.º n.º 4",
+    "classificacao": "LEVE",
+    "codigo": "1.86.011.02.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Atos na condução de Veículos - Disposições comuns",
+    "descricao": "Condução de veículo pondo em perigo peão (ou velocípede ou criança ou idoso ou grávida ou pessoa com mobilidade reduzida ou pessoa com deficiência).",
+    "infracao": "ARTIGO 11.º n.º 3",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 11.º n.º 4",
+    "classificacao": "LEVE",
+    "codigo": "1.86.011.03.01",
+    "sancao_acessoria": ""
+  },
+  {
     "categoria": "Início de marcha",
     "descricao": "Início de marcha sem assinalar com antecedência essa intenção (ou sem adotar as precauções necessárias para evitar acidente).",
     "infracao": "ARTIGO 12.º n.º 1",
@@ -708,6 +738,7 @@
     "punicao": "art.º 23.º n.º 6",
     "classificacao": "LEVE",
     "codigo": "1.90.023.04.02",
+    "observacoes": "Coima registada ao proprietário",
     "sancao_acessoria": ""
   },
   {
@@ -718,6 +749,7 @@
     "punicao": "art.º 23.º n.º 6",
     "classificacao": "LEVE",
     "codigo": "1.90.023.04.03",
+    "observacoes": "Coima registada ao proprietário",
     "sancao_acessoria": ""
   },
   {
@@ -728,6 +760,7 @@
     "punicao": "art.º 23.º n.º 7",
     "classificacao": "LEVE",
     "codigo": "1.90.023.05.01",
+    "observacoes": "Coima registada ao proprietário",
     "sancao_acessoria": "Implica perda do objeto, sua imediata remoção e apreensão ou, se esta não for possível a apreensão do documento de identificação do veículo até à efetiva remoção do objeto."
   },
   {
@@ -738,6 +771,7 @@
     "punicao": "art.º 23.º n.º 7",
     "classificacao": "LEVE",
     "codigo": "1.90.023.05.02",
+    "observacoes": "Coima registada ao proprietário",
     "sancao_acessoria": "Implica perda do objeto, sua imediata remoção e apreensão ou, se esta não for possível a apreensão do documento de identificação do veículo até à efetiva remoção do objeto."
   },
   {
@@ -748,6 +782,7 @@
     "punicao": "art.º 23.º n.º 7",
     "classificacao": "LEVE",
     "codigo": "1.90.023.05.03",
+    "observacoes": "Coima registada ao proprietário",
     "sancao_acessoria": "Implica perda do objeto, sua imediata remoção e apreensão ou, se esta não for possível a apreensão do documento de identificação do veículo até à efetiva remoção do objeto."
   },
   {
@@ -758,6 +793,7 @@
     "punicao": "art.º 23.º n.º 7",
     "classificacao": "LEVE",
     "codigo": "1.90.023.05.04",
+    "observacoes": "Coima registada ao proprietário",
     "sancao_acessoria": "Implica perda do objeto, sua imediata remoção e apreensão ou, se esta não for possível a apreensão do documento de identificação do veículo até à efetiva remoção do objeto."
   },
   {
@@ -768,6 +804,7 @@
     "punicao": "art.º 23.º n.º 6",
     "classificacao": "LEVE",
     "codigo": "1.90.023.05.05",
+    "observacoes": "Coima registada ao proprietário",
     "sancao_acessoria": ""
   },
   {
@@ -778,6 +815,7 @@
     "punicao": "art.º 23.º n.º 6 ex vi art.º 23.º n.º 8",
     "classificacao": "LEVE",
     "codigo": "1.90.023.08.01",
+    "observacoes": "Coima registada ao proprietário",
     "sancao_acessoria": ""
   },
   {
@@ -788,6 +826,7 @@
     "punicao": "art.º 23.º n.º 6 ex vi art.º 23.º n.º 8",
     "classificacao": "LEVE",
     "codigo": "1.90.023.08.02",
+    "observacoes": "Coima registada ao proprietário",
     "sancao_acessoria": ""
   },  
   {
@@ -12812,16 +12851,6 @@
   },
   {
     "categoria": "Cuidados a observar pelos condutores",
-    "descricao": "Aproximação de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) de passagem de peões (ou de velocípedes) assinalada, não deixando passar o peão (ou o velocípede) na mesma passagem tendo este já iniciado o atravessamento da faixa de rodagem, em local onde a circulação de veículos é regulada por sinalização luminosa.",
-    "infracao": "ARTIGO 103.º n.º 1",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 103.º n.º 4 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.103.01.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Cuidados a observar pelos condutores",
     "descricao": "Aproximação de veículo de uma passagem de peões (ou de velocípedes) sem que o condutor reduza a velocidade (ou pare se necessário) para deixar passar o peão (ou o velocípede) que já tenha iniciado a travessia da faixa de rodagem em local onde a circulação de veículos não é regulada por sinalização luminosa (ou por agente).",
     "infracao": "ARTIGO 103.º n.º 2",
     "coima": "€ 120 a € 600",
@@ -12829,16 +12858,6 @@
     "classificacao": "GRAVE",
     "codigo": "2.86.103.02.01",
     "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
-  },
-  {
-    "categoria": "Cuidados a observar pelos condutores",
-    "descricao": "Aproximação de uma passagem de peões (ou de velocípedes) sem que o condutor de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) reduza a velocidade (ou pare se necessário) para deixar passar o peão (ou o velocípede) que já tenha iniciado a travessia da faixa de rodagem em local onde a circulação de veículos não é regulada por sinalização luminosa (ou por agente).",
-    "infracao": "ARTIGO 103.º n.º 2",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 103.º n.º 4 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.103.02.02",
-    "sancao_acessoria": ""
   },
   {
     "categoria": "Cuidados a observar pelos condutores",
@@ -12852,16 +12871,6 @@
   },
   {
     "categoria": "Cuidados a observar pelos condutores",
-    "descricao": "Mudança de direção, fora de localidade, sem que o condutor de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) reduza a velocidade (ou pare sendo necessário) para deixar passar o peão (ou o velocípede) que estava a atravessar a faixa de rodagem na via em que vai entrar.",
-    "infracao": "ARTIGO 103.º n.º 3",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 103.º n.º 4 e art.º 96.º",
-    "classificacao": "LEVE",
-    "codigo": "1.86.103.03.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Cuidados a observar pelos condutores",
     "descricao": "Mudança de direção, dentro de localidade, não reduzindo a velocidade (ou não parando sendo necessário) para deixar passar o peão (ou o velocípede) que estava a atravessar a faixa de rodagem na via em que vai entrar.",
     "infracao": "ARTIGO 103.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -12871,456 +12880,6 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Cuidados a observar pelos condutores",
-    "descricao": "Mudança de direção, dentro de localidade, sem que o condutor de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) reduza a velocidade (ou pare sendo necessário) para deixar passar o peão (ou o velocípede) que estava a atravessar a faixa de rodagem na via em que vai entrar.",
-    "infracao": "ARTIGO 103.º n.º 3",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 103.º n.º 4 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.103.03.04",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Condução de carro de mão (ou condução à mão de velocípede de duas rodas sem carro atrelado ou de motocultivador sem reboque ou retrotrem, ou de carro de criança ou de pessoa com deficiência), fora do passeio (ou de pista ou de passagem a ele destinada) ou na sua falta, fora da berma.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 99.º n.º 5 e art.º 104.º a), b) e e)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.01",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Condução de carro de mão (ou condução à mão de velocípede de duas rodas sem carro atrelado ou de motocultivador sem reboque ou retrotrem, ou de carro de criança ou de pessoa com deficiência), pela faixa de rodagem, não se encontrando a efetuar o seu atravessamento (ou existindo passeio ou pista ou passagem destinada a peões ou berma em condições de serem utilizados, ou não transportando objeto cuja dimensão ou natureza constitua perigo para o trânsito dos outros peões, ou em via pública onde se faça o trânsito de veículos, ou não seguindo em formação organizada sob orientação de um monitor ou em cortejo).",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 99.º n.º 5 e art.º 104.º a), b) e e)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Condução de carro de mão (ou condução à mão de velocípede de duas rodas sem carro atrelado ou de motocultivador sem reboque ou retrotrem, ou de carro de criança ou de pessoa com deficiência) pela faixa de rodagem efetuando o seu atravessamento (ou não existindo passeio ou pista ou passagem destinada a peões ou berma em condições de serem utilizados, ou transportando objeto cuja dimensão ou natureza constitua perigo para o trânsito dos outros peões, ou em via pública onde se faça o trânsito de veículos; ou seguindo em formação organizada sob orientação de monitor ou em cortejo) sem a necessária prudência e prejudicando o trânsito de veículos.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 99.º n.º 5 e art.º 104.º a), b) e e)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.03",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Condução de carro de mão (ou condução à mão de velocípede de duas rodas sem carro atrelado ou de motocultivador sem reboque ou retrotrem, ou de carro de criança ou de pessoa com deficiência) em pista especial destinada a veículos de certas espécies ou animais, existindo passeio (ou pista ou passagem destinada a peões ou berma) em condições de ser utilizado (ou não transportando objeto cujas dimensões ou natureza constitua perigo para o trânsito de outros peões ou não seguindo em formação organizada sob orientação de um monitor ou em cortejo).",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 99.º n.º 5 e art.º 104.º a), b) e e)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.04",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Condução de carro de mão (ou condução à mão de velocípede de duas rodas sem carro atrelado ou de motocultivador sem reboque ou retrotrem, ou de carro de criança ou de pessoa com deficiência) em pista especial destinada a veículos de certas espécies ou a animais, com grande intensidade de trânsito (ou prejudicando a circulação daqueles) não existindo passeio (ou pista ou passagem destinada a peões ou berma) em condições de ser utilizado (ou não transportando objeto cujas dimensões ou natureza constitua perigo para o trânsito de outros peões ou seguindo em formação organizada sob orientação de um monitor ou em cortejo).",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 99.º n.º 5 e art.º 104.º a), b) e e)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.05",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Condução de carro de mão (ou condução à mão de velocípede de duas rodas sem carro atrelado ou de motocultivador sem reboque ou retrotrem, ou de carro de criança ou de pessoa com deficiência) na faixa de rodagem, desde o anoitecer ao amanhecer (ou desde que as condições de visibilidade ou a intensidade do trânsito o aconselhem) não seguindo numa única fila (ou em cortejo ou formação organizada).",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 99.º n.º 5 e art.º 104.º a), b) e e)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.06",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Condução de carro de mão (ou condução à mão de velocípede de duas rodas sem carro atrelado ou de motocultivador sem reboque ou retrotrem, ou de carro de criança ou de pessoa com deficiência) não sendo efetuado pela direita do local que lhe é destinado, excetos em via pública onde esteja proibido o trânsito de veículos.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 100.º n.º 4 e 104.º a), b) e e)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.07",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Condução de carro de mão (ou condução à mão de velocípede de duas rodas sem carro atrelado ou de motocultivador sem reboque ou retrotrem, ou de carro de criança ou de pessoa com deficiência) na faixa de rodagem, sem se efetuar pelo lado esquerdo da mesma, não existindo (ou sendo impossível a utilização do) passeio (ou pista ou passagem a ele destinada ou berma ou não transportando objeto cujas dimensões ou natureza constitua perigo para o trânsito de outros peões), nem existindo motivo que comprometa a sua segurança.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 100.º n.º 4 e art.º 104.º a), b) e e)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.08",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Condução de carro de mão (ou condução à mão de velocípede de duas rodas sem carro atrelado ou de motocultivador sem reboque ou retrotrem, ou de carro de criança ou de pessoa com deficiência) na faixa de rodagem, não existindo passeio (ou pista ou passagem a ele destinada ou berma ou não transportando objeto cujas dimensões ou natureza constitua perigo para o trânsito de outros peões ou seguindo em formação organizada ou cortejo) não se efetuando o mais próximo possível do limite da faixa de rodagem.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 100.º n.º 4 e art.º 104.º a), b) e e)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.09",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Atravessamento da faixa de rodagem por pessoa conduzindo carro de mão (ou conduzindo à mão velocípede de duas rodas sem carro atrelado ou motocultivador sem reboque ou retrotrem, ou carro de criança ou de pessoa com deficiência) sem que se tenha certificado de que o podia fazer sem perigo de acidente.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 101.º n.º 5 e art.º 104.º a), b) e e)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.10",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Atravessamento da faixa de rodagem por pessoa conduzindo carro de mão (ou conduzindo à mão velocípede de duas rodas sem carro atrelado ou motocultivador sem reboque ou retrotrem, ou carro de criança ou de pessoa com deficiência) não o efetuando o mais rapidamente possível.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 101.º n.º 5 e art.º 104.º a), b) e e)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.11",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Atravessamento da faixa de rodagem por pessoa conduzindo carro de mão (ou conduzindo à mão velocípede de duas rodas sem carro atrelado ou motocultivador sem reboque ou retrotrem, ou carro de criança ou de pessoa com deficiência) fora da passagem assinalada para esse efeito, existindo a mesma a menos de 50 m.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 101.º n.º 5 e art.º 104.ºa), b) e e)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.12",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Atravessamento da faixa de rodagem por pessoa conduzindo carro de mão (ou conduzindo à mão velocípede de duas rodas sem carro atrelado ou motocultivador sem reboque ou retrotrem, ou carro de criança ou de pessoa com deficiência) não se efetuando perpendicularmente ao eixo da faixa de rodagem, não existindo passagem assinalada para esse efeito a menos de 50 m.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 101.º n.º 5 e art.º 104.º a), b) e e)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.13",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Paragem de pessoa conduzindo carro de mão (ou conduzindo à mão velocípede de duas rodas sem carro atrelado ou motocultivador sem reboque ou retrotrem, ou carro de criança ou de pessoa com deficiência) na faixa de rodagem (ou utilizando o passeio) prejudicando (ou perturbando) o trânsito.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 101.º n.º 5 e art.º 104.º a), b) e e)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.14",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Aproximação de veículo de uma passagem de peões assinalada, não deixando passar pessoa conduzindo carro de mão (ou conduzindo à mão velocípede de duas rodas sem carro atrelado ou motocultivador sem reboque ou retrotrem, ou carro de criança ou de pessoa com deficiência) na mesma passagem, tendo esta já iniciado o atravessamento da faixa de rodagem, em local onde a circulação de veículos é regulada por sinalização luminosa.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 120 a € 600",
-    "punicao": "art.º 103.º n.º 4 e art.º 104º a), b) e e)",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.104.01.15",
-    "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Aproximação de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) de uma passagem de peões assinalada, não deixando passar pessoa conduzindo carro de mão (ou conduzindo à mão velocípede de duas rodas sem carro atrelado ou motocultivador sem reboque ou retrotrem, ou carro de criança ou de pessoa com deficiência) na mesma passagem, tendo esta já iniciado o atravessamento da faixa de rodagem, em local onde a circulação de veículos é regulada por sinalização luminosa.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 103.º n.º 4 e art.º 104º a), b) e e) e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.104.01.16",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Aproximação de veículo de uma passagem de peões, sem que o condutor reduza a velocidade (ou pare se necessário) para deixar passar pessoa conduzindo carro de mão (ou conduzindo à mão velocípede de duas rodas sem carro atrelado ou motocultivador sem reboque ou retrotrem, ou carro de criança ou de pessoa com deficiência) que já tenha iniciado a travessia da faixa de rodagem em local onde a circulação de veículos não é regulada por sinalização luminosa (ou por agente).",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 120 a € 600",
-    "punicao": "art.º 103.º n.º 4 e art.º 104.º a), b) e e)",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.104.01.17",
-    "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Aproximação de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) de uma passagem de peões, sem que o condutor reduza a velocidade (ou pare se necessário) para deixar passar pessoa conduzindo carro de mão (ou conduzindo à mão velocípede de duas rodas sem carro atrelado ou motocultivador sem reboque ou retrotrem, ou carro de criança ou de pessoa com deficiência) que já tenha iniciado a travessia da faixa de rodagem em local onde a circulação de veículos não é regulada por sinalização luminosa (ou por agente).",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 103.º n.º 4 e art.º 104.º a), b) e e) e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.104.01.18",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Mudança de direção, fora de localidade, não reduzindo a velocidade (ou não parando sendo necessário) para deixar passar pessoa conduzindo carro de mão (ou conduzindo à mão velocípede de duas rodas sem carro atrelado ou motocultivador sem reboque ou retrotrem, ou carro de criança ou de pessoa com deficiência) que estava a atravessar a faixa de rodagem na via em que vai entrar.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 120 a € 600",
-    "punicao": "art.º 103.º n.º 4 e art.º 104.º a), b) e e)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.19",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Mudança de direção, por velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor), fora de localidade, não reduzindo a velocidade (ou não parando sendo necessário) para deixar passar pessoa conduzindo carro de mão (ou conduzindo à mão velocípede de duas rodas sem carro atrelado ou motocultivador sem reboque ou retrotrem, ou carro de criança ou de pessoa com deficiência) que estava a atravessar a faixa de rodagem na via em que vai entrar.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 103.º n.º 4 e art.º 104.º a), b) e e) e art.º 96.º",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.20",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Mudança de direção, dentro de localidade, não reduzindo a velocidade (ou não parando sendo necessário) para deixar passar pessoa conduzindo carro de mão (ou conduzindo à mão velocípede de duas rodas sem carro atrelado ou motocultivador sem reboque ou retrotrem, ou carro de criança ou de pessoa com deficiência), que estava a atravessar a faixa de rodagem na via em que vai entrar.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 120 a € 600",
-    "punicao": "art.º 103.º n.º 4 e art.º 104.º a), b) e e)",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.104.01.21",
-    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Mudança de direção, por velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor), dentro de localidade, não reduzindo a velocidade (ou não parando sendo necessário) para deixar passar pessoa conduzindo carro de mão (ou conduzindo à mão velocípede de duas rodas sem carro atrelado ou motocultivador sem reboque ou retrotrem, ou carro de criança ou de pessoa com deficiência), que estava a atravessar a faixa de rodagem na via em que vai entrar.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 103.º n.º 4 e art.º 104.º a), b) e e) e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.104.01.22",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Trânsito de pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) fora do passeio (ou de pista ou de passagem a ela destinada) ou na sua falta, fora da berma.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 99.º n.º 5 e art.º 104.º c) e d)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.23",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Trânsito de pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) pela faixa de rodagem, não se encontrando a efetuar o seu atravessamento (ou existindo passeio ou pista ou passagem destinada a peões ou berma em condições de serem utilizados ou não transportando objeto cuja dimensão ou natureza constitua perigo para o trânsito dos outros peões ou em via pública onde se faça o trânsito de veículos ou não seguindo em formação organizada sob orientação de um monitor ou em cortejo).",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 99.º n.º 5 e art.º 104.ºc) e d)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.24",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Trânsito de pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) pela faixa de rodagem, efetuando o seu atravessamento (ou não existindo passeio ou pista ou passagem destinada a peões ou berma em condições de serem utilizados ou transportando objeto cuja dimensão ou natureza constitua perigo para o trânsito dos outros peões ou em via pública onde se faça o trânsito de veículos; ou seguindo em formação organizada sob orientação de monitor ou em cortejo) sem a necessária prudência e prejudicando o trânsito de veículos.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 99.º n.º 5 e art.º 104.ºc), d)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.25",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Trânsito de pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) em pista especial destinada a veículos de certas espécies ou animais, existindo passeio (ou pista ou passagem destinada a peões ou berma) em condições de ser utilizado (ou não seguindo em formação organizada sob orientação de um monitor ou em cortejo).",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 99.º n.º 5 e art.º 104.ºc) e d)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.26",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Trânsito de pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) em pista especial destinada a veículos de certas espécies ou a animais, com grande intensidade de trânsito (ou prejudicando a circulação daqueles) não existindo passeio (ou pista ou passagem destinada a peões ou berma) em condições de ser utilizado (ou seguindo em formação organizada sob orientação de um monitor ou em cortejo).",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 99.º n.º 5 e art.º 104.ºc) e d)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.27",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Trânsito de pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) na faixa de rodagem, desde o anoitecer ao amanhecer (ou desde que as condições de visibilidade ou a intensidade do trânsito o aconselhem) não seguindo numa única fila (ou em cortejo ou formação organizada).",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 99.º n.º 5 e art.º 104.ºc) e d)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.28",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Trânsito de pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) não sendo efetuado pela direita do local que lhe é destinado, exceto em via pública onde esteja proibido o trânsito de veículos.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 100.º n.º 4 e 104.ºc) e d)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.29",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Trânsito de pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) na faixa de rodagem, sem se efetuar pelo esquerdo da mesma, não existindo (ou sendo impossível a utilização do) passeio (ou pista ou passagem a ela destinada ou berma), nem existindo motivo que comprometa a sua segurança.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 100.º n.º 4 e art.º 104.ºc) e d)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.30",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Trânsito de pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) na faixa de rodagem, não existindo passeio (ou pista ou passagem a ela destinada ou berma ou seguindo em formação organizada ou cortejo) não se efetuando o mais próximo possível do limite da faixa de rodagem.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 100.º n.º 4 e art.º 104.ºc) e d)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.31",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Atravessamento da faixa de rodagem por pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) sem que a mesma se tenha certificado de que o podia fazer sem perigo de acidente.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 101.º n.º 5 e art.º 104.ºc) e d)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.32",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Atravessamento da faixa de rodagem por pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) não se efetuando o mais rapidamente possível.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 101.º n.º 5 e art.º 104.º c) e d)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.33",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Atravessamento da faixa de rodagem por pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) fora da passagem assinalada para esse efeito, existindo a mesma a menos de 50 m.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 101.º n.º 5 e art.º 104.º c) e d)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.34",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Atravessamento da faixa de rodagem por pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) não se efetuando perpendicularmente ao eixo da faixa de rodagem, não existindo passagem assinalada para esse efeito a menos de 50 m.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 101.º n.º 5 e art.º 104.ºc) e d)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.35",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Paragem de pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico), na faixa de rodagem (ou utilização do passeio) prejudicando (ou perturbando) o trânsito.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 101.º n.º 5 e art.º 104.º c) e d)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.36",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Aproximação de veículo de uma passagem de peões assinalada, não deixando passar pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) na mesma passagem, tendo esta já iniciado o atravessamento da faixa de rodagem, em local onde a circulação de veículos é regulada por sinalização luminosa.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 120 a € 600",
-    "punicao": "art.º 103.º n.º 4 e art.º 104.ºc) e d)",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.104.01.37",
-    "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Aproximação de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) de uma passagem de peões assinalada, não deixando passar pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) na mesma passagem, tendo esta já iniciado o atravessamento da faixa de rodagem, em local onde a circulação de veículos é regulada por sinalização luminosa.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 103.º n.º 4, art.º 104.ºc) e d) e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.104.01.38",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Aproximação de veículo de uma passagem de peões, sem que o condutor reduza a velocidade (ou pare se necessário) para deixar passar pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) na passagem que lhe é destinada, tendo aquela já iniciado o atravessamento da faixa de rodagem, em local onde a circulação de veículos não é regulada por sinalização luminosa (ou por agente).",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 120 a € 600",
-    "punicao": "art.º 103.º n.º 4 e art.º 104.ºc) e d)",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.104.01.39",
-    "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Aproximação de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) de uma passagem de peões, sem que o condutor reduza a velocidade (ou pare se necessário) para deixar passar pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) na passagem que lhe é destinada, tendo aquela já iniciado o atravessamento da faixa de rodagem, em local onde a circulação de veículos não é regulada por sinalização luminosa (ou por agente).",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 103.º n.º 4 e art.º 104.ºc) e d) e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.104.01.40",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Mudança de direção, fora de localidade, não reduzindo a velocidade (ou não parando sendo necessário) para deixar passar pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) que estava a atravessar a faixa de rodagem na via em que vai entrar.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 120 a € 600",
-    "punicao": "art.º 103.º n.º 4 e art.º 104.ºc) e d)",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.41",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Mudança de direção, por velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor), fora de localidade, não reduzindo a velocidade (ou não parando sendo necessário) para deixar passar pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) que estava a atravessar a faixa de rodagem na via em que vai entrar.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 103.º n.º 4 e art.º 104.ºc) e d) e art.º 96.º",
-    "classificacao": "LEVE",
-    "codigo": "1.86.104.01.42",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Mudança de direção, dentro de localidade, não reduzindo a velocidade (ou não parando sendo necessário) para deixar passar pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico), que estava a atravessar a faixa de rodagem na via em que vai entrar.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 120 a € 600",
-    "punicao": "art.º 103.º n.º 4 e art.º 104.ºc) e d)",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.104.01.43",
-    "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
-  },
-  {
-    "categoria": "Equiparação",
-    "descricao": "Mudança de direção, por velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor), dentro de localidade, não reduzindo a velocidade (ou não parando sendo necessário) para deixar passar pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico), que estava a atravessar a faixa de rodagem na via em que vai entrar.",
-    "infracao": "ARTIGO 104.º",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 103.º n.º 4 e art.º 104.ºc) e d) e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.104.01.44",
-    "sancao_acessoria": ""
-  },
-  {
     "categoria": "Reboques",
     "descricao": "Trânsito de veículo a motor com mais de um reboque atrelado, fora dos casos legalmente previstos.",
     "infracao": "ARTIGO 110.º n.º 6",
@@ -13328,6 +12887,7 @@
     "punicao": "art.º 110.º n.º 9",
     "classificacao": "LEVE",
     "codigo": "1.86.110.06.01",
+    "observacoes": "Coima registada ao condutor",
     "sancao_acessoria": ""
   },
   {
@@ -13338,6 +12898,7 @@
     "punicao": "art.º 110.º n.º 9",
     "classificacao": "LEVE",
     "codigo": "1.86.110.07.01",
+    "observacoes": "Coima registada ao condutor",
     "sancao_acessoria": ""
   },
   {
@@ -13388,6 +12949,7 @@
     "punicao": "art.º 114.º n.º 6",
     "classificacao": "LEVE",
     "codigo": "1.86.114.05.01",
+    "observacoes": "Coima registada ao proprietário",
     "sancao_acessoria": "Apreensão do veículo até aprovação do mesmo em inspeção extraordinária"
   },
   {
@@ -13398,6 +12960,7 @@
     "punicao": "art.º 114.º n.º 6",
     "classificacao": "LEVE",
     "codigo": "1.86.114.05.02",
+    "observacoes": "Coima registada ao proprietário",
     "sancao_acessoria": "Apreensão do veículo até aprovação do mesmo em inspeção extraordinária"
   },
   {
@@ -13408,6 +12971,7 @@
     "punicao": "art.º 115.º n.º 3",
     "classificacao": "LEVE",
     "codigo": "1.86.115.02.01",
+    "observacoes": "Coima registada ao proprietário",
     "sancao_acessoria": "Apreensão do veículo até aprovação do mesmo em inspeção extraordinária"
   },
   {
@@ -13538,6 +13102,7 @@
     "punicao": "art.º 118.º n.º 10",
     "classificacao": "LEVE",
     "codigo": "1.86.118.10.01",
+    "observacoes": "Coima registada ao proprietário",
     "sancao_acessoria": ""
   },
   {
