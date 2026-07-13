@@ -1,6 +1,6 @@
 [
   {
-    "categoria": "Liberdade de trânsito",
+    "categoria": "Liberdade de trânsito - prática de atos",
     "descricao": "Prática de atos que impeçam (ou embaracem) o trânsito (ou que comprometam a segurança ou a visibilidade ou comodidade dos utilizadores da via).",
     "infracao": "ARTIGO 3.º n.º 2",
     "coima": "€ 60 a € 300",
@@ -10,7 +10,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Liberdade de trânsito",
+    "categoria": "Liberdade de trânsito - prática de atos",
     "descricao": "Prática de atos com intuito de impedir (ou de embaraçar) a circulação de veículos a motor.",
     "infracao": "ARTIGO 3.º n.º4",
     "coima": "€ 300 a € 1500",
@@ -830,7 +830,7 @@
     "sancao_acessoria": ""
   },  
   {
-    "categoria": "Princípios gerais",
+    "categoria": "Velocidade excessiva",
     "descricao": "Circulação com velocidade excessiva atendendo às características da via (ou do veículo, ou às condições meteorológicas ou ambientais, ou à intensidade do trânsito) impossibilitando a realização de manobras com segurança, nomeadamente, parar o veículo no espaço livre e visível à sua frente.",
     "infracao": "ARTIGO 24.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -840,17 +840,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 e) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Princípios gerais",
-    "descricao": "Circulação de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) com velocidade excessiva atendendo às características da via (ou do veículo, ou às condições meteorológicas ou ambientais, ou à intensidade do trânsito) impossibilitando a realização de manobras com segurança, nomeadamente, parar o veículo no espaço livre e visível à sua frente.",
-    "infracao": "ARTIGO 24.º n.º 1",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 24.º n.º3 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.024.01.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Princípios gerais",
+    "categoria": "Velocidade excessiva",
     "descricao": "Circulação com velocidade excessiva atendendo à presença de outros utilizadores (ao estado da via ou do veículo ou à carga transportada ou a quaisquer outras circunstâncias relevantes) impossibilitando a realização de manobras com segurança, nomeadamente, parar o veículo no espaço livre e visível à sua frente.",
     "infracao": "ARTIGO 24.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -860,23 +850,13 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Princípios gerais",
+    "categoria": "Velocidade - Diminuição súbita",
     "descricao": "Diminuição súbita de velocidade do veículo, sem que exista perigo iminente e sem prévia certificação que não causa perigo para os outros utentes da via.",
     "infracao": "ARTIGO 24.º n.º 2",
     "coima": "€ 120 a € 600",
     "punicao": "art.º 24.º n.º 3",
     "classificacao": "LEVE",
     "codigo": "1.86.024.02.01",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Princípios gerais",
-    "descricao": "Diminuição súbita de velocidade de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor), sem que exista perigo iminente e sem prévia certificação que não causa perigo para os outros utentes da via.",
-    "infracao": "ARTIGO 24.º n.º 2",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 24.º n.º 3 e art.º 96.º",
-    "classificacao": "LEVE",
-    "codigo": "1.86.024.02.02",
     "sancao_acessoria": ""
   },
   {
@@ -10250,7 +10230,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º g) | Condutor: Inibição de Conduzir 2/24 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3)"
   },
   {
-    "categoria": "Entrada e saída das autoestradas",
+    "categoria": "Autoestradas",
     "descricao": "Entrada na (ou saída da) autoestrada por local diferente do acesso destinado a esse fim.",
     "infracao": "ARTIGO 73.º n.º 1",
     "coima": "€ 250 a € 1250",
@@ -10260,7 +10240,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º e) | Condutor: Inibição de Conduzir 2/24 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3)"
   },
   {
-    "categoria": "Entrada e saída das autoestradas",
+    "categoria": "Autoestradas",
     "descricao": "Entrada na autoestrada de automóvel ligeiro (ou de motociclo ou de triciclo) não utilizando a via de aceleração existente (ou não regulando a velocidade de modo a evitar perigo ou embaraço para os veículos que transitam na via adjacente).",
     "infracao": "ARTIGO 73.º n.º 2",
     "coima": "€ 250 a € 1250",
@@ -10270,7 +10250,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Entrada e saída das autoestradas",
+    "categoria": "Autoestradas",
     "descricao": "Entrada na autoestrada de automóvel pesado (ou de conjunto de veículos) não utilizando a via de aceleração existente (ou não regulando a velocidade de modo a evitar perigo ou embaraço para os veículos que transitam na via adjacente).",
     "infracao": "ARTIGO 73.º n.º 2",
     "coima": "€ 250 a € 1250",
@@ -10280,7 +10260,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 h) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Entrada e saída das autoestradas",
+    "categoria": "Autoestradas",
     "descricao": "Saída da autoestrada de automóvel ligeiro (ou de motociclo ou de triciclo) não ocupando com a necessária antecedência, a via de trânsito mais à direita (ou não entrando na via de abrandamento logo que possível).",
     "infracao": "ARTIGO 73.º n.º 3",
     "coima": "€ 250 a € 1250",
@@ -10290,7 +10270,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Entrada e saída das autoestradas",
+    "categoria": "Autoestradas",
     "descricao": "Saída da autoestrada de automóvel pesado (ou de conjunto de veículos) não ocupando com a necessária antecedência, a via de trânsito mais à direita (ou não entrando na via de abrandamento logo que possível).",
     "infracao": "ARTIGO 73.º n.º 3",
     "coima": "€ 250 a € 1250",
@@ -10570,48 +10550,8 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Pistas especiais",
-    "descricao": "Utilização indevida de pista especialmente destinada a veículos de certa espécie (ou a animais), por velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor).",
-    "infracao": "ARTIGO 78.º n.º 2",
-    "coima": "€ 15 a € 75",
-    "punicao": "art.º 78.º n.º 6 e art.º 96.º",
-    "classificacao": "LEVE",
-    "codigo": "1.86.078.02.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Pistas especiais",
-    "descricao": "Trânsito de velocípede com mais de duas rodas não dispostas em linha (ou que atrele reboque excedendo o conjunto a largura de 1 m) em pista destinada a velocípedes .",
-    "infracao": "ARTIGO 78.º n.º 3",
-    "coima": "€ 30 a € 150",
-    "punicao": "art.º 78.º n.º 6",
-    "classificacao": "LEVE",
-    "codigo": "1.86.078.03.01",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Pistas especiais",
-    "descricao": "Utilização por peão de pista destinada a animais (ou a veículo de certa espécie), existindo local especialmente destinado ao trânsito de peões.",
-    "infracao": "ARTIGO 78.º n.º 4",
-    "coima": "€ 10 a € 50",
-    "punicao": "art.º 78.º n.º 6",
-    "classificacao": "LEVE",
-    "codigo": "1.86.078.04.01",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Pistas especiais",
-    "descricao": "Trânsito de pessoa usando patins (ou trotineta ou outro meio de circulação análogo) sem utilizar pista destinada a velocípedes.",
-    "infracao": "ARTIGO 78.º n.º 5",
-    "coima": "€ 30 a € 150",
-    "punicao": "art.º 78.º n.º 6",
-    "classificacao": "LEVE",
-    "codigo": "1.86.078.05.01",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Pistas especiais",
-    "descricao": "(Atendendo a que a codificação não contempla artigos com numeração e letras, opta-se por efetuar uma numeração sequencial a partir do último dígito do artigo com a mesma numeração e sem letras.) Condução de veículo em zona de coexistência, comprometendo a segurança (ou a comodidade) dos demais utentes da via pública (ou não parando se necessário).",
+    "categoria": "Zona de Coexistência",
+    "descricao": "Condução de veículo em zona de coexistência, comprometendo a segurança (ou a comodidade) dos demais utentes da via pública (ou não parando se necessário).",
     "infracao": "ARTIGO 78.º - A",
     "coima": "€ 60 a € 300",
     "punicao": "art.º 78.º- A n.º 3",
@@ -10620,17 +10560,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Pistas especiais",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor), em zona de coexistência, comprometendo a segurança (ou a comodidade) dos demais utentes da via pública (ou não parando se necessário).",
-    "infracao": "ARTIGO 78.º - A",
-    "coima": "€ 30 a € 150",
-    "punicao": "art.º 78.º- A n.º 3 e art.º 96.º",
-    "classificacao": "LEVE",
-    "codigo": "1.86.078.07.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Pistas especiais",
+    "categoria": "Zona de Coexistência",
     "descricao": "Prática de atos por utilizador vulnerável que impeçam (ou embaracem desnecessariamente) o trânsito de veículos em zona de coexistência.",
     "infracao": "ARTIGO 78.º - A",
     "coima": "€ 60 a € 300",
@@ -10640,7 +10570,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Pistas especiais",
+    "categoria": "Zona de Coexistência",
     "descricao": "Estacionamento de veículo em zona de coexistência, fora do local autorizado por sinalização.",
     "infracao": "ARTIGO 78.º - A",
     "coima": "€ 60 a € 300",
@@ -10650,17 +10580,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Pistas especiais",
-    "descricao": "Estacionamento de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor), em zona de coexistência, fora do local autorizado por sinalização.",
-    "infracao": "ARTIGO 78.º - A",
-    "coima": "€ 30 a € 150",
-    "punicao": "art.º 78.º- A n.º 3 e art.º 96.º",
-    "classificacao": "LEVE",
-    "codigo": "1.86.078.07.05",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Pistas especiais",
+    "categoria": "Zona de Coexistência",
     "descricao": "Condução de veículo não cumprindo o dever de ceder passagem ao sair de uma zona de coexistência.",
     "infracao": "ARTIGO 78.º - A",
     "coima": "€ 120 a € 600",
@@ -10668,16 +10588,6 @@
     "classificacao": "GRAVE",
     "codigo": "2.86.078.07.06",
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147.º2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
-  },
-  {
-    "categoria": "Pistas especiais",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor), não cumprindo o dever de ceder passagem ao sair de uma zona de coexistência.",
-    "infracao": "ARTIGO 78.º - A",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 78.º- A n.º 4 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.078.07.07",
-    "sancao_acessoria": ""
   },
   {
     "categoria": "Poluição do solo e do ar",
