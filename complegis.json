@@ -1,6 +1,12 @@
 [
   {
-    "titulo": "Código da Estrada",
+    "titulo": "Sebenta do Código da Estrada",
+    "desc": "Chefe Pereira",
+    "url": "https://drive.google.com/file/d/12qtebH5XrUw1Bb38dSXvBZ73oh0RjN-4/view?usp=sharing",
+    "secao": "Código da Estrada"
+  },
+  {
+    "titulo": "Código da Estrada DR",
     "desc": "DL n.º 114/94 de 3 de maio — versão consolidada",
     "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2013-116041830",
     "secao": "Código da Estrada"
@@ -18,25 +24,67 @@
     "secao": "Código da Estrada"
   },
   {
-    "titulo": "Regulamento de Sinalização de Trânsito",
-    "desc": "DL n.º 22-A/98 de 1 de fevereiro",
-    "url": "https://dre.pt/dre/legislacao-consolidada/decreto-lei/1998-260742",
-    "secao": "Sinalização"
+    "titulo": "Sebenta de Transporte Rodiviário de Passageiros",
+    "desc": "Chefe Pereira",
+    "url": "https://drive.google.com/file/d/1HljW5wWkAQPGjoRww2Albst72TBX__WN/view?usp=sharing",
+    "secao": "T. Rod. Passageiros"
   },
   {
-    "titulo": "Habilitação Legal para Conduzir",
+    "titulo": "Sebenta de Taxis",
+    "desc": "Chefe Pereira",
+    "url": "https://drive.google.com/file/d/1BASqCMqSsQEoaN_ILYq1nhHShMiqUCkh/view?usp=sharing",
+    "secao": "Taxis"
+  },
+  {
+    "titulo": "Sebenta de Tacógrafos",
+    "desc": "Chefe Pereiraa",
+    "url": "https://drive.google.com/file/d/1OnHA551tZ-lsCfAcCP-SVDTm_SEEPB3q/view?usp=sharing",
+    "secao": "Tacógrafos"
+  },
+  {
+    "titulo": "Sebenta de Transporte Rodoviário de Mercadorias",
+    "desc": "Chefe Pereira",
+    "url": "https://drive.google.com/file/d/1BJ_duxvakv_0Z2bc2ww40C47Gtb-Uphz/view?usp=sharing",
+    "secao": "T. Rod. Mercadorias"
+  },
+  {
+    "titulo": "Código da Estrada (Pesos e Dimensões)",
+    "desc": "Chefe Pereira",
+    "url": "https://drive.google.com/file/d/1Bxw09iEc4Fc7BtgFS52YgbGvZrVeyM8y/view?usp=drive_link",
+    "secao": "Código da Estrada (Pesos e Dimensões)"
+  },
+  {
+    "titulo": "Regulamento de Sinalização de Trânsito",
+    "desc": "Chefe Pereira",
+    "url": "https://drive.google.com/file/d/1F6ylv9OmSlF88Y_YFmjmAjGHtBI6m7ZZ/view?usp=sharing",
+    "secao": "R.S.T."
+  },
+  {
+    "titulo": "Regulamento de Sinalização de Trânsito DR",
+    "desc": "DL n.º 22-A/98 de 1 de fevereiro",
+    "url": "https://dre.pt/dre/legislacao-consolidada/decreto-lei/1998-260742",
+    "secao": "R.S.T."
+  },
+  {
+    "titulo": "Sebenta Titulos de Condução",
+    "desc": "Chefe Pereira",
+    "url": "https://drive.google.com/file/d/14R9uu39-P3mraD_-WHPN5whUAS9k2iEl/view?usp=sharing",
+    "secao": "Habilitação"
+  },
+  {
+    "titulo": "Habilitação Legal para Conduzir DR",
     "desc": "DL n.º 138/2012 de 5 de julho, ultima alteração introduzida pelo Decreto- Lei 114/2026 de 8 de junho",
     "url": "https://data.dre.pt/eli/dec-lei/138/2012/p/cons/20260608/pt/html",
     "secao": "Habilitação"
   },
-{
+  {
     "titulo": "Esclarecimento relativo aos títulos de condução provisórios estrangeiros",
     "desc": "DL n.º 138/2012 de 5 de julho",
     "url": "https://drive.google.com/file/d/1CBwj0F22hE9Ij-StN98aQvPxJRBbHK1P/view?usp=sharing",
     "secao": "Habilitação"
   },
   {
-    "titulo": "Seguro Automóvel Obrigatório",
+    "titulo": "Seguro Automóvel Obrigatório DR",
     "desc": "DL n.º 291/2007 de 21 de agosto",
     "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-34563475",
     "secao": "Seguros"
@@ -46,6 +94,78 @@
     "desc": "Legislação Técnica",
     "url": "https://drive.google.com/file/d/1p3Ls3ncW33FISyJ66qu_5z0pZHRpbkQf/view?usp=sharing",
     "secao": "Tacógrafos"
+  },
+  {
+    "titulo": "RST (Regulamento de Sinalização do Trânsito",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/1Txnx6Eoe-AqLK_xwI30UrK1axNDOQsUz?usp=drive_link",
+    "secao": "SECÇÃO - LEGISLAÇÃO CHF. PEREIRA"
+  },
+  {
+    "titulo": "Legislação Complementar",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/1-q0XJ0WRelvmuME_k5W8CTNJxM1ODUz0?usp=drive_link",
+    "secao": "SECÇÃO - LEGISLAÇÃO CHF. PEREIRA"
+  },
+  {
+    "titulo": "Código da Estrada",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/1OEZWIpryzaDROd1agIwb1vMxtHJBoyt8?usp=drive_link",
+    "secao": "SECÇÃO - LEGISLAÇÃO CHF. PEREIRA"
+  },
+  {
+    "titulo": "Carta Qualificação Motorista (COM)",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/1IoCxugkY0uhJlfv5zPzIdBdVhsGlbEXg?usp=drive_link",
+    "secao": "SECÇÃO - LEGISLAÇÃO CHF. PEREIRA"
+  },
+  {
+    "titulo": "Transporte de Doentes",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/1Y110T1iH3wy5flbVGXn-8_W798spKRem?usp=drive_link",
+    "secao": "SECÇÃO - LEGISLAÇÃO CHF. PEREIRA"
+  },
+  {
+    "titulo": "Transporte de Materias Perigosas (ADR)",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/1WqHVKmCIsRpZDarksXhqw5dY5h6sJuES?usp=drive_link",
+    "secao": "SECÇÃO - LEGISLAÇÃO CHF. PEREIRA"
+  },
+  {
+    "titulo": "Tacógrafos",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/1UL4yubC__xJT1wnp6CIz2SrhikZHrN3M?usp=drive_link",
+    "secao": "SECÇÃO - LEGISLAÇÃO CHF. PEREIRA"
+  },
+  {
+    "titulo": "Transporte Rod. Passageiros",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/1sj1HgOUR8OKvUwKAOe--CN6FOWkQY5A1?usp=drive_link",
+    "secao": "SECÇÃO - LEGISLAÇÃO CHF. PEREIRA"
+  },
+  {
+    "titulo": "Táxis",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/1hxsYOO8lj1pfmoaqzKPL-GzC3__WMzI_?usp=drive_link",
+    "secao": "SECÇÃO - LEGISLAÇÃO CHF. PEREIRA"
+  },
+   {
+    "titulo": "Transporte Rod. Mercadorias",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/12yRWqjko1o03jPmKH9vJGXsIOo3nGMAa?usp=drive_link",
+    "secao": "SECÇÃO - LEGISLAÇÃO CHF. PEREIRA"
+  },
+  {
+    "titulo": "Sebentas de Trânsito",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/drive/folders/17s4_J6YmlrZURHBSOJ81xIA27GpJvMvR?usp=drive_link",
+    "secao": "SECÇÃO - LEGISLAÇÃO CHF. PEREIRA"
+  },
+  {
+    "titulo": "INFRACOES_descrições SCOT_Div.Porto.antigo",
+    "desc": "Documentação fiscalização técnica",
+    "url": "https://drive.google.com/file/d/1leLBKZ8vKcXkaOwVlV-_MHg9LFou_mUi/view?usp=drive_link",
+    "secao": "SCOT"
   },
   {
     "titulo": "Regulamento de Uniformes PSP",
