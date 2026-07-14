@@ -1,6 +1,6 @@
 [
   {
-    "categoria": "Liberdade de trânsito - prática de atos",
+    "categoria": "Atos do Condutor",
     "descricao": "Prática de atos que impeçam (ou embaracem) o trânsito (ou que comprometam a segurança ou a visibilidade ou comodidade dos utilizadores da via).",
     "infracao": "ARTIGO 3.º n.º 2",
     "coima": "€ 60 a € 300",
@@ -10,7 +10,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Liberdade de trânsito - prática de atos",
+    "categoria": "Atos do Condutor",
     "descricao": "Prática de atos com intuito de impedir (ou de embaraçar) a circulação de veículos a motor.",
     "infracao": "ARTIGO 3.º n.º4",
     "coima": "€ 300 a € 1500",
@@ -31,16 +31,6 @@
   },
   {
     "categoria": "Ordens das autoridades",
-    "descricao": "Desobediência a ordem legítima de autoridade (ou de agente de autoridade) competente para regular e fiscalizar o trânsito por condutor de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, ou de outro meio de circulação análogo com motor).",
-    "infracao": "ARTIGO 4.º n.º 1",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 4.º n.º 2 e art.º 96.º",
-    "classificacao": "LEVE",
-    "codigo": "1.86.004.01.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Ordens das autoridades",
     "descricao": "Desobediência ao sinal regulamentar de paragem de autoridade (ou de agente de autoridade) competente para regular e fiscalizar o trânsito.",
     "infracao": "ARTIGO 4.º n.º 3",
     "coima": "€ 500 a € 2500",
@@ -50,17 +40,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º l) | Condutor: Inibição de Conduzir 2/24 meses (147º n.º2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º3)"
   },
   {
-    "categoria": "Ordens das autoridades",
-    "descricao": "Desobediência ao sinal regulamentar de paragem de autoridade (ou de agente de autoridade) competente para regular e fiscalizar o trânsito por condutor de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, ou de outro meio de circulação análogo com motor).",
-    "infracao": "ARTIGO 4.º n.º 3",
-    "coima": "€ 250 a € 1250",
-    "punicao": "art.º 4.º n.º 3 e art.º 96.º",
-    "classificacao": "MUITO GRAVE",
-    "codigo": "3.86.004.03.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Sinalização",
+    "categoria": "Sinalização de Obstáculo",
     "descricao": "Não sinalização de obstáculo eventual (ou sinalização de obstáculo eventual não sendo a mesma feita de forma bem visível ou a uma distância que não permita aos demais utentes da via tomar as precauções necessárias para evitar acidente) por aquele que lhe deu causa.",
     "infracao": "ARTIGO 5.º n.º 2",
     "coima": "€ 100 a € 500",
@@ -80,7 +60,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Realização de obras e utilização das vias públicas para fins especiais",
+    "categoria": "Obras e utilização das vias públicas para fins especiais",
     "descricao": "Realização de obras na via pública sem autorização da entidade competente (ou sem aplicação local de sinalização temporária e identificação de obstáculos).",
     "infracao": "ARTIGO 8.º n.º 1",
     "coima": "€ 700 a € 3500",
@@ -90,7 +70,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Realização de obras e utilização das vias públicas para fins especiais",
+    "categoria": "Obras e utilização das vias públicas para fins especiais",
     "descricao": "Utilização da via pública para a realização de atividades desportivas, festivas (ou outras que afetem o trânsito normal ou coloquem restrições ao trânsito dos peões nos passeios), sem autorização da entidade competente (ou sem aplicação local de sinalização temporária e identificação de obstáculos).",
     "infracao": "ARTIGO 8.º n.º 1",
     "coima": "€ 700 a € 3500",
@@ -100,7 +80,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Realização de obras e utilização das vias públicas para fins especiais",
+    "categoria": "Obras e utilização das vias públicas para fins especiais",
     "descricao": "Realização de obras na via pública sem cumprir as condições constantes da autorização concedida.",
     "infracao": "ARTIGO 8.º n.º 2",
     "coima": "€ 700 a € 3500",
@@ -110,7 +90,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Realização de obras e utilização das vias públicas para fins especiais",
+    "categoria": "Obras e utilização das vias públicas para fins especiais",
     "descricao": "Utilização da via pública para a realização de atividades desportivas, festivas (ou outras que afetem o trânsito normal ou coloquem restrições ao trânsito dos peões nos passeios) sem cumprir as condições constantes da autorização concedida.",
     "infracao": "ARTIGO 8.º n.º 2",
     "coima": "€ 700 a € 3500",
@@ -120,7 +100,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Realização de obras e utilização das vias públicas para fins especiais",
+    "categoria": "Obras e utilização das vias públicas para fins especiais",
     "descricao": "Utilização da via pública, por pessoa singular, sem autorização da entidade competente para realização de manifestação desportiva com automóveis (ou motociclos ou triciclos ou quadriciclos).",
     "infracao": "ARTIGO 8.º n.º 5",
     "coima": "€ 700 a € 3500 + € 150 por cada condutor participante ou concorrente",
@@ -130,7 +110,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Realização de obras e utilização das vias públicas para fins especiais",
+    "categoria": "Obras e utilização das vias públicas para fins especiais",
     "descricao": "Utilização da via pública, por pessoa coletiva, sem autorização da entidade competente para realização de manifestação desportiva com automóveis (ou motociclos ou triciclos ou quadriciclos).",
     "infracao": "ARTIGO 8.º n.º 5",
     "coima": "€ 1000 a € 5000 + € 150 por cada condutor participante ou concorrente",
@@ -140,7 +120,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Realização de obras e utilização das vias públicas para fins especiais",
+    "categoria": "Obras e utilização das vias públicas para fins especiais",
     "descricao": "Utilização da via pública, por pessoa singular, sem autorização da entidade competente para realização de manifestação desportiva com veículos não movidos a motor.",
     "infracao": "ARTIGO 8.º n.º 6",
     "coima": "€ 450 a € 2250 + € 50 por cada condutor participante ou concorrente",
@@ -150,7 +130,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Realização de obras e utilização das vias públicas para fins especiais",
+    "categoria": "Obras e utilização das vias públicas para fins especiais",
     "descricao": "Utilização da via pública, por pessoa coletiva, sem autorização da entidade competente para realização de manifestação desportiva com veículos não movidos a motor.",
     "infracao": "ARTIGO 8.º n.º 6",
     "coima": "€ 700 a € 3500 + € 50 por cada condutor participante ou concorrente",
@@ -160,7 +140,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Realização de obras e utilização das vias públicas para fins especiais",
+    "categoria": "Obras e utilização das vias públicas para fins especiais",
     "descricao": "Utilização da via pública sem autorização da entidade competente para realização de manifestação desportiva com peões ou animais.",
     "infracao": "ARTIGO 8.º n. 7",
     "coima": "€ 300 a € 1500 + € 30 por cada participante ou concorrente",
@@ -170,7 +150,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Atos na condução de Veículos - Disposições comuns",
+    "categoria": "Manobras dos Condutores - Disposições comuns",
     "descricao": "Circulação de veículo (ou de animal) na via pública, sem condutor.",
     "infracao": "ARTIGO 11.º n.º 1",
     "coima": "€ 60 a € 300",
@@ -180,7 +160,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Atos na condução de Veículos - Disposições comuns",
+    "categoria": "Manobras dos Condutores - Disposições comuns",
     "descricao": "Prática, pelo condutor, durante a condução, de atos que prejudiquem o exercício da condução com segurança.",
     "infracao": "ARTIGO 11.º n.º 2",
     "coima": "€ 60 a € 300",
@@ -190,7 +170,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Atos na condução de Veículos - Disposições comuns",
+    "categoria": "Manobras dos Condutores - Disposições comuns",
     "descricao": "Condução de veículo pondo em perigo peão (ou velocípede ou criança ou idoso ou grávida ou pessoa com mobilidade reduzida ou pessoa com deficiência).",
     "infracao": "ARTIGO 11.º n.º 3",
     "coima": "€ 60 a € 300",
@@ -280,7 +260,7 @@
     "sancao_acessoria": "Sanção acessória: art.º 146.º h) | Condutor: Inibição de Conduzir 2/24 meses (147 n º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º 3)"
   },
   {
-    "categoria": "Posição de marcha",
+    "categoria": "Manobras dos Condutores - circulação sentido oposto",
     "descricao": "Trânsito de veículo em sentido oposto ao estabelecido.",
     "infracao": "ARTIGO 13.º n.º 5",
     "coima": "€ 250 a € 1250",
@@ -290,17 +270,7 @@
     "sancao_acessoria": "Sanção acessória: art.º 145.º n.º 1 a) | Condutor: Inibição de Conduzir 1/12 meses (147 n º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147 n.º 3)"
   },
   {
-    "categoria": "Posição de marcha",
-    "descricao": "Trânsito de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, ou de outro meio de circulação análogo com motor) em sentido oposto ao estabelecido.",
-    "infracao": "ARTIGO 13.º n.º 5",
-    "coima": "€ 125 a € 625",
-    "punicao": "art.º 13.º n.º 5 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.013.05.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Posição de marcha",
+    "categoria": "Manobras dos Condutores - circulação sentido oposto",
     "descricao": "Trânsito de veículo em sentido oposto ao estabelecido em via com mais que uma via de trânsito em cada sentido.",
     "infracao": "ARTIGO 13.º n.º 5",
     "coima": "€ 250 a € 1250",
@@ -310,17 +280,7 @@
     "sancao_acessoria": "Sanção acessória: art.º 146.º n.º 1 g) | Condutor: Inibição de Conduzir 2/24 meses (147 n º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147 n.º 3)"
   },
   {
-    "categoria": "Posição de marcha",
-    "descricao": "Trânsito de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, ou de outro meio de circulação análogo com motor) em sentido oposto ao estabelecido em via com mais que uma via de trânsito em cada sentido.",
-    "infracao": "ARTIGO 13.º n.º 5",
-    "coima": "€ 125 a € 625",
-    "punicao": "art.º 13.º n.º 5 e art.º 96.º",
-    "classificacao": "MUITO GRAVE",
-    "codigo": "3.86.013.05.04",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Pluralidade de vias de trânsito dentro das localidades",
+    "categoria": "Manobras dos Condutores - Pluralidade de vias de trânsito dentro das localidades",
     "descricao": "Condução, dentro de localidade, não utilizando a via de trânsito mais conveniente ao seu destino.",
     "infracao": "ARTIGO 14.º n.º 2",
     "coima": "€ 60 a € 300",
@@ -330,17 +290,7 @@
     "sancao_acessoria": "Sanção acessória: art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147 n º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147 n.º 3)"
   },
   {
-    "categoria": "Pluralidade de vias de trânsito dentro das localidades",
-    "descricao": "Condução, dentro de localidade, de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, ou de outro meio de circulação análogo com motor) não utilizando a via de trânsito mais conveniente ao seu destino.",
-    "infracao": "ARTIGO 14.º n.º 2",
-    "coima": "€ 30 a € 150",
-    "punicao": "art.º 14.º n.º 4 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.014.02.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Pluralidade de vias de trânsito dentro das localidades",
+    "categoria": "Manobras dos Condutores - Pluralidade de vias de trânsito dentro das localidades",
     "descricao": "Mudança de via de trânsito, dentro de localidade, sem ter como finalidade a mudança de direção (ou a ultrapassagem, ou a paragem ou o estacionamento).",
     "infracao": "ARTIGO 14.º n.º 2",
     "coima": "€ 60 a € 300",
@@ -350,7 +300,7 @@
     "sancao_acessoria": "Sanção acessória: art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147 n º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147 n.º 3)"
   },
   {
-    "categoria": "Pluralidade de vias de trânsito dentro das localidades",
+    "categoria": "Manobras dos Condutores - Pluralidade de vias de trânsito dentro das localidades",
     "descricao": "Mudança de via de trânsito, dentro de localidade, por condutor de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, ou de outro meio de circulação análogo com motor) sem ter como finalidade a mudança de direção (ou a ultrapassagem, ou a paragem ou o estacionamento).",
     "infracao": "ARTIGO 14.º n.º 2",
     "coima": "€ 30 a € 150",
@@ -360,8 +310,8 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Rotundas",
-    "descricao": "(Atendendo a que a codificação não contempla artigos com numeração e letras, opta-se por efetuar uma numeração sequencial a partir do último dígito do artigo com a mesma numeração e sem letras.) Ocupação de uma das vias da rotunda sem ser a via da direita saindo da rotunda na primeira via de saída.",
+    "categoria": "Manobras dos Condutores - Rotundas",
+    "descricao": "Ocupação de uma das vias da rotunda sem ser a via da direita saindo da rotunda na primeira via de saída.",
     "infracao": "ARTIGO 14.º-A n.º 1",
     "coima": "€ 60 a € 300",
     "punicao": "art.º 14.º A n.º 3",
@@ -370,7 +320,7 @@
     "sancao_acessoria": "Sanção acessória: art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147 n º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147 n.º 3)"
   },
   {
-    "categoria": "Rotundas",
+    "categoria": "Manobras dos Condutores - Rotundas",
     "descricao": "Ocupação da via de trânsito mais à direita não saindo na via de saída imediatamente a seguir.",
     "infracao": "ARTIGO 14.º-A n.º 1",
     "coima": "€ 60 a € 300",
@@ -380,7 +330,7 @@
     "sancao_acessoria": "Sanção acessória: art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147 n º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147 n.º 3)"
   },
   {
-    "categoria": "Rotundas",
+    "categoria": "Manobras dos Condutores - Rotundas",
     "descricao": "Saída de rotunda sem que o condutor aproxime progressivamente o veículo da via de trânsito mais à direita.",
     "infracao": "ARTIGO 14.º-A n.º 1",
     "coima": "€ 60 a € 300",
@@ -390,7 +340,7 @@
     "sancao_acessoria": "Sanção acessória: art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147 n º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147 n.º 3)"
   },
   {
-    "categoria": "Rotundas",
+    "categoria": "Manobras dos Condutores - Rotundas",
     "descricao": "Trânsito em rotunda sem que o condutor utilize a via de trânsito mais conveniente ao seu destino.",
     "infracao": "ARTIGO 14.º-A n.º 1",
     "coima": "€ 60 a € 300",
@@ -400,7 +350,7 @@
     "sancao_acessoria": "Sanção acessória: art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147 n º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147 n.º 3)"
   },
   {
-    "categoria": "Rotundas",
+    "categoria": "Manobras dos Condutores - Rotundas",
     "descricao": "Condução de veículo de tração animal (ou de animais ou de velocípede ou de automóveis pesados) em rotunda ocupando a via de trânsito mais à direita não facultando a saída ao condutor que pretende ocupar a via de trânsito mais à direita para sair da rotunda.",
     "infracao": "ARTIGO 14.º-A n.º 2",
     "coima": "€ 60 a € 300",
@@ -410,7 +360,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Trânsito em filas paralelas",
+    "categoria": "Manobras dos Condutores - Trânsito em filas paralelas",
     "descricao": "Saída da respetiva via de trânsito para uma mais à direita, em situação de trânsito em filas paralelas, sem ser para mudar de direção, parar ou estacionar.",
     "infracao": "ARTIGO 15.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -420,17 +370,7 @@
     "sancao_acessoria": "Sanção acessória: art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147 n º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147 n.º 3)"
   },
   {
-    "categoria": "Trânsito em filas paralelas",
-    "descricao": "Saída da respetiva via de trânsito para uma mais à direita, por condutor de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, ou de outro meio de circulação análogo com motor), em situação de trânsito em filas paralelas, sem ser para mudar de direção, parar ou estacionar.",
-    "infracao": "ARTIGO 15.º n.º 1",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 15.º n.º 2 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.015.01.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Placas, postes, ilhéus e dispositivos semelhantes",
+    "categoria": "Manobras dos Condutores - Placas, postes, ilhéus e dispositivos semelhantes",
     "descricao": "Circulação em cruzamento (ou em entroncamento ou em rotunda), sem dar a esquerda à parte central do mesmo (ou à placa, poste, ilhéu direcional ou dispositivo semelhante), quando este se encontre no eixo da faixa de rodagem de que procede o veículo.",
     "infracao": "ARTIGO 16.º n.º 1",
     "coima": "€ 60 a € 300",
@@ -440,17 +380,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Placas, postes, ilhéus e dispositivos semelhantes",
-    "descricao": "Circulação de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, ou de outro meio de circulação análogo com motor) em cruzamento (ou em entroncamento ou em rotunda), sem dar a esquerda à parte central do mesmo (ou à placa, poste, ilhéu direcional ou dispositivo semelhante), quando este se encontre no eixo da faixa de rodagem de que procede o veículo.",
-    "infracao": "ARTIGO 16.º n.º 1",
-    "coima": "€ 30 a € 150",
-    "punicao": "art.º 16.º n.º 3 e art.º 96.º",
-    "classificacao": "LEVE",
-    "codigo": "1.86.016.01.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Placas, postes, ilhéus e dispositivos semelhantes",
+    "categoria": "Manobras dos Condutores - Placas, postes, ilhéus e dispositivos semelhantes",
     "descricao": "Circulação sem dar a esquerda à parte central da placa, (ou poste ou ilhéu direcional ou dispositivo semelhante), existente na faixa de rodagem, em via com dois sentidos de trânsito (ou na parte da faixa de rodagem afecta a dois sentidos de trânsito).",
     "infracao": "ARTIGO 16.º n.º 2",
     "coima": "€ 60 a € 300",
@@ -460,17 +390,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Placas, postes, ilhéus e dispositivos semelhantes",
-    "descricao": "Circulação de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, ou de outro meio de circulação análogo com motor) sem dar a esquerda à parte central da placa, (ou poste ou ilhéu direcional ou dispositivo semelhante), existente na faixa de rodagem, em via com dois sentidos de trânsito (ou na parte da faixa de rodagem afeta a dois sentidos de trânsito).",
-    "infracao": "ARTIGO 16.º n.º 2",
-    "coima": "€ 30 a € 150",
-    "punicao": "art.º 16.º n.º 3 e art.º 96.º",
-    "classificacao": "LEVE",
-    "codigo": "1.86.016.02.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Placas, postes, ilhéus e dispositivos semelhantes",
+    "categoria": "Manobras dos Condutores - Placas, postes, ilhéus e dispositivos semelhantes",
     "descricao": "Circulação, em via de sentido único (ou na parte da faixa de rodagem afeta a um só sentido) onde exista uma placa (ou poste, ilhéu direcional ou dispositivo semelhante) sem dar a esquerda (ou a direita) à mesma, desrespeitando a conveniência do trânsito.",
     "infracao": "ARTIGO 16.º n.º 2",
     "coima": "€ 60 a € 300",
@@ -480,17 +400,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Placas, postes, ilhéus e dispositivos semelhantes",
-    "descricao": "Circulação de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, ou de outro meio de circulação análogo com motor), em via de sentido único (ou na parte da faixa de rodagem afeta a um só sentido) onde exista uma placa (ou poste, ilhéu direcional ou dispositivo semelhante) sem dar a esquerda (ou a direita) à mesma, desrespeitando a conveniência do trânsito.",
-    "infracao": "ARTIGO 16.º n.º 2",
-    "coima": "€ 30 a € 150",
-    "punicao": "art.º 16.º n.º 3 e art.º 96.º",
-    "classificacao": "LEVE",
-    "codigo": "1.86.016.02.04",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Bermas e passeios",
+    "categoria": "Manobras dos Condutores - Bermas e passeios",
     "descricao": "Utilização de berma (ou de passeio) por veículo sem que o acesso deste a prédio o exija.",
     "infracao": "ARTIGO 17.º n.º1",
     "coima": "€ 60 a € 300",
@@ -500,7 +410,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Bermas e passeios",
+    "categoria": "Manobras dos Condutores - Bermas e passeios",
     "descricao": "Trânsito de veículo na berma de autoestrada (ou de via equiparada).",
     "infracao": "ARTIGO 17.º n.º1",
     "coima": "€ 60 a € 300",
@@ -510,7 +420,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º f) | Condutor: Inibição de Conduzir 2/24 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3)"
   },
   {
-    "categoria": "Distância entre veículos",
+    "categoria": "Manobras dos Condutores - Distância entre veículos",
     "descricao": "Desrespeito da distância de segurança em relação ao veículo da frente.",
     "infracao": "ARTIGO 18.º n.º 1",
     "coima": "€ 60 a € 300",
@@ -520,7 +430,7 @@
     "sancao_acessoria": "Sanção acessória: art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147 n º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147 n.º 3)"
   },
   {
-    "categoria": "Distância entre veículos",
+    "categoria": "Manobras dos Condutores - Distância entre veículos",
     "descricao": "Desrespeito da distância de segurança em relação ao veículo da frente por condutor de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor).",
     "infracao": "ARTIGO 18.º n.º 1",
     "coima": "€ 30 a € 150",
@@ -530,7 +440,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Distância entre veículos",
+    "categoria": "Manobras dos Condutores - Distância entre veículos",
     "descricao": "Desrespeito da distância lateral suficiente para evitar acidente com veículo transitando no mesmo sentido ou em sentido oposto.",
     "infracao": "ARTIGO 18.º n.º 2",
     "coima": "€ 60 a € 300",
@@ -540,7 +450,7 @@
     "sancao_acessoria": "Sanção acessória: art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147 n º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147 n.º 3)"
   },
   {
-    "categoria": "Distância entre veículos",
+    "categoria": "Manobras dos Condutores - Distância entre veículos",
     "descricao": "Desrespeito da distância lateral suficiente para evitar acidente com veículo transitando no mesmo sentido ou em sentido oposto por condutor de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor).",
     "infracao": "ARTIGO 18.º n.º 2",
     "coima": "€ 30 a € 150",
@@ -550,7 +460,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Distância entre veículos",
+    "categoria": "Manobras dos Condutores - Distância entre veículos",
     "descricao": "Desrespeito por condutor de veículo motorizado da distância lateral de 1,5 m entre o seu veículo e o velocípede que transite na mesma faixa de rodagem.",
     "infracao": "ARTIGO 18.º n.º 3",
     "coima": "€ 60 a € 300",
@@ -560,23 +470,13 @@
     "sancao_acessoria": "Sanção acessória: art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147 n º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147 n.º 3)"
   },
   {
-    "categoria": "Veículos de transporte coletivo de passageiros",
+    "categoria": "Manobras dos Condutores - Veículos de transporte coletivo de passageiros",
     "descricao": "Circulação sem abrandar (ou parar, sendo necessário), em localidade, para que veículo de transporte coletivo de passageiros retome a sua marcha, à saída de um local de paragem e sinalizando a manobra com a necessária antecedência.",
     "infracao": "ARTIGO 20.º n.º 1",
     "coima": "€ 60 a € 300",
     "punicao": "art.º 20.º n.º3",
     "classificacao": "LEVE",
     "codigo": "1.86.020.01.01",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Veículos de transporte coletivo de passageiros",
-    "descricao": "Circulação de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) sem abrandar (ou parar, sendo necessário), em localidade, para que veículo de transporte coletivo de passageiros retome a sua marcha, à saída de um local de paragem e sinalizando a manobra com a necessária antecedência.",
-    "infracao": "ARTIGO 20.º n.º 1",
-    "coima": "€ 30 a € 150",
-    "punicao": "art.º 20.º n.º3 e art.º 96.º",
-    "classificacao": "LEVE",
-    "codigo": "1.86.020.01.02",
     "sancao_acessoria": ""
   },
   {
@@ -590,7 +490,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Sinalização de manobras",
+    "categoria": "Manobras dos Condutores - Sinalização de manobras",
     "descricao": "Não sinalização, com a necessária antecedência, da intenção de reduzir a velocidade (ou de parar, ou de estacionar, ou de mudar de direção ou de via de trânsito, ou de iniciar ultrapassagem ou de inverter o sentido de marcha).",
     "infracao": "ARTIGO 21.º n.º 1",
     "coima": "€ 60 a € 300",
@@ -600,7 +500,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Sinalização de manobras",
+    "categoria": "Manobras dos Condutores - Sinalização de manobras",
     "descricao": "Não sinalização, com a necessária antecedência, da intenção de reduzir a velocidade (ou de parar, ou de estacionar, ou de mudar de direção ou de via de trânsito, ou de iniciar ultrapassagem ou de inverter o sentido de marcha) por condutor de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor).",
     "infracao": "ARTIGO 21.º n.º 1",
     "coima": "€ 30 a € 150",
@@ -610,7 +510,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Sinalização de manobras",
+    "categoria": "Manobras dos Condutores - Sinalização de manobras",
     "descricao": "Não sinalização da manobra de mudança de direção (ou de via de trânsito, ou de início de ultrapassagem ou de inversão do sentido de marcha) durante a sua realização.",
     "infracao": "ARTIGO 21.º n.º 2",
     "coima": "€ 60 a € 300",
@@ -620,7 +520,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Sinalização de manobras",
+    "categoria": "Manobras dos Condutores - Sinalização de manobras",
     "descricao": "Condução de veículo mantendo a sinalização da manobra de mudança de direção (ou de via de trânsito, ou de início de ultrapassagem ou de inversão do sentido de marcha), após a sua conclusão.",
     "infracao": "ARTIGO 21.º n.º 2",
     "coima": "€ 60 a € 300",
@@ -641,16 +541,6 @@
   },
   {
     "categoria": "Sinais sonoros",
-    "descricao": "Utilização prolongada de sinal sonoro por condutor de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor).",
-    "infracao": "ARTIGO 22.º n.º 1",
-    "coima": "€ 30 a € 150",
-    "punicao": "art.º 22.º n.º 7 e art.º 96.º",
-    "classificacao": "LEVE",
-    "codigo": "1.86.022.01.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Sinais sonoros",
     "descricao": "Utilização de sinal sonoro, não se verificando situação de perigo iminente.",
     "infracao": "ARTIGO 22.º n.º 2",
     "coima": "€ 60 a € 300",
@@ -659,17 +549,7 @@
     "codigo": "1.86.022.02.01",
     "sancao_acessoria": ""
   },
-  {
-    "categoria": "Sinais sonoros",
-    "descricao": "Utilização de sinal sonoro por condutor de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor), não se verificando situação de perigo iminente.",
-    "infracao": "ARTIGO 22.º n.º 2",
-    "coima": "€ 30 a € 150",
-    "punicao": "art.º 22.º n.º 7 e art.º 96.º",
-    "classificacao": "LEVE",
-    "codigo": "1.86.022.02.02",
-    "sancao_acessoria": ""
-  },
-  {
+ {
     "categoria": "Sinais sonoros",
     "descricao": "Utilização de sinal sonoro, fora das localidades, sem ter por finalidade prevenir um condutor da intenção de o ultrapassar (ou sem ser em curva, em cruzamento, em entroncamento ou em lomba de visibilidade reduzida).",
     "infracao": "ARTIGO 22.º n.º 2",
@@ -677,16 +557,6 @@
     "punicao": "art.º 22.º n.º7",
     "classificacao": "LEVE",
     "codigo": "1.86.022.02.03",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Sinais sonoros",
-    "descricao": "Utilização de sinal sonoro por condutor de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor), fora das localidades, sem ter por finalidade prevenir um condutor da intenção de o ultrapassar (ou sem ser em curva, em cruzamento, em entroncamento ou em lomba de visibilidade reduzida).",
-    "infracao": "ARTIGO 22.º n.º 2",
-    "coima": "€ 30 a € 150",
-    "punicao": "art.º 22.º n.º7 e art.º 96.º",
-    "classificacao": "LEVE",
-    "codigo": "1.86.022.02.04",
     "sancao_acessoria": ""
   },
   {
@@ -840,16 +710,6 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 e) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Velocidade excessiva",
-    "descricao": "Circulação com velocidade excessiva atendendo à presença de outros utilizadores (ao estado da via ou do veículo ou à carga transportada ou a quaisquer outras circunstâncias relevantes) impossibilitando a realização de manobras com segurança, nomeadamente, parar o veículo no espaço livre e visível à sua frente.",
-    "infracao": "ARTIGO 24.º n.º 1",
-    "coima": "€ 120 a € 600",
-    "punicao": "art.º 24.º n.º3",
-    "classificacao": "LEVE",
-    "codigo": "1.86.024.01.03",
-    "sancao_acessoria": ""
-  },
-  {
     "categoria": "Velocidade - Diminuição súbita",
     "descricao": "Diminuição súbita de velocidade do veículo, sem que exista perigo iminente e sem prévia certificação que não causa perigo para os outros utentes da via.",
     "infracao": "ARTIGO 24.º n.º 2",
@@ -871,16 +731,6 @@
   },
   {
     "categoria": "Velocidade moderada",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) sem moderar especialmente a velocidade à aproximação de passagem assinalada, na faixa de rodagem, para a travessia de peões (ou de velocípedes).",
-    "infracao": "ARTIGO 25.º n.º 1",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 25.º n.º2 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.025.01.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Velocidade moderada",
     "descricao": "Condução de veículo sem moderar especialmente a velocidade à aproximação de escola (ou de hospital ou de creche ou de estabelecimento similar) devidamente sinalizada.",
     "infracao": "ARTIGO 25.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -888,16 +738,6 @@
     "classificacao": "GRAVE",
     "codigo": "2.86.025.01.03",
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 e) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
-  },
-  {
-    "categoria": "Velocidade moderada",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) sem moderar especialmente a velocidade à aproximação de escola (ou de hospital ou de creche ou de estabelecimento similar) devidamente sinalizada.",
-    "infracao": "ARTIGO 25.º n.º 1",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 25.º n.º2 e art.º 96",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.025.01.04",
-    "sancao_acessoria": ""
   },
   {
     "categoria": "Velocidade moderada",
@@ -911,16 +751,6 @@
   },
   {
     "categoria": "Velocidade moderada",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) sem moderar especialmente a velocidade numa localidade (ou em via marginada por edificações).",
-    "infracao": "ARTIGO 25.º n.º 1",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 25.º n.º2 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.025.01.06",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Velocidade moderada",
     "descricao": "Condução de veículo sem moderar especialmente a velocidade em zona de coexistência",
     "infracao": "ARTIGO 25.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -928,16 +758,6 @@
     "classificacao": "GRAVE",
     "codigo": "2.86.025.01.07",
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 e) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
-  },
-  {
-    "categoria": "Velocidade moderada",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) sem moderar especialmente a velocidade em zona de coexistência.",
-    "infracao": "ARTIGO 25.º n.º 1",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 25.º n.º2 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.025.01.08",
-    "sancao_acessoria": ""
   },
   {
     "categoria": "Velocidade moderada",
@@ -951,16 +771,6 @@
   },
   {
     "categoria": "Velocidade moderada",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) sem moderar especialmente a velocidade à aproximação de utilizadores vulneráveis.",
-    "infracao": "ARTIGO 25.º n.º 1",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 25.º n.º2 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.025.01.10",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Velocidade moderada",
     "descricao": "Condução de veículo sem moderar especialmente a velocidade à aproximação de aglomeração de pessoas (ou de animais).",
     "infracao": "ARTIGO 25.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -968,16 +778,6 @@
     "classificacao": "GRAVE",
     "codigo": "2.86.025.01.11",
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 e) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
-  },
-  {
-    "categoria": "Velocidade moderada",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) sem moderar especialmente a velocidade à aproximação de aglomeração de pessoas (ou de animais).",
-    "infracao": "ARTIGO 25.º n.º 1",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 25.º n.º2 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.025.01.12",
-    "sancao_acessoria": ""
   },
   {
     "categoria": "Velocidade moderada",
@@ -991,16 +791,6 @@
   },
   {
     "categoria": "Velocidade moderada",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) sem moderar especialmente a velocidade em descida de inclinação acentuada.",
-    "infracao": "ARTIGO 25.º n.º 1",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 25.º n.º2 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.025.01.14",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Velocidade moderada",
     "descricao": "Condução de veículo sem moderar especialmente a velocidade em curva (ou em cruzamento ou em entroncamento ou em rotunda ou em lomba ou outro local) de visibilidade reduzida.",
     "infracao": "ARTIGO 25.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -1008,16 +798,6 @@
     "classificacao": "GRAVE",
     "codigo": "2.86.025.01.15",
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 e) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
-  },
-  {
-    "categoria": "Velocidade moderada",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) sem moderar especialmente a velocidade em curva (ou em cruzamento ou em entroncamento ou em rotunda ou em lomba ou outro local) de visibilidade reduzida.",
-    "infracao": "ARTIGO 25.º n.º 1",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 25.º n.º2 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.025.01.16",
-    "sancao_acessoria": ""
   },
   {
     "categoria": "Velocidade moderada",
@@ -1031,16 +811,6 @@
   },
   {
     "categoria": "Velocidade moderada",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) sem moderar especialmente a velocidade em ponte (ou em túnel ou em passagem de nível).",
-    "infracao": "ARTIGO 25.º n.º 1",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 25.º n.º2 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.025.01.18",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Velocidade moderada",
     "descricao": "Condução de veículo sem moderar especialmente a velocidade num troço de via em mau estado de conservação (ou molhado ou enlameado ou oferecendo precárias condições de aderência).",
     "infracao": "ARTIGO 25.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -1048,16 +818,6 @@
     "classificacao": "GRAVE",
     "codigo": "2.86.025.01.19",
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 e) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
-  },
-  {
-    "categoria": "Velocidade moderada",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) sem moderar especialmente a velocidade num troço de via em mau estado de conservação (ou molhado ou enlameado ou oferecendo precárias condições de aderência).",
-    "infracao": "ARTIGO 25.º n.º 1",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 25.º n.º2 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.025.01.20",
-    "sancao_acessoria": ""
   },
   {
     "categoria": "Velocidade moderada",
@@ -1071,16 +831,6 @@
   },
   {
     "categoria": "Velocidade moderada",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) sem moderar especialmente a velocidade em local assinalado com sinal de perigo.",
-    "infracao": "ARTIGO 25.º n.º 1",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 25.º n.º2 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.025.01.22",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Velocidade moderada",
     "descricao": "Condução de veículo sem moderar especialmente a velocidade quando exista grande intensidade de trânsito.",
     "infracao": "ARTIGO 25.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -1089,17 +839,7 @@
     "codigo": "2.86.025.01.23",
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 e) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
-  {
-    "categoria": "Velocidade moderada",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) sem moderar especialmente a velocidade quando exista grande intensidade de trânsito.",
-    "infracao": "ARTIGO 25.º n.º 1",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 25.º n.º2 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.025.01.24",
-    "sancao_acessoria": ""
-  },
-  {
+ {
     "categoria": "Marcha lenta",
     "descricao": "Condução de veículo em marcha lenta causando embaraço injustificado aos demais utentes da via.",
     "infracao": "ARTIGO 26.º n.º 1",
@@ -2610,7 +2350,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º i) | Condutor: Inibição de Conduzir 2/24 meses (147.º2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º3)"
   },
   {
-    "categoria": "Princípio geral",
+    "categoria": "Manobras dos Condutores - Cedência de passagem em certas vias ou troços",
     "descricao": "Condução de veículo não cumprindo o dever de ceder passagem, abrandando a marcha (ou parando sendo necessário), de modo a que o outro veículo não altere a sua velocidade (ou direção).",
     "infracao": "ARTIGO 29.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -2620,17 +2360,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147.º2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Princípio geral",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) não cumprindo o dever de ceder passagem, abrandando a marcha (ou parando sendo necessário), de modo a que o outro veículo não altere a sua velocidade (ou direção).",
-    "infracao": "ARTIGO 29.º n.º 1",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 29.º n.º 3 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.029.01.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Princípio geral",
+    "categoria": "Manobras dos Condutores - Cedência de passagem em certas vias ou troços",
     "descricao": "Condução de veículo não cumprindo o dever de ceder passagem, no cruzamento com outro veículo, recuando de forma a permitir a passagem deste.",
     "infracao": "ARTIGO 29.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -2640,7 +2370,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147.º2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Princípio geral",
+    "categoria": "Manobras dos Condutores - Cedência de passagem em certas vias ou troços",
     "descricao": "Condução do veículo com prioridade de passagem sem observar as cautelas necessárias à segurança do trânsito.",
     "infracao": "ARTIGO 29.º n.º 2",
     "coima": "€ 120 a € 600",
@@ -2650,17 +2380,7 @@
     "sancao_acessoria": ""
   },
   {
-    "categoria": "Princípio geral",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) com prioridade de passagem sem observar as cautelas necessárias à segurança do trânsito.",
-    "infracao": "ARTIGO 29.º n.º 2",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 29.º n.º 3 e art.º 96.º",
-    "classificacao": "LEVE",
-    "codigo": "1.86.029.02.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Regra geral",
+    "categoria": "Manobras dos Condutores - Cedência de passagem em certas vias ou troços",
     "descricao": "Condução de veículo não cumprindo o dever de ceder a passagem aos veículos que se apresentam pela direita num cruzamento (ou num entroncamento).",
     "infracao": "ARTIGO 30.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -2670,17 +2390,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147.º2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Regra geral",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) não cumprindo o dever de ceder a passagem aos veículos que se apresentam pela direita num cruzamento (ou num entroncamento).",
-    "infracao": "ARTIGO 30.º n.º 1",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 30.º n.º 2 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.030.01.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Cedência de passagem em certas vias ou troços",
+    "categoria": "Manobras dos Condutores - Cedência de passagem em certas vias ou troços",
     "descricao": "Condução de veículo não cumprindo o dever de ceder a passagem à saída de parque de estacionamento (ou de zona de abastecimento de combustível ou de prédio ou de caminho particular).",
     "infracao": "ARTIGO 31.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -2690,17 +2400,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147.º2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Cedência de passagem em certas vias ou troços",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) não cumprindo o dever de ceder a passagem à saída de parque de estacionamento (ou de zona de abastecimento de combustível ou de prédio ou de caminho particular).",
-    "infracao": "ARTIGO 31.º n.º 1",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 31.º n.º 3 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.031.01.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Cedência de passagem em certas vias ou troços",
+    "categoria": "Manobras dos Condutores - Cedência de passagem em certas vias ou troços",
     "descricao": "Condução de veículo não cumprindo o dever de ceder a passagem ao entrar, por ramal de acesso, em autoestrada (ou em via reservada a automóveis e motociclos).",
     "infracao": "ARTIGO 31.º n.º 1",
     "coima": "€ 250 a € 1250",
@@ -2710,7 +2410,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 146.º h) | Condutor: Inibição de Conduzir 2/24 meses (147.º2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º 3)"
   },
   {
-    "categoria": "Cedência de passagem em certas vias ou troços",
+    "categoria": "Manobras dos Condutores - Cedência de passagem em certas vias ou troços",
     "descricao": "Condução de veículo não cumprindo o dever de ceder a passagem ao entrar numa rotunda.",
     "infracao": "ARTIGO 31.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -2720,17 +2420,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147.º2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Cedência de passagem em certas vias ou troços",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) não cumprindo o dever de ceder a passagem ao entrar numa rotunda.",
-    "infracao": "ARTIGO 31.º n.º 1",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 31.º n.º 3 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.031.01.05",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Cedência de passagem em certas vias ou troços",
+    "categoria": "Manobras dos Condutores - Cedência de passagem em certas vias ou troços",
     "descricao": "Condução de veículo não cumprindo o dever de ceder a passagem a veículo que saia de uma passagem de nível.",
     "infracao": "ARTIGO 31.º n.º 2",
     "coima": "€ 250 a € 1250",
@@ -2740,17 +2430,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147.º2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Cedência de passagem em certas vias ou troços",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) não cumprindo o dever de ceder a passagem a veículo que saia de uma passagem de nível.",
-    "infracao": "ARTIGO 31.º n.º 2",
-    "coima": "€ 125 a € 625",
-    "punicao": "art.º 31.º n.º 4 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.031.02.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Cedência de passagem a certos veículos",
+    "categoria": "Manobras dos Condutores - Cedência de passagem em certas vias ou troços",
     "descricao": "Condução de veículo não cumprindo o dever de ceder a passagem a coluna militar (ou militarizada ou a escolta policial).",
     "infracao": "ARTIGO 32.º n.º 1",
     "coima": "€ 120 a € 600",
@@ -2760,17 +2440,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147.º2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Cedência de passagem a certos veículos",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) não cumprindo o dever de ceder a passagem a coluna militar (ou militarizada ou a escolta policial).",
-    "infracao": "ARTIGO 32.º n.º 1",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 32.º n.º 7 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.032.01.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Cedência de passagem a certos veículos",
+    "categoria": "Manobras dos Condutores - Cedência de passagem em certas vias ou troços",
     "descricao": "Condução de veículo não cumprindo o dever de ceder a passagem num cruzamento (ou num entroncamento) a veículo que se desloque sobre carris.",
     "infracao": "ARTIGO 32.º n.º 2",
     "coima": "€ 120 a € 600",
@@ -2780,17 +2450,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147.º2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Cedência de passagem a certos veículos",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) não cumprindo o dever de ceder a passagem num cruzamento (ou num entroncamento) a veículo que se desloque sobre carris.",
-    "infracao": "ARTIGO 32.º n.º 2",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 32.º n.º 7 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.032.02.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Cedência de passagem a certos veículos",
+    "categoria": "Manobras dos Condutores - Cedência de passagem em certas vias ou troços",
     "descricao": "Condução de veículo não cumprindo o dever de ceder a passagem a velocípede que atravesse a faixa de rodagem na passagem assinalada.",
     "infracao": "ARTIGO 32.º n.º 3",
     "coima": "€ 120 a € 600",
@@ -2800,17 +2460,7 @@
     "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147.º2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
   },
   {
-    "categoria": "Cedência de passagem a certos veículos",
-    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) não cumprindo o dever de ceder a passagem a velocípede que atravesse a faixa de rodagem na passagem assinalada.",
-    "infracao": "ARTIGO 32.º n.º 3",
-    "coima": "€ 60 a € 300",
-    "punicao": "art.º 32.º n.º 7 e art.º 96.º",
-    "classificacao": "GRAVE",
-    "codigo": "2.86.032.03.02",
-    "sancao_acessoria": ""
-  },
-  {
-    "categoria": "Cedência de passagem a certos veículos",
+    "categoria": "Manobras dos Condutores - Cedência de passagem em certas vias ou troços",
     "descricao": "Circulação na via pública de coluna militar (ou militarizada ou escolta policial), tendo prioridade de passagem, sem tomar as precauções necessárias para não embaraçar o trânsito (ou evitar acidente).",
     "infracao": "ARTIGO 32.º n.º 4",
     "coima": "€ 120 a € 600",
